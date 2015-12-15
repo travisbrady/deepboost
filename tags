@@ -1,0 +1,2052 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+AddTreeToModel	boost.cc	/^void AddTreeToModel(vector<Example>& examples, Model* model) {$/;"	f
+BETA	tree.cc	/^#define BETA /;"	d	file:
+BOOST_H_	boost.h	/^#define BOOST_H_$/;"	d
+BestSplitValue	tree.cc	/^void BestSplitValue(const map<Value, pair<Weight, Weight>>& value_to_weights,$/;"	f
+BoostTest	boost_test.cc	/^class BoostTest : public SrmTest {$/;"	c	file:
+CYTHON_ABI	boost.c	/^#define CYTHON_ABI /;"	d	file:
+CYTHON_ABI	boost.cpp	/^#define CYTHON_ABI /;"	d	file:
+CYTHON_ABI	deepboost.c	/^#define CYTHON_ABI /;"	d	file:
+CYTHON_ABI	deepboost.cpp	/^#define CYTHON_ABI /;"	d	file:
+CYTHON_CCOMPLEX	boost.cpp	/^    #define CYTHON_CCOMPLEX /;"	d	file:
+CYTHON_CCOMPLEX	deepboost.c	/^    #define CYTHON_CCOMPLEX /;"	d	file:
+CYTHON_CCOMPLEX	deepboost.cpp	/^    #define CYTHON_CCOMPLEX /;"	d	file:
+CYTHON_COMPILING_IN_CPYTHON	boost.c	/^#define CYTHON_COMPILING_IN_CPYTHON /;"	d	file:
+CYTHON_COMPILING_IN_CPYTHON	boost.cpp	/^#define CYTHON_COMPILING_IN_CPYTHON /;"	d	file:
+CYTHON_COMPILING_IN_CPYTHON	deepboost.c	/^#define CYTHON_COMPILING_IN_CPYTHON /;"	d	file:
+CYTHON_COMPILING_IN_CPYTHON	deepboost.cpp	/^#define CYTHON_COMPILING_IN_CPYTHON /;"	d	file:
+CYTHON_COMPILING_IN_PYPY	boost.c	/^#define CYTHON_COMPILING_IN_PYPY /;"	d	file:
+CYTHON_COMPILING_IN_PYPY	boost.cpp	/^#define CYTHON_COMPILING_IN_PYPY /;"	d	file:
+CYTHON_COMPILING_IN_PYPY	deepboost.c	/^#define CYTHON_COMPILING_IN_PYPY /;"	d	file:
+CYTHON_COMPILING_IN_PYPY	deepboost.cpp	/^#define CYTHON_COMPILING_IN_PYPY /;"	d	file:
+CYTHON_FORMAT_SSIZE_T	boost.c	/^#define CYTHON_FORMAT_SSIZE_T /;"	d	file:
+CYTHON_FORMAT_SSIZE_T	boost.cpp	/^#define CYTHON_FORMAT_SSIZE_T /;"	d	file:
+CYTHON_FORMAT_SSIZE_T	deepboost.c	/^#define CYTHON_FORMAT_SSIZE_T /;"	d	file:
+CYTHON_FORMAT_SSIZE_T	deepboost.cpp	/^#define CYTHON_FORMAT_SSIZE_T /;"	d	file:
+CYTHON_INLINE	boost.c	/^    #define CYTHON_INLINE /;"	d	file:
+CYTHON_INLINE	boost.c	/^    #define CYTHON_INLINE$/;"	d	file:
+CYTHON_INLINE	boost.cpp	/^  #define CYTHON_INLINE /;"	d	file:
+CYTHON_INLINE	deepboost.c	/^    #define CYTHON_INLINE /;"	d	file:
+CYTHON_INLINE	deepboost.c	/^    #define CYTHON_INLINE$/;"	d	file:
+CYTHON_INLINE	deepboost.cpp	/^  #define CYTHON_INLINE /;"	d	file:
+CYTHON_NCP_UNUSED	boost.c	/^#  define CYTHON_NCP_UNUSED /;"	d	file:
+CYTHON_NCP_UNUSED	boost.c	/^#  define CYTHON_NCP_UNUSED$/;"	d	file:
+CYTHON_NCP_UNUSED	boost.cpp	/^#  define CYTHON_NCP_UNUSED /;"	d	file:
+CYTHON_NCP_UNUSED	boost.cpp	/^#  define CYTHON_NCP_UNUSED$/;"	d	file:
+CYTHON_NCP_UNUSED	deepboost.c	/^#  define CYTHON_NCP_UNUSED /;"	d	file:
+CYTHON_NCP_UNUSED	deepboost.c	/^#  define CYTHON_NCP_UNUSED$/;"	d	file:
+CYTHON_NCP_UNUSED	deepboost.cpp	/^#  define CYTHON_NCP_UNUSED /;"	d	file:
+CYTHON_NCP_UNUSED	deepboost.cpp	/^#  define CYTHON_NCP_UNUSED$/;"	d	file:
+CYTHON_PEP393_ENABLED	boost.c	/^  #define CYTHON_PEP393_ENABLED /;"	d	file:
+CYTHON_PEP393_ENABLED	boost.cpp	/^  #define CYTHON_PEP393_ENABLED /;"	d	file:
+CYTHON_PEP393_ENABLED	deepboost.c	/^  #define CYTHON_PEP393_ENABLED /;"	d	file:
+CYTHON_PEP393_ENABLED	deepboost.cpp	/^  #define CYTHON_PEP393_ENABLED /;"	d	file:
+CYTHON_REFNANNY	boost.c	/^  #define CYTHON_REFNANNY /;"	d	file:
+CYTHON_REFNANNY	boost.cpp	/^  #define CYTHON_REFNANNY /;"	d	file:
+CYTHON_REFNANNY	deepboost.c	/^  #define CYTHON_REFNANNY /;"	d	file:
+CYTHON_REFNANNY	deepboost.cpp	/^  #define CYTHON_REFNANNY /;"	d	file:
+CYTHON_RESTRICT	boost.c	/^    #define CYTHON_RESTRICT /;"	d	file:
+CYTHON_RESTRICT	boost.c	/^    #define CYTHON_RESTRICT$/;"	d	file:
+CYTHON_RESTRICT	boost.cpp	/^    #define CYTHON_RESTRICT /;"	d	file:
+CYTHON_RESTRICT	boost.cpp	/^    #define CYTHON_RESTRICT$/;"	d	file:
+CYTHON_RESTRICT	deepboost.c	/^    #define CYTHON_RESTRICT /;"	d	file:
+CYTHON_RESTRICT	deepboost.c	/^    #define CYTHON_RESTRICT$/;"	d	file:
+CYTHON_RESTRICT	deepboost.cpp	/^    #define CYTHON_RESTRICT /;"	d	file:
+CYTHON_RESTRICT	deepboost.cpp	/^    #define CYTHON_RESTRICT$/;"	d	file:
+CYTHON_UNUSED	boost.c	/^#     define CYTHON_UNUSED /;"	d	file:
+CYTHON_UNUSED	boost.c	/^#     define CYTHON_UNUSED$/;"	d	file:
+CYTHON_UNUSED	boost.c	/^#   define CYTHON_UNUSED /;"	d	file:
+CYTHON_UNUSED	boost.c	/^#   define CYTHON_UNUSED$/;"	d	file:
+CYTHON_UNUSED	boost.cpp	/^#     define CYTHON_UNUSED /;"	d	file:
+CYTHON_UNUSED	boost.cpp	/^#     define CYTHON_UNUSED$/;"	d	file:
+CYTHON_UNUSED	boost.cpp	/^#   define CYTHON_UNUSED /;"	d	file:
+CYTHON_UNUSED	boost.cpp	/^#   define CYTHON_UNUSED$/;"	d	file:
+CYTHON_UNUSED	deepboost.c	/^#     define CYTHON_UNUSED /;"	d	file:
+CYTHON_UNUSED	deepboost.c	/^#     define CYTHON_UNUSED$/;"	d	file:
+CYTHON_UNUSED	deepboost.c	/^#   define CYTHON_UNUSED /;"	d	file:
+CYTHON_UNUSED	deepboost.c	/^#   define CYTHON_UNUSED$/;"	d	file:
+CYTHON_UNUSED	deepboost.cpp	/^#     define CYTHON_UNUSED /;"	d	file:
+CYTHON_UNUSED	deepboost.cpp	/^#     define CYTHON_UNUSED$/;"	d	file:
+CYTHON_UNUSED	deepboost.cpp	/^#   define CYTHON_UNUSED /;"	d	file:
+CYTHON_UNUSED	deepboost.cpp	/^#   define CYTHON_UNUSED$/;"	d	file:
+CYTHON_USE_PYLONG_INTERNALS	boost.c	/^#define CYTHON_USE_PYLONG_INTERNALS /;"	d	file:
+CYTHON_USE_PYLONG_INTERNALS	boost.cpp	/^#define CYTHON_USE_PYLONG_INTERNALS /;"	d	file:
+CYTHON_USE_PYLONG_INTERNALS	deepboost.c	/^#define CYTHON_USE_PYLONG_INTERNALS /;"	d	file:
+CYTHON_USE_PYLONG_INTERNALS	deepboost.cpp	/^#define CYTHON_USE_PYLONG_INTERNALS /;"	d	file:
+CYTHON_WITHOUT_ASSERTIONS	boost.c	/^#define CYTHON_WITHOUT_ASSERTIONS$/;"	d	file:
+CYTHON_WITHOUT_ASSERTIONS	boost.cpp	/^#define CYTHON_WITHOUT_ASSERTIONS$/;"	d	file:
+CYTHON_WITHOUT_ASSERTIONS	deepboost.c	/^#define CYTHON_WITHOUT_ASSERTIONS$/;"	d	file:
+CYTHON_WITHOUT_ASSERTIONS	deepboost.cpp	/^#define CYTHON_WITHOUT_ASSERTIONS$/;"	d	file:
+ClassifyExample	boost.cc	/^Label ClassifyExample(const Example& example, const Model& model) {$/;"	f
+ClassifyExample	tree.cc	/^Label ClassifyExample(const Example& example, const Tree& tree) {$/;"	f
+ComplexityPenalty	tree.cc	/^float ComplexityPenalty(int tree_size) {$/;"	f
+ComputeEta	boost.cc	/^float ComputeEta(float wgtd_error, float tree_size, float alpha) {$/;"	f
+DB_LOSS_EXPONENTIAL	types.h	/^enum LossType { DB_LOSS_EXPONENTIAL, DB_LOSS_LOGISTIC };$/;"	e	enum:LossType
+DB_LOSS_LOGISTIC	types.h	/^enum LossType { DB_LOSS_EXPONENTIAL, DB_LOSS_LOGISTIC };$/;"	e	enum:LossType
+DECREF	boost.c	/^    void (*DECREF)(void*, PyObject*, int);$/;"	m	struct:__anon3	file:
+DECREF	boost.cpp	/^    void (*DECREF)(void*, PyObject*, int);$/;"	m	struct:__anon12	file:
+DECREF	deepboost.c	/^    void (*DECREF)(void*, PyObject*, int);$/;"	m	struct:__anon40	file:
+DECREF	deepboost.cpp	/^    void (*DECREF)(void*, PyObject*, int);$/;"	m	struct:__anon68	file:
+DL_EXPORT	boost.c	/^  #define DL_EXPORT(/;"	d	file:
+DL_EXPORT	boost.cpp	/^  #define DL_EXPORT(/;"	d	file:
+DL_EXPORT	deepboost.c	/^  #define DL_EXPORT(/;"	d	file:
+DL_EXPORT	deepboost.cpp	/^  #define DL_EXPORT(/;"	d	file:
+DL_IMPORT	boost.c	/^  #define DL_IMPORT(/;"	d	file:
+DL_IMPORT	boost.cpp	/^  #define DL_IMPORT(/;"	d	file:
+DL_IMPORT	deepboost.c	/^  #define DL_IMPORT(/;"	d	file:
+DL_IMPORT	deepboost.cpp	/^  #define DL_IMPORT(/;"	d	file:
+EvaluateModel	boost.cc	/^void EvaluateModel(const vector<Example>& examples, const Model& model,$/;"	f
+EvaluateTreeWgtd	tree.cc	/^float EvaluateTreeWgtd(const vector<Example>& examples, const Tree& tree) {$/;"	f
+Example	types.h	/^typedef struct Example {$/;"	s
+Example	types.h	/^} Example;$/;"	t	typeref:struct:Example
+Extension	setup.py	/^from distutils.extension import Extension$/;"	i
+Feature	types.h	/^typedef int Feature;$/;"	t
+FinishContext	boost.c	/^    void (*FinishContext)(void**);$/;"	m	struct:__anon3	file:
+FinishContext	boost.cpp	/^    void (*FinishContext)(void**);$/;"	m	struct:__anon12	file:
+FinishContext	deepboost.c	/^    void (*FinishContext)(void**);$/;"	m	struct:__anon40	file:
+FinishContext	deepboost.cpp	/^    void (*FinishContext)(void**);$/;"	m	struct:__anon68	file:
+GIVEREF	boost.c	/^    void (*GIVEREF)(void*, PyObject*, int);$/;"	m	struct:__anon3	file:
+GIVEREF	boost.cpp	/^    void (*GIVEREF)(void*, PyObject*, int);$/;"	m	struct:__anon12	file:
+GIVEREF	deepboost.c	/^    void (*GIVEREF)(void*, PyObject*, int);$/;"	m	struct:__anon40	file:
+GIVEREF	deepboost.cpp	/^    void (*GIVEREF)(void*, PyObject*, int);$/;"	m	struct:__anon68	file:
+GOTREF	boost.c	/^    void (*GOTREF)(void*, PyObject*, int);$/;"	m	struct:__anon3	file:
+GOTREF	boost.cpp	/^    void (*GOTREF)(void*, PyObject*, int);$/;"	m	struct:__anon12	file:
+GOTREF	deepboost.c	/^    void (*GOTREF)(void*, PyObject*, int);$/;"	m	struct:__anon40	file:
+GOTREF	deepboost.cpp	/^    void (*GOTREF)(void*, PyObject*, int);$/;"	m	struct:__anon68	file:
+GTEST_HEADERS	Makefile	/^GTEST_HEADERS = $(LIB_DIR)\/include\/gtest\/*.h \\$/;"	m
+GTEST_SRCS_	Makefile	/^GTEST_SRCS_ = $(LIB_DIR)\/src\/*.cc $(LIB_DIR)\/src\/*.h $(GTEST_HEADERS)$/;"	m
+Gradient	tree.cc	/^float Gradient(float wgtd_error, int tree_size, float alpha, int sign_edge) {$/;"	f
+INCREF	boost.c	/^    void (*INCREF)(void*, PyObject*, int);$/;"	m	struct:__anon3	file:
+INCREF	boost.cpp	/^    void (*INCREF)(void*, PyObject*, int);$/;"	m	struct:__anon12	file:
+INCREF	deepboost.c	/^    void (*INCREF)(void*, PyObject*, int);$/;"	m	struct:__anon40	file:
+INCREF	deepboost.cpp	/^    void (*INCREF)(void*, PyObject*, int);$/;"	m	struct:__anon68	file:
+IO_H_	io.h	/^#define IO_H_$/;"	d
+IS_UNSIGNED	boost.cpp	/^#define IS_UNSIGNED(/;"	d	file:
+IS_UNSIGNED	deepboost.c	/^#define IS_UNSIGNED(/;"	d	file:
+IS_UNSIGNED	deepboost.cpp	/^#define IS_UNSIGNED(/;"	d	file:
+InitializeTreeData	tree.cc	/^void InitializeTreeData(const vector<Example>& examples, float normalizer) {$/;"	f
+IoTest	io_test.cc	/^class IoTest : public SrmTest {};$/;"	c	file:
+LAMBDA	tree.cc	/^#define LAMBDA /;"	d	file:
+LIB_DIR	Makefile	/^LIB_DIR = \/home\/usyed\/googleopensource$/;"	m
+Label	types.h	/^typedef int Label;$/;"	t
+LossType	types.h	/^enum LossType { DB_LOSS_EXPONENTIAL, DB_LOSS_LOGISTIC };$/;"	g
+MakeChildNodes	tree.cc	/^void MakeChildNodes(Feature split_feature, Value split_value, Node* parent,$/;"	f
+MakeRootNode	tree.cc	/^Node MakeRootNode(const vector<Example>& examples) {$/;"	f
+MakeValueToWeightsMap	tree.cc	/^map<Value, pair<Weight, Weight>> MakeValueToWeightsMap(const Node& node,$/;"	f
+Model	types.h	/^typedef struct Model {$/;"	s
+Model	types.h	/^} Model;$/;"	t	typeref:struct:Model
+Node	types.h	/^typedef struct Node {$/;"	s
+Node	types.h	/^} Node;$/;"	t	typeref:struct:Node
+NodeId	types.h	/^typedef int NodeId;$/;"	t
+PY_LONG_LONG	boost.c	/^  #define PY_LONG_LONG /;"	d	file:
+PY_LONG_LONG	boost.cpp	/^  #define PY_LONG_LONG /;"	d	file:
+PY_LONG_LONG	deepboost.c	/^  #define PY_LONG_LONG /;"	d	file:
+PY_LONG_LONG	deepboost.cpp	/^  #define PY_LONG_LONG /;"	d	file:
+PY_SSIZE_T_CLEAN	boost.c	/^#define PY_SSIZE_T_CLEAN$/;"	d	file:
+PY_SSIZE_T_CLEAN	boost.cpp	/^#define PY_SSIZE_T_CLEAN$/;"	d	file:
+PY_SSIZE_T_CLEAN	deepboost.c	/^#define PY_SSIZE_T_CLEAN$/;"	d	file:
+PY_SSIZE_T_CLEAN	deepboost.cpp	/^#define PY_SSIZE_T_CLEAN$/;"	d	file:
+ParseLineBreastCancer	io.cc	/^bool ParseLineBreastCancer(const string& line, Example* example) {$/;"	f
+ParseLineGerman	io.cc	/^bool ParseLineGerman(const string& line, Example* example) {$/;"	f
+ParseLineIon	io.cc	/^bool ParseLineIon(const string& line, Example* example) {$/;"	f
+ParseLineMnist17	io.cc	/^bool ParseLineMnist17(const string& line, Example* example) {$/;"	f
+ParseLineMnist49	io.cc	/^bool ParseLineMnist49(const string& line, Example* example) {$/;"	f
+ParseLineOcr17	io.cc	/^bool ParseLineOcr17(const string& line, Example* example) {$/;"	f
+ParseLineOcr17Princeton	io.cc	/^bool ParseLineOcr17Princeton(const string& line, Example* example) {$/;"	f
+ParseLineOcr49	io.cc	/^bool ParseLineOcr49(const string& line, Example* example) {$/;"	f
+ParseLineOcr49Princeton	io.cc	/^bool ParseLineOcr49Princeton(const string& line, Example* example) {$/;"	f
+ParseLinePima	io.cc	/^bool ParseLinePima(const string& line, Example* example) {$/;"	f
+PyBaseString_Type	boost.c	/^  #define PyBaseString_Type /;"	d	file:
+PyBaseString_Type	boost.cpp	/^  #define PyBaseString_Type /;"	d	file:
+PyBaseString_Type	deepboost.c	/^  #define PyBaseString_Type /;"	d	file:
+PyBaseString_Type	deepboost.cpp	/^  #define PyBaseString_Type /;"	d	file:
+PyBoolObject	boost.c	/^  #define PyBoolObject /;"	d	file:
+PyBoolObject	boost.cpp	/^  #define PyBoolObject /;"	d	file:
+PyBoolObject	deepboost.c	/^  #define PyBoolObject /;"	d	file:
+PyBoolObject	deepboost.cpp	/^  #define PyBoolObject /;"	d	file:
+PyIntObject	boost.c	/^  #define PyIntObject /;"	d	file:
+PyIntObject	boost.cpp	/^  #define PyIntObject /;"	d	file:
+PyIntObject	deepboost.c	/^  #define PyIntObject /;"	d	file:
+PyIntObject	deepboost.cpp	/^  #define PyIntObject /;"	d	file:
+PyInt_AS_LONG	boost.c	/^  #define PyInt_AS_LONG /;"	d	file:
+PyInt_AS_LONG	boost.cpp	/^  #define PyInt_AS_LONG /;"	d	file:
+PyInt_AS_LONG	deepboost.c	/^  #define PyInt_AS_LONG /;"	d	file:
+PyInt_AS_LONG	deepboost.cpp	/^  #define PyInt_AS_LONG /;"	d	file:
+PyInt_AsLong	boost.c	/^  #define PyInt_AsLong /;"	d	file:
+PyInt_AsLong	boost.cpp	/^  #define PyInt_AsLong /;"	d	file:
+PyInt_AsLong	deepboost.c	/^  #define PyInt_AsLong /;"	d	file:
+PyInt_AsLong	deepboost.cpp	/^  #define PyInt_AsLong /;"	d	file:
+PyInt_AsSsize_t	boost.c	/^  #define PyInt_AsSsize_t /;"	d	file:
+PyInt_AsSsize_t	boost.cpp	/^  #define PyInt_AsSsize_t /;"	d	file:
+PyInt_AsSsize_t	deepboost.c	/^  #define PyInt_AsSsize_t /;"	d	file:
+PyInt_AsSsize_t	deepboost.cpp	/^  #define PyInt_AsSsize_t /;"	d	file:
+PyInt_AsUnsignedLongLongMask	boost.c	/^  #define PyInt_AsUnsignedLongLongMask /;"	d	file:
+PyInt_AsUnsignedLongLongMask	boost.cpp	/^  #define PyInt_AsUnsignedLongLongMask /;"	d	file:
+PyInt_AsUnsignedLongLongMask	deepboost.c	/^  #define PyInt_AsUnsignedLongLongMask /;"	d	file:
+PyInt_AsUnsignedLongLongMask	deepboost.cpp	/^  #define PyInt_AsUnsignedLongLongMask /;"	d	file:
+PyInt_AsUnsignedLongMask	boost.c	/^  #define PyInt_AsUnsignedLongMask /;"	d	file:
+PyInt_AsUnsignedLongMask	boost.cpp	/^  #define PyInt_AsUnsignedLongMask /;"	d	file:
+PyInt_AsUnsignedLongMask	deepboost.c	/^  #define PyInt_AsUnsignedLongMask /;"	d	file:
+PyInt_AsUnsignedLongMask	deepboost.cpp	/^  #define PyInt_AsUnsignedLongMask /;"	d	file:
+PyInt_Check	boost.c	/^  #define PyInt_Check(/;"	d	file:
+PyInt_Check	boost.cpp	/^  #define PyInt_Check(/;"	d	file:
+PyInt_Check	deepboost.c	/^  #define PyInt_Check(/;"	d	file:
+PyInt_Check	deepboost.cpp	/^  #define PyInt_Check(/;"	d	file:
+PyInt_CheckExact	boost.c	/^  #define PyInt_CheckExact(/;"	d	file:
+PyInt_CheckExact	boost.cpp	/^  #define PyInt_CheckExact(/;"	d	file:
+PyInt_CheckExact	deepboost.c	/^  #define PyInt_CheckExact(/;"	d	file:
+PyInt_CheckExact	deepboost.cpp	/^  #define PyInt_CheckExact(/;"	d	file:
+PyInt_FromLong	boost.c	/^  #define PyInt_FromLong /;"	d	file:
+PyInt_FromLong	boost.cpp	/^  #define PyInt_FromLong /;"	d	file:
+PyInt_FromLong	deepboost.c	/^  #define PyInt_FromLong /;"	d	file:
+PyInt_FromLong	deepboost.cpp	/^  #define PyInt_FromLong /;"	d	file:
+PyInt_FromSize_t	boost.c	/^  #define PyInt_FromSize_t /;"	d	file:
+PyInt_FromSize_t	boost.cpp	/^  #define PyInt_FromSize_t /;"	d	file:
+PyInt_FromSize_t	deepboost.c	/^  #define PyInt_FromSize_t /;"	d	file:
+PyInt_FromSize_t	deepboost.cpp	/^  #define PyInt_FromSize_t /;"	d	file:
+PyInt_FromSsize_t	boost.c	/^  #define PyInt_FromSsize_t /;"	d	file:
+PyInt_FromSsize_t	boost.cpp	/^  #define PyInt_FromSsize_t /;"	d	file:
+PyInt_FromSsize_t	deepboost.c	/^  #define PyInt_FromSsize_t /;"	d	file:
+PyInt_FromSsize_t	deepboost.cpp	/^  #define PyInt_FromSsize_t /;"	d	file:
+PyInt_FromString	boost.c	/^  #define PyInt_FromString /;"	d	file:
+PyInt_FromString	boost.cpp	/^  #define PyInt_FromString /;"	d	file:
+PyInt_FromString	deepboost.c	/^  #define PyInt_FromString /;"	d	file:
+PyInt_FromString	deepboost.cpp	/^  #define PyInt_FromString /;"	d	file:
+PyInt_FromUnicode	boost.c	/^  #define PyInt_FromUnicode /;"	d	file:
+PyInt_FromUnicode	boost.cpp	/^  #define PyInt_FromUnicode /;"	d	file:
+PyInt_FromUnicode	deepboost.c	/^  #define PyInt_FromUnicode /;"	d	file:
+PyInt_FromUnicode	deepboost.cpp	/^  #define PyInt_FromUnicode /;"	d	file:
+PyInt_Type	boost.c	/^  #define PyInt_Type /;"	d	file:
+PyInt_Type	boost.cpp	/^  #define PyInt_Type /;"	d	file:
+PyInt_Type	deepboost.c	/^  #define PyInt_Type /;"	d	file:
+PyInt_Type	deepboost.cpp	/^  #define PyInt_Type /;"	d	file:
+PyModel	deepboost.pyx	/^cdef class PyModel:$/;"	c
+PyNumber_Int	boost.c	/^  #define PyNumber_Int /;"	d	file:
+PyNumber_Int	boost.cpp	/^  #define PyNumber_Int /;"	d	file:
+PyNumber_Int	deepboost.c	/^  #define PyNumber_Int /;"	d	file:
+PyNumber_Int	deepboost.cpp	/^  #define PyNumber_Int /;"	d	file:
+PySet_CheckExact	boost.c	/^  #define PySet_CheckExact(/;"	d	file:
+PySet_CheckExact	boost.cpp	/^  #define PySet_CheckExact(/;"	d	file:
+PySet_CheckExact	deepboost.c	/^  #define PySet_CheckExact(/;"	d	file:
+PySet_CheckExact	deepboost.cpp	/^  #define PySet_CheckExact(/;"	d	file:
+PyStringObject	boost.c	/^  #define PyStringObject /;"	d	file:
+PyStringObject	boost.cpp	/^  #define PyStringObject /;"	d	file:
+PyStringObject	deepboost.c	/^  #define PyStringObject /;"	d	file:
+PyStringObject	deepboost.cpp	/^  #define PyStringObject /;"	d	file:
+PyString_Check	boost.c	/^  #define PyString_Check /;"	d	file:
+PyString_Check	boost.cpp	/^  #define PyString_Check /;"	d	file:
+PyString_Check	deepboost.c	/^  #define PyString_Check /;"	d	file:
+PyString_Check	deepboost.cpp	/^  #define PyString_Check /;"	d	file:
+PyString_CheckExact	boost.c	/^  #define PyString_CheckExact /;"	d	file:
+PyString_CheckExact	boost.cpp	/^  #define PyString_CheckExact /;"	d	file:
+PyString_CheckExact	deepboost.c	/^  #define PyString_CheckExact /;"	d	file:
+PyString_CheckExact	deepboost.cpp	/^  #define PyString_CheckExact /;"	d	file:
+PyString_Type	boost.c	/^  #define PyString_Type /;"	d	file:
+PyString_Type	boost.cpp	/^  #define PyString_Type /;"	d	file:
+PyString_Type	deepboost.c	/^  #define PyString_Type /;"	d	file:
+PyString_Type	deepboost.cpp	/^  #define PyString_Type /;"	d	file:
+PyUnicode_Contains	boost.c	/^  #define PyUnicode_Contains(/;"	d	file:
+PyUnicode_Contains	boost.cpp	/^  #define PyUnicode_Contains(/;"	d	file:
+PyUnicode_Contains	deepboost.c	/^  #define PyUnicode_Contains(/;"	d	file:
+PyUnicode_Contains	deepboost.cpp	/^  #define PyUnicode_Contains(/;"	d	file:
+PyUnicode_InternFromString	boost.c	/^    #define PyUnicode_InternFromString(/;"	d	file:
+PyUnicode_InternFromString	boost.cpp	/^    #define PyUnicode_InternFromString(/;"	d	file:
+PyUnicode_InternFromString	deepboost.c	/^    #define PyUnicode_InternFromString(/;"	d	file:
+PyUnicode_InternFromString	deepboost.cpp	/^    #define PyUnicode_InternFromString(/;"	d	file:
+Py_HUGE_VAL	boost.c	/^  #define Py_HUGE_VAL /;"	d	file:
+Py_HUGE_VAL	boost.cpp	/^  #define Py_HUGE_VAL /;"	d	file:
+Py_HUGE_VAL	deepboost.c	/^  #define Py_HUGE_VAL /;"	d	file:
+Py_HUGE_VAL	deepboost.cpp	/^  #define Py_HUGE_VAL /;"	d	file:
+Py_OptimizeFlag	boost.c	/^#define Py_OptimizeFlag /;"	d	file:
+Py_OptimizeFlag	boost.cpp	/^#define Py_OptimizeFlag /;"	d	file:
+Py_OptimizeFlag	deepboost.c	/^#define Py_OptimizeFlag /;"	d	file:
+Py_OptimizeFlag	deepboost.cpp	/^#define Py_OptimizeFlag /;"	d	file:
+Py_TPFLAGS_CHECKTYPES	boost.c	/^  #define Py_TPFLAGS_CHECKTYPES /;"	d	file:
+Py_TPFLAGS_CHECKTYPES	boost.cpp	/^  #define Py_TPFLAGS_CHECKTYPES /;"	d	file:
+Py_TPFLAGS_CHECKTYPES	deepboost.c	/^  #define Py_TPFLAGS_CHECKTYPES /;"	d	file:
+Py_TPFLAGS_CHECKTYPES	deepboost.cpp	/^  #define Py_TPFLAGS_CHECKTYPES /;"	d	file:
+Py_TPFLAGS_HAVE_FINALIZE	boost.c	/^  #define Py_TPFLAGS_HAVE_FINALIZE /;"	d	file:
+Py_TPFLAGS_HAVE_FINALIZE	boost.cpp	/^  #define Py_TPFLAGS_HAVE_FINALIZE /;"	d	file:
+Py_TPFLAGS_HAVE_FINALIZE	deepboost.c	/^  #define Py_TPFLAGS_HAVE_FINALIZE /;"	d	file:
+Py_TPFLAGS_HAVE_FINALIZE	deepboost.cpp	/^  #define Py_TPFLAGS_HAVE_FINALIZE /;"	d	file:
+Py_TPFLAGS_HAVE_INDEX	boost.c	/^  #define Py_TPFLAGS_HAVE_INDEX /;"	d	file:
+Py_TPFLAGS_HAVE_INDEX	boost.cpp	/^  #define Py_TPFLAGS_HAVE_INDEX /;"	d	file:
+Py_TPFLAGS_HAVE_INDEX	deepboost.c	/^  #define Py_TPFLAGS_HAVE_INDEX /;"	d	file:
+Py_TPFLAGS_HAVE_INDEX	deepboost.cpp	/^  #define Py_TPFLAGS_HAVE_INDEX /;"	d	file:
+Py_TPFLAGS_HAVE_NEWBUFFER	boost.c	/^  #define Py_TPFLAGS_HAVE_NEWBUFFER /;"	d	file:
+Py_TPFLAGS_HAVE_NEWBUFFER	boost.cpp	/^  #define Py_TPFLAGS_HAVE_NEWBUFFER /;"	d	file:
+Py_TPFLAGS_HAVE_NEWBUFFER	deepboost.c	/^  #define Py_TPFLAGS_HAVE_NEWBUFFER /;"	d	file:
+Py_TPFLAGS_HAVE_NEWBUFFER	deepboost.cpp	/^  #define Py_TPFLAGS_HAVE_NEWBUFFER /;"	d	file:
+Py_hash_t	boost.c	/^  typedef long Py_hash_t;$/;"	t	file:
+Py_hash_t	boost.cpp	/^  typedef long Py_hash_t;$/;"	t	file:
+Py_hash_t	deepboost.c	/^  typedef long Py_hash_t;$/;"	t	file:
+Py_hash_t	deepboost.cpp	/^  typedef long Py_hash_t;$/;"	t	file:
+ReadData	io.cc	/^void ReadData(vector<Example>* train_examples,$/;"	f
+SRM_TEST_H_	srm_test.h	/^#define SRM_TEST_H_$/;"	d
+SetUp	boost_test.cc	/^  virtual void SetUp() {$/;"	f	class:BoostTest
+SetUp	srm_test.h	/^  virtual void SetUp() {$/;"	f	class:SrmTest
+SetUp	tree_test.cc	/^  virtual void SetUp() {$/;"	f	class:TreeTest
+SetupContext	boost.c	/^    void* (*SetupContext)(const char*, int, const char*);$/;"	m	struct:__anon3	file:
+SetupContext	boost.cpp	/^    void* (*SetupContext)(const char*, int, const char*);$/;"	m	struct:__anon12	file:
+SetupContext	deepboost.c	/^    void* (*SetupContext)(const char*, int, const char*);$/;"	m	struct:__anon40	file:
+SetupContext	deepboost.cpp	/^    void* (*SetupContext)(const char*, int, const char*);$/;"	m	struct:__anon68	file:
+SplitString	io.cc	/^void SplitString(const string &text, char sep, vector<string>* tokens) {$/;"	f
+SrmTest	srm_test.h	/^class SrmTest : public ::testing::Test {$/;"	c
+TESTS	Makefile	/^TESTS = tree_test boost_test io_test$/;"	m
+TEST_F	boost_test.cc	/^TEST_F(BoostTest, ComputeEtaTest) {$/;"	f
+TEST_F	boost_test.cc	/^TEST_F(BoostTest, TestAddTreeToModel) {$/;"	f
+TEST_F	boost_test.cc	/^TEST_F(BoostTest, TestAddTreeToModelLargeBeta) {$/;"	f
+TEST_F	boost_test.cc	/^TEST_F(BoostTest, TestAddTreeToModelLargeLambda) {$/;"	f
+TEST_F	boost_test.cc	/^TEST_F(BoostTest, TestAddTreeToModelLogisticLoss) {$/;"	f
+TEST_F	boost_test.cc	/^TEST_F(BoostTest, TestClassifyExampleDepthOne) {$/;"	f
+TEST_F	boost_test.cc	/^TEST_F(BoostTest, TestClassifyExampleDepthTwo) {$/;"	f
+TEST_F	boost_test.cc	/^TEST_F(BoostTest, TestClassifyExampleEmptyModel) {$/;"	f
+TEST_F	boost_test.cc	/^TEST_F(BoostTest, TestEvaluateModelDepthOne) {$/;"	f
+TEST_F	boost_test.cc	/^TEST_F(BoostTest, TestEvaluateModelDepthTwo) {$/;"	f
+TEST_F	io_test.cc	/^TEST_F(IoTest, ParseLineBreastCancerTest) {$/;"	f
+TEST_F	io_test.cc	/^TEST_F(IoTest, ParseLineGermanTest) {$/;"	f
+TEST_F	io_test.cc	/^TEST_F(IoTest, ParseLineIonTest) {$/;"	f
+TEST_F	io_test.cc	/^TEST_F(IoTest, ParseLineMnist17Test) {$/;"	f
+TEST_F	io_test.cc	/^TEST_F(IoTest, ParseLineMnist49Test) {$/;"	f
+TEST_F	io_test.cc	/^TEST_F(IoTest, ParseLineOcr17PrincetonTest) {$/;"	f
+TEST_F	io_test.cc	/^TEST_F(IoTest, ParseLineOcr17Test) {$/;"	f
+TEST_F	io_test.cc	/^TEST_F(IoTest, ParseLineOcr49PrincetonTest) {$/;"	f
+TEST_F	io_test.cc	/^TEST_F(IoTest, ParseLineOcr49Test) {$/;"	f
+TEST_F	io_test.cc	/^TEST_F(IoTest, ParseLinePimaTest) {$/;"	f
+TEST_F	io_test.cc	/^TEST_F(IoTest, ReadDataTest) {$/;"	f
+TEST_F	io_test.cc	/^TEST_F(IoTest, ReadDataTestWithNoise) {$/;"	f
+TEST_F	io_test.cc	/^TEST_F(IoTest, SplitStringTest) {$/;"	f
+TEST_F	tree_test.cc	/^TEST_F(TreeTest, GradientTest) {$/;"	f
+TEST_F	tree_test.cc	/^TEST_F(TreeTest, TestBestSplitValue) {$/;"	f
+TEST_F	tree_test.cc	/^TEST_F(TreeTest, TestClassifyExample) {$/;"	f
+TEST_F	tree_test.cc	/^TEST_F(TreeTest, TestComplexityPenalty) {$/;"	f
+TEST_F	tree_test.cc	/^TEST_F(TreeTest, TestEvaluateTreeWgtd) {$/;"	f
+TEST_F	tree_test.cc	/^TEST_F(TreeTest, TestMakeChildNodes) {$/;"	f
+TEST_F	tree_test.cc	/^TEST_F(TreeTest, TestMakeRootNode) {$/;"	f
+TEST_F	tree_test.cc	/^TEST_F(TreeTest, TestMakeValueToWeightsMap) {$/;"	f
+TEST_F	tree_test.cc	/^TEST_F(TreeTest, TestTrainTree) {$/;"	f
+TREE_DEPTH	tree.cc	/^#define TREE_DEPTH /;"	d	file:
+TREE_H_	tree.h	/^#define TREE_H_$/;"	d
+TYPES_H_	types.h	/^#define TYPES_H_$/;"	d
+TrainTree	tree.cc	/^Tree TrainTree(const vector<Example>& examples) {$/;"	f
+Tree	types.h	/^typedef vector<Node> Tree;$/;"	t
+TreeTest	tree_test.cc	/^class TreeTest : public SrmTest {$/;"	c	file:
+USER_DIR	Makefile	/^USER_DIR = .$/;"	m
+ValidateFlags	driver.cc	/^void ValidateFlags() {$/;"	f
+Value	types.h	/^typedef float Value;$/;"	t
+Weight	types.h	/^typedef float Weight;$/;"	t
+_Complex_I	boost.cpp	/^  #define _Complex_I /;"	d	file:
+_Complex_I	boost.cpp	/^  #undef _Complex_I$/;"	d	file:
+_Complex_I	deepboost.c	/^  #define _Complex_I /;"	d	file:
+_Complex_I	deepboost.c	/^  #undef _Complex_I$/;"	d	file:
+_Complex_I	deepboost.cpp	/^  #define _Complex_I /;"	d	file:
+_Complex_I	deepboost.cpp	/^  #undef _Complex_I$/;"	d	file:
+_USE_MATH_DEFINES	boost.c	/^  #define _USE_MATH_DEFINES$/;"	d	file:
+_USE_MATH_DEFINES	boost.cpp	/^  #define _USE_MATH_DEFINES$/;"	d	file:
+_USE_MATH_DEFINES	deepboost.c	/^  #define _USE_MATH_DEFINES$/;"	d	file:
+_USE_MATH_DEFINES	deepboost.cpp	/^  #define _USE_MATH_DEFINES$/;"	d	file:
+__PYX_BUF_FLAGS_PACKED_STRUCT	boost.cpp	/^#define __PYX_BUF_FLAGS_PACKED_STRUCT /;"	d	file:
+__PYX_BUF_FLAGS_PACKED_STRUCT	deepboost.c	/^#define __PYX_BUF_FLAGS_PACKED_STRUCT /;"	d	file:
+__PYX_BUF_FLAGS_PACKED_STRUCT	deepboost.cpp	/^#define __PYX_BUF_FLAGS_PACKED_STRUCT /;"	d	file:
+__PYX_BUILD_PY_SSIZE_T	boost.c	/^#define __PYX_BUILD_PY_SSIZE_T /;"	d	file:
+__PYX_BUILD_PY_SSIZE_T	boost.cpp	/^#define __PYX_BUILD_PY_SSIZE_T /;"	d	file:
+__PYX_BUILD_PY_SSIZE_T	deepboost.c	/^#define __PYX_BUILD_PY_SSIZE_T /;"	d	file:
+__PYX_BUILD_PY_SSIZE_T	deepboost.cpp	/^#define __PYX_BUILD_PY_SSIZE_T /;"	d	file:
+__PYX_DEFAULT_STRING_ENCODING	boost.c	/^#define __PYX_DEFAULT_STRING_ENCODING /;"	d	file:
+__PYX_DEFAULT_STRING_ENCODING	boost.c	/^static char* __PYX_DEFAULT_STRING_ENCODING;$/;"	v	file:
+__PYX_DEFAULT_STRING_ENCODING	boost.cpp	/^#define __PYX_DEFAULT_STRING_ENCODING /;"	d	file:
+__PYX_DEFAULT_STRING_ENCODING	boost.cpp	/^static char* __PYX_DEFAULT_STRING_ENCODING;$/;"	v	file:
+__PYX_DEFAULT_STRING_ENCODING	deepboost.c	/^#define __PYX_DEFAULT_STRING_ENCODING /;"	d	file:
+__PYX_DEFAULT_STRING_ENCODING	deepboost.c	/^static char* __PYX_DEFAULT_STRING_ENCODING;$/;"	v	file:
+__PYX_DEFAULT_STRING_ENCODING	deepboost.cpp	/^#define __PYX_DEFAULT_STRING_ENCODING /;"	d	file:
+__PYX_DEFAULT_STRING_ENCODING	deepboost.cpp	/^static char* __PYX_DEFAULT_STRING_ENCODING;$/;"	v	file:
+__PYX_DEFAULT_STRING_ENCODING_IS_ASCII	boost.c	/^#define __PYX_DEFAULT_STRING_ENCODING_IS_ASCII /;"	d	file:
+__PYX_DEFAULT_STRING_ENCODING_IS_ASCII	boost.cpp	/^#define __PYX_DEFAULT_STRING_ENCODING_IS_ASCII /;"	d	file:
+__PYX_DEFAULT_STRING_ENCODING_IS_ASCII	deepboost.c	/^#define __PYX_DEFAULT_STRING_ENCODING_IS_ASCII /;"	d	file:
+__PYX_DEFAULT_STRING_ENCODING_IS_ASCII	deepboost.cpp	/^#define __PYX_DEFAULT_STRING_ENCODING_IS_ASCII /;"	d	file:
+__PYX_DEFAULT_STRING_ENCODING_IS_DEFAULT	boost.c	/^#define __PYX_DEFAULT_STRING_ENCODING_IS_DEFAULT /;"	d	file:
+__PYX_DEFAULT_STRING_ENCODING_IS_DEFAULT	boost.cpp	/^#define __PYX_DEFAULT_STRING_ENCODING_IS_DEFAULT /;"	d	file:
+__PYX_DEFAULT_STRING_ENCODING_IS_DEFAULT	deepboost.c	/^#define __PYX_DEFAULT_STRING_ENCODING_IS_DEFAULT /;"	d	file:
+__PYX_DEFAULT_STRING_ENCODING_IS_DEFAULT	deepboost.cpp	/^#define __PYX_DEFAULT_STRING_ENCODING_IS_DEFAULT /;"	d	file:
+__PYX_EXTERN_C	boost.c	/^    #define __PYX_EXTERN_C /;"	d	file:
+__PYX_EXTERN_C	boost.cpp	/^    #define __PYX_EXTERN_C /;"	d	file:
+__PYX_EXTERN_C	deepboost.c	/^    #define __PYX_EXTERN_C /;"	d	file:
+__PYX_EXTERN_C	deepboost.cpp	/^    #define __PYX_EXTERN_C /;"	d	file:
+__PYX_HAVE_API__boost	boost.c	/^#define __PYX_HAVE_API__boost$/;"	d	file:
+__PYX_HAVE_API__boost	boost.cpp	/^#define __PYX_HAVE_API__boost$/;"	d	file:
+__PYX_HAVE_API__deepboost	deepboost.c	/^#define __PYX_HAVE_API__deepboost$/;"	d	file:
+__PYX_HAVE_API__deepboost	deepboost.cpp	/^#define __PYX_HAVE_API__deepboost$/;"	d	file:
+__PYX_HAVE_RT_ImportModule	boost.cpp	/^#define __PYX_HAVE_RT_ImportModule$/;"	d	file:
+__PYX_HAVE_RT_ImportModule	deepboost.c	/^#define __PYX_HAVE_RT_ImportModule$/;"	d	file:
+__PYX_HAVE_RT_ImportModule	deepboost.cpp	/^#define __PYX_HAVE_RT_ImportModule$/;"	d	file:
+__PYX_HAVE_RT_ImportType	boost.cpp	/^#define __PYX_HAVE_RT_ImportType$/;"	d	file:
+__PYX_HAVE_RT_ImportType	deepboost.c	/^#define __PYX_HAVE_RT_ImportType$/;"	d	file:
+__PYX_HAVE_RT_ImportType	deepboost.cpp	/^#define __PYX_HAVE_RT_ImportType$/;"	d	file:
+__PYX_HAVE__boost	boost.c	/^#define __PYX_HAVE__boost$/;"	d	file:
+__PYX_HAVE__boost	boost.cpp	/^#define __PYX_HAVE__boost$/;"	d	file:
+__PYX_HAVE__deepboost	deepboost.c	/^#define __PYX_HAVE__deepboost$/;"	d	file:
+__PYX_HAVE__deepboost	deepboost.cpp	/^#define __PYX_HAVE__deepboost$/;"	d	file:
+__PYX_NAN	boost.c	/^#define __PYX_NAN(/;"	d	file:
+__PYX_NAN	boost.c	/^static CYTHON_INLINE float __PYX_NAN() {$/;"	f	file:
+__PYX_NAN	boost.cpp	/^#define __PYX_NAN(/;"	d	file:
+__PYX_NAN	boost.cpp	/^static CYTHON_INLINE float __PYX_NAN() {$/;"	f	file:
+__PYX_NAN	deepboost.c	/^#define __PYX_NAN(/;"	d	file:
+__PYX_NAN	deepboost.c	/^static CYTHON_INLINE float __PYX_NAN() {$/;"	f	file:
+__PYX_NAN	deepboost.cpp	/^#define __PYX_NAN(/;"	d	file:
+__PYX_NAN	deepboost.cpp	/^static CYTHON_INLINE float __PYX_NAN() {$/;"	f	file:
+__PYX_VERIFY_RETURN_INT	boost.c	/^#define __PYX_VERIFY_RETURN_INT(/;"	d	file:
+__PYX_VERIFY_RETURN_INT	boost.cpp	/^#define __PYX_VERIFY_RETURN_INT(/;"	d	file:
+__PYX_VERIFY_RETURN_INT	deepboost.c	/^#define __PYX_VERIFY_RETURN_INT(/;"	d	file:
+__PYX_VERIFY_RETURN_INT	deepboost.cpp	/^#define __PYX_VERIFY_RETURN_INT(/;"	d	file:
+__PYX_VERIFY_RETURN_INT_EXC	boost.c	/^#define __PYX_VERIFY_RETURN_INT_EXC(/;"	d	file:
+__PYX_VERIFY_RETURN_INT_EXC	boost.cpp	/^#define __PYX_VERIFY_RETURN_INT_EXC(/;"	d	file:
+__PYX_VERIFY_RETURN_INT_EXC	deepboost.c	/^#define __PYX_VERIFY_RETURN_INT_EXC(/;"	d	file:
+__PYX_VERIFY_RETURN_INT_EXC	deepboost.cpp	/^#define __PYX_VERIFY_RETURN_INT_EXC(/;"	d	file:
+__PYX__VERIFY_RETURN_INT	boost.c	/^#define __PYX__VERIFY_RETURN_INT(/;"	d	file:
+__PYX__VERIFY_RETURN_INT	boost.cpp	/^#define __PYX__VERIFY_RETURN_INT(/;"	d	file:
+__PYX__VERIFY_RETURN_INT	deepboost.c	/^#define __PYX__VERIFY_RETURN_INT(/;"	d	file:
+__PYX__VERIFY_RETURN_INT	deepboost.cpp	/^#define __PYX__VERIFY_RETURN_INT(/;"	d	file:
+__Pyx_AddTraceback	boost.c	/^static void __Pyx_AddTraceback(const char *funcname, int c_line,$/;"	f	file:
+__Pyx_AddTraceback	boost.cpp	/^static void __Pyx_AddTraceback(const char *funcname, int c_line,$/;"	f	file:
+__Pyx_AddTraceback	deepboost.c	/^static void __Pyx_AddTraceback(const char *funcname, int c_line,$/;"	f	file:
+__Pyx_AddTraceback	deepboost.cpp	/^static void __Pyx_AddTraceback(const char *funcname, int c_line,$/;"	f	file:
+__Pyx_ArgTypeTest	boost.cpp	/^static CYTHON_INLINE int __Pyx_ArgTypeTest(PyObject *obj, PyTypeObject *type, int none_allowed,$/;"	f	file:
+__Pyx_ArgTypeTest	deepboost.c	/^static CYTHON_INLINE int __Pyx_ArgTypeTest(PyObject *obj, PyTypeObject *type, int none_allowed,$/;"	f	file:
+__Pyx_ArgTypeTest	deepboost.cpp	/^static CYTHON_INLINE int __Pyx_ArgTypeTest(PyObject *obj, PyTypeObject *type, int none_allowed,$/;"	f	file:
+__Pyx_BUILTIN_MODULE_NAME	boost.c	/^  #define __Pyx_BUILTIN_MODULE_NAME /;"	d	file:
+__Pyx_BUILTIN_MODULE_NAME	boost.cpp	/^  #define __Pyx_BUILTIN_MODULE_NAME /;"	d	file:
+__Pyx_BUILTIN_MODULE_NAME	deepboost.c	/^  #define __Pyx_BUILTIN_MODULE_NAME /;"	d	file:
+__Pyx_BUILTIN_MODULE_NAME	deepboost.cpp	/^  #define __Pyx_BUILTIN_MODULE_NAME /;"	d	file:
+__Pyx_BufFmt_CheckString	boost.cpp	/^static const char* __Pyx_BufFmt_CheckString(__Pyx_BufFmt_Context* ctx, const char* ts) {$/;"	f	file:
+__Pyx_BufFmt_CheckString	deepboost.c	/^static const char* __Pyx_BufFmt_CheckString(__Pyx_BufFmt_Context* ctx, const char* ts) {$/;"	f	file:
+__Pyx_BufFmt_CheckString	deepboost.cpp	/^static const char* __Pyx_BufFmt_CheckString(__Pyx_BufFmt_Context* ctx, const char* ts) {$/;"	f	file:
+__Pyx_BufFmt_Context	boost.cpp	/^} __Pyx_BufFmt_Context;$/;"	t	typeref:struct:__anon9	file:
+__Pyx_BufFmt_Context	deepboost.c	/^} __Pyx_BufFmt_Context;$/;"	t	typeref:struct:__anon37	file:
+__Pyx_BufFmt_Context	deepboost.cpp	/^} __Pyx_BufFmt_Context;$/;"	t	typeref:struct:__anon65	file:
+__Pyx_BufFmt_DescribeTypeChar	boost.cpp	/^static const char* __Pyx_BufFmt_DescribeTypeChar(char ch, int is_complex) {$/;"	f	file:
+__Pyx_BufFmt_DescribeTypeChar	deepboost.c	/^static const char* __Pyx_BufFmt_DescribeTypeChar(char ch, int is_complex) {$/;"	f	file:
+__Pyx_BufFmt_DescribeTypeChar	deepboost.cpp	/^static const char* __Pyx_BufFmt_DescribeTypeChar(char ch, int is_complex) {$/;"	f	file:
+__Pyx_BufFmt_ExpectNumber	boost.cpp	/^static int __Pyx_BufFmt_ExpectNumber(const char **ts) {$/;"	f	file:
+__Pyx_BufFmt_ExpectNumber	deepboost.c	/^static int __Pyx_BufFmt_ExpectNumber(const char **ts) {$/;"	f	file:
+__Pyx_BufFmt_ExpectNumber	deepboost.cpp	/^static int __Pyx_BufFmt_ExpectNumber(const char **ts) {$/;"	f	file:
+__Pyx_BufFmt_Init	boost.cpp	/^static void __Pyx_BufFmt_Init(__Pyx_BufFmt_Context* ctx,$/;"	f	file:
+__Pyx_BufFmt_Init	deepboost.c	/^static void __Pyx_BufFmt_Init(__Pyx_BufFmt_Context* ctx,$/;"	f	file:
+__Pyx_BufFmt_Init	deepboost.cpp	/^static void __Pyx_BufFmt_Init(__Pyx_BufFmt_Context* ctx,$/;"	f	file:
+__Pyx_BufFmt_ParseNumber	boost.cpp	/^static int __Pyx_BufFmt_ParseNumber(const char** ts) {$/;"	f	file:
+__Pyx_BufFmt_ParseNumber	deepboost.c	/^static int __Pyx_BufFmt_ParseNumber(const char** ts) {$/;"	f	file:
+__Pyx_BufFmt_ParseNumber	deepboost.cpp	/^static int __Pyx_BufFmt_ParseNumber(const char** ts) {$/;"	f	file:
+__Pyx_BufFmt_ProcessTypeChunk	boost.cpp	/^static int __Pyx_BufFmt_ProcessTypeChunk(__Pyx_BufFmt_Context* ctx) {$/;"	f	file:
+__Pyx_BufFmt_ProcessTypeChunk	deepboost.c	/^static int __Pyx_BufFmt_ProcessTypeChunk(__Pyx_BufFmt_Context* ctx) {$/;"	f	file:
+__Pyx_BufFmt_ProcessTypeChunk	deepboost.cpp	/^static int __Pyx_BufFmt_ProcessTypeChunk(__Pyx_BufFmt_Context* ctx) {$/;"	f	file:
+__Pyx_BufFmt_RaiseExpected	boost.cpp	/^static void __Pyx_BufFmt_RaiseExpected(__Pyx_BufFmt_Context* ctx) {$/;"	f	file:
+__Pyx_BufFmt_RaiseExpected	deepboost.c	/^static void __Pyx_BufFmt_RaiseExpected(__Pyx_BufFmt_Context* ctx) {$/;"	f	file:
+__Pyx_BufFmt_RaiseExpected	deepboost.cpp	/^static void __Pyx_BufFmt_RaiseExpected(__Pyx_BufFmt_Context* ctx) {$/;"	f	file:
+__Pyx_BufFmt_RaiseUnexpectedChar	boost.cpp	/^static void __Pyx_BufFmt_RaiseUnexpectedChar(char ch) {$/;"	f	file:
+__Pyx_BufFmt_RaiseUnexpectedChar	deepboost.c	/^static void __Pyx_BufFmt_RaiseUnexpectedChar(char ch) {$/;"	f	file:
+__Pyx_BufFmt_RaiseUnexpectedChar	deepboost.cpp	/^static void __Pyx_BufFmt_RaiseUnexpectedChar(char ch) {$/;"	f	file:
+__Pyx_BufFmt_StackElem	boost.cpp	/^} __Pyx_BufFmt_StackElem;$/;"	t	typeref:struct:__anon8	file:
+__Pyx_BufFmt_StackElem	deepboost.c	/^} __Pyx_BufFmt_StackElem;$/;"	t	typeref:struct:__anon36	file:
+__Pyx_BufFmt_StackElem	deepboost.cpp	/^} __Pyx_BufFmt_StackElem;$/;"	t	typeref:struct:__anon64	file:
+__Pyx_BufFmt_TypeCharToAlignment	boost.cpp	/^static size_t __Pyx_BufFmt_TypeCharToAlignment(char ch, CYTHON_UNUSED int is_complex) {$/;"	f	file:
+__Pyx_BufFmt_TypeCharToAlignment	deepboost.c	/^static size_t __Pyx_BufFmt_TypeCharToAlignment(char ch, CYTHON_UNUSED int is_complex) {$/;"	f	file:
+__Pyx_BufFmt_TypeCharToAlignment	deepboost.cpp	/^static size_t __Pyx_BufFmt_TypeCharToAlignment(char ch, CYTHON_UNUSED int is_complex) {$/;"	f	file:
+__Pyx_BufFmt_TypeCharToGroup	boost.cpp	/^static char __Pyx_BufFmt_TypeCharToGroup(char ch, int is_complex) {$/;"	f	file:
+__Pyx_BufFmt_TypeCharToGroup	deepboost.c	/^static char __Pyx_BufFmt_TypeCharToGroup(char ch, int is_complex) {$/;"	f	file:
+__Pyx_BufFmt_TypeCharToGroup	deepboost.cpp	/^static char __Pyx_BufFmt_TypeCharToGroup(char ch, int is_complex) {$/;"	f	file:
+__Pyx_BufFmt_TypeCharToNativeSize	boost.cpp	/^static size_t __Pyx_BufFmt_TypeCharToNativeSize(char ch, int is_complex) {$/;"	f	file:
+__Pyx_BufFmt_TypeCharToNativeSize	deepboost.c	/^static size_t __Pyx_BufFmt_TypeCharToNativeSize(char ch, int is_complex) {$/;"	f	file:
+__Pyx_BufFmt_TypeCharToNativeSize	deepboost.cpp	/^static size_t __Pyx_BufFmt_TypeCharToNativeSize(char ch, int is_complex) {$/;"	f	file:
+__Pyx_BufFmt_TypeCharToPadding	boost.cpp	/^static size_t __Pyx_BufFmt_TypeCharToPadding(char ch, CYTHON_UNUSED int is_complex) {$/;"	f	file:
+__Pyx_BufFmt_TypeCharToPadding	deepboost.c	/^static size_t __Pyx_BufFmt_TypeCharToPadding(char ch, CYTHON_UNUSED int is_complex) {$/;"	f	file:
+__Pyx_BufFmt_TypeCharToPadding	deepboost.cpp	/^static size_t __Pyx_BufFmt_TypeCharToPadding(char ch, CYTHON_UNUSED int is_complex) {$/;"	f	file:
+__Pyx_BufFmt_TypeCharToStandardSize	boost.cpp	/^static size_t __Pyx_BufFmt_TypeCharToStandardSize(char ch, int is_complex) {$/;"	f	file:
+__Pyx_BufFmt_TypeCharToStandardSize	deepboost.c	/^static size_t __Pyx_BufFmt_TypeCharToStandardSize(char ch, int is_complex) {$/;"	f	file:
+__Pyx_BufFmt_TypeCharToStandardSize	deepboost.cpp	/^static size_t __Pyx_BufFmt_TypeCharToStandardSize(char ch, int is_complex) {$/;"	f	file:
+__Pyx_BufPtrCContig1d	boost.cpp	/^#define __Pyx_BufPtrCContig1d(/;"	d	file:
+__Pyx_BufPtrCContig1d	deepboost.c	/^#define __Pyx_BufPtrCContig1d(/;"	d	file:
+__Pyx_BufPtrCContig1d	deepboost.cpp	/^#define __Pyx_BufPtrCContig1d(/;"	d	file:
+__Pyx_BufPtrCContig2d	boost.cpp	/^#define __Pyx_BufPtrCContig2d(/;"	d	file:
+__Pyx_BufPtrCContig2d	deepboost.c	/^#define __Pyx_BufPtrCContig2d(/;"	d	file:
+__Pyx_BufPtrCContig2d	deepboost.cpp	/^#define __Pyx_BufPtrCContig2d(/;"	d	file:
+__Pyx_Buf_DimInfo	boost.cpp	/^} __Pyx_Buf_DimInfo;$/;"	t	typeref:struct:__anon14	file:
+__Pyx_Buf_DimInfo	deepboost.c	/^} __Pyx_Buf_DimInfo;$/;"	t	typeref:struct:__anon42	file:
+__Pyx_Buf_DimInfo	deepboost.cpp	/^} __Pyx_Buf_DimInfo;$/;"	t	typeref:struct:__anon70	file:
+__Pyx_Buffer	boost.cpp	/^} __Pyx_Buffer;$/;"	t	typeref:struct:__anon15	file:
+__Pyx_Buffer	deepboost.c	/^} __Pyx_Buffer;$/;"	t	typeref:struct:__anon43	file:
+__Pyx_Buffer	deepboost.cpp	/^} __Pyx_Buffer;$/;"	t	typeref:struct:__anon71	file:
+__Pyx_CIMAG	boost.cpp	/^    #define __Pyx_CIMAG(/;"	d	file:
+__Pyx_CIMAG	deepboost.c	/^    #define __Pyx_CIMAG(/;"	d	file:
+__Pyx_CIMAG	deepboost.cpp	/^    #define __Pyx_CIMAG(/;"	d	file:
+__Pyx_CLEAR	boost.c	/^#define __Pyx_CLEAR(/;"	d	file:
+__Pyx_CLEAR	boost.cpp	/^#define __Pyx_CLEAR(/;"	d	file:
+__Pyx_CLEAR	deepboost.c	/^#define __Pyx_CLEAR(/;"	d	file:
+__Pyx_CLEAR	deepboost.cpp	/^#define __Pyx_CLEAR(/;"	d	file:
+__Pyx_CREAL	boost.cpp	/^    #define __Pyx_CREAL(/;"	d	file:
+__Pyx_CREAL	deepboost.c	/^    #define __Pyx_CREAL(/;"	d	file:
+__Pyx_CREAL	deepboost.cpp	/^    #define __Pyx_CREAL(/;"	d	file:
+__Pyx_CheckKeywordStrings	deepboost.cpp	/^static CYTHON_INLINE int __Pyx_CheckKeywordStrings($/;"	f	file:
+__Pyx_CodeObjectCache	boost.c	/^struct __Pyx_CodeObjectCache {$/;"	s	file:
+__Pyx_CodeObjectCache	boost.cpp	/^struct __Pyx_CodeObjectCache {$/;"	s	file:
+__Pyx_CodeObjectCache	deepboost.c	/^struct __Pyx_CodeObjectCache {$/;"	s	file:
+__Pyx_CodeObjectCache	deepboost.cpp	/^struct __Pyx_CodeObjectCache {$/;"	s	file:
+__Pyx_CodeObjectCacheEntry	boost.c	/^} __Pyx_CodeObjectCacheEntry;$/;"	t	typeref:struct:__anon4	file:
+__Pyx_CodeObjectCacheEntry	boost.cpp	/^} __Pyx_CodeObjectCacheEntry;$/;"	t	typeref:struct:__anon13	file:
+__Pyx_CodeObjectCacheEntry	deepboost.c	/^} __Pyx_CodeObjectCacheEntry;$/;"	t	typeref:struct:__anon41	file:
+__Pyx_CodeObjectCacheEntry	deepboost.cpp	/^} __Pyx_CodeObjectCacheEntry;$/;"	t	typeref:struct:__anon69	file:
+__Pyx_CppExn2PyErr	boost.cpp	/^static void __Pyx_CppExn2PyErr() {$/;"	f	file:
+__Pyx_CppExn2PyErr	deepboost.c	/^static void __Pyx_CppExn2PyErr() {$/;"	f	file:
+__Pyx_CppExn2PyErr	deepboost.cpp	/^static void __Pyx_CppExn2PyErr() {$/;"	f	file:
+__Pyx_CreateCodeObjectForTraceback	boost.c	/^static PyCodeObject* __Pyx_CreateCodeObjectForTraceback($/;"	f	file:
+__Pyx_CreateCodeObjectForTraceback	boost.cpp	/^static PyCodeObject* __Pyx_CreateCodeObjectForTraceback($/;"	f	file:
+__Pyx_CreateCodeObjectForTraceback	deepboost.c	/^static PyCodeObject* __Pyx_CreateCodeObjectForTraceback($/;"	f	file:
+__Pyx_CreateCodeObjectForTraceback	deepboost.cpp	/^static PyCodeObject* __Pyx_CreateCodeObjectForTraceback($/;"	f	file:
+__Pyx_DECREF	boost.c	/^  #define __Pyx_DECREF(/;"	d	file:
+__Pyx_DECREF	boost.cpp	/^  #define __Pyx_DECREF(/;"	d	file:
+__Pyx_DECREF	deepboost.c	/^  #define __Pyx_DECREF(/;"	d	file:
+__Pyx_DECREF	deepboost.cpp	/^  #define __Pyx_DECREF(/;"	d	file:
+__Pyx_DECREF_SET	boost.c	/^#define __Pyx_DECREF_SET(/;"	d	file:
+__Pyx_DECREF_SET	boost.cpp	/^#define __Pyx_DECREF_SET(/;"	d	file:
+__Pyx_DECREF_SET	deepboost.c	/^#define __Pyx_DECREF_SET(/;"	d	file:
+__Pyx_DECREF_SET	deepboost.cpp	/^#define __Pyx_DECREF_SET(/;"	d	file:
+__Pyx_DefaultClassType	boost.c	/^  #define __Pyx_DefaultClassType /;"	d	file:
+__Pyx_DefaultClassType	boost.cpp	/^  #define __Pyx_DefaultClassType /;"	d	file:
+__Pyx_DefaultClassType	deepboost.c	/^  #define __Pyx_DefaultClassType /;"	d	file:
+__Pyx_DefaultClassType	deepboost.cpp	/^  #define __Pyx_DefaultClassType /;"	d	file:
+__Pyx_ErrFetch	boost.cpp	/^static CYTHON_INLINE void __Pyx_ErrFetch(PyObject **type, PyObject **value, PyObject **tb) {$/;"	f	file:
+__Pyx_ErrFetch	deepboost.c	/^static CYTHON_INLINE void __Pyx_ErrFetch(PyObject **type, PyObject **value, PyObject **tb) {$/;"	f	file:
+__Pyx_ErrFetch	deepboost.cpp	/^static CYTHON_INLINE void __Pyx_ErrFetch(PyObject **type, PyObject **value, PyObject **tb) {$/;"	f	file:
+__Pyx_ErrRestore	boost.cpp	/^static CYTHON_INLINE void __Pyx_ErrRestore(PyObject *type, PyObject *value, PyObject *tb) {$/;"	f	file:
+__Pyx_ErrRestore	deepboost.c	/^static CYTHON_INLINE void __Pyx_ErrRestore(PyObject *type, PyObject *value, PyObject *tb) {$/;"	f	file:
+__Pyx_ErrRestore	deepboost.cpp	/^static CYTHON_INLINE void __Pyx_ErrRestore(PyObject *type, PyObject *value, PyObject *tb) {$/;"	f	file:
+__Pyx_FakeReference	boost.cpp	/^    __Pyx_FakeReference() : ptr(NULL) { }$/;"	f	class:__Pyx_FakeReference
+__Pyx_FakeReference	boost.cpp	/^    __Pyx_FakeReference(const T& ref) : ptr(const_cast<T*>(&ref)) { }$/;"	f	class:__Pyx_FakeReference
+__Pyx_FakeReference	boost.cpp	/^class __Pyx_FakeReference {$/;"	c	file:
+__Pyx_FakeReference	deepboost.cpp	/^    __Pyx_FakeReference() : ptr(NULL) { }$/;"	f	class:__Pyx_FakeReference
+__Pyx_FakeReference	deepboost.cpp	/^    __Pyx_FakeReference(const T& ref) : ptr(const_cast<T*>(&ref)) { }$/;"	f	class:__Pyx_FakeReference
+__Pyx_FakeReference	deepboost.cpp	/^class __Pyx_FakeReference {$/;"	c	file:
+__Pyx_GIVEREF	boost.c	/^  #define __Pyx_GIVEREF(/;"	d	file:
+__Pyx_GIVEREF	boost.cpp	/^  #define __Pyx_GIVEREF(/;"	d	file:
+__Pyx_GIVEREF	deepboost.c	/^  #define __Pyx_GIVEREF(/;"	d	file:
+__Pyx_GIVEREF	deepboost.cpp	/^  #define __Pyx_GIVEREF(/;"	d	file:
+__Pyx_GOTREF	boost.c	/^  #define __Pyx_GOTREF(/;"	d	file:
+__Pyx_GOTREF	boost.cpp	/^  #define __Pyx_GOTREF(/;"	d	file:
+__Pyx_GOTREF	deepboost.c	/^  #define __Pyx_GOTREF(/;"	d	file:
+__Pyx_GOTREF	deepboost.cpp	/^  #define __Pyx_GOTREF(/;"	d	file:
+__Pyx_GetBuffer	boost.cpp	/^    #define __Pyx_GetBuffer /;"	d	file:
+__Pyx_GetBuffer	boost.cpp	/^static int __Pyx_GetBuffer(PyObject *obj, Py_buffer *view, int flags) {$/;"	f	file:
+__Pyx_GetBuffer	deepboost.c	/^    #define __Pyx_GetBuffer /;"	d	file:
+__Pyx_GetBuffer	deepboost.c	/^static int __Pyx_GetBuffer(PyObject *obj, Py_buffer *view, int flags) {$/;"	f	file:
+__Pyx_GetBuffer	deepboost.cpp	/^    #define __Pyx_GetBuffer /;"	d	file:
+__Pyx_GetBuffer	deepboost.cpp	/^static int __Pyx_GetBuffer(PyObject *obj, Py_buffer *view, int flags) {$/;"	f	file:
+__Pyx_GetBufferAndValidate	boost.cpp	/^static CYTHON_INLINE int __Pyx_GetBufferAndValidate($/;"	f	file:
+__Pyx_GetBufferAndValidate	deepboost.c	/^static CYTHON_INLINE int __Pyx_GetBufferAndValidate($/;"	f	file:
+__Pyx_GetBufferAndValidate	deepboost.cpp	/^static CYTHON_INLINE int __Pyx_GetBufferAndValidate($/;"	f	file:
+__Pyx_GetBuiltinName	boost.cpp	/^static PyObject *__Pyx_GetBuiltinName(PyObject *name) {$/;"	f	file:
+__Pyx_GetBuiltinName	deepboost.c	/^static PyObject *__Pyx_GetBuiltinName(PyObject *name) {$/;"	f	file:
+__Pyx_GetBuiltinName	deepboost.cpp	/^static PyObject *__Pyx_GetBuiltinName(PyObject *name) {$/;"	f	file:
+__Pyx_GetModuleGlobalName	deepboost.cpp	/^static CYTHON_INLINE PyObject *__Pyx_GetModuleGlobalName(PyObject *name) {$/;"	f	file:
+__Pyx_GetStdout	deepboost.cpp	/^static PyObject *__Pyx_GetStdout(void) {$/;"	f	file:
+__Pyx_INCREF	boost.c	/^  #define __Pyx_INCREF(/;"	d	file:
+__Pyx_INCREF	boost.cpp	/^  #define __Pyx_INCREF(/;"	d	file:
+__Pyx_INCREF	deepboost.c	/^  #define __Pyx_INCREF(/;"	d	file:
+__Pyx_INCREF	deepboost.cpp	/^  #define __Pyx_INCREF(/;"	d	file:
+__Pyx_Import	boost.cpp	/^static PyObject *__Pyx_Import(PyObject *name, PyObject *from_list, int level) {$/;"	f	file:
+__Pyx_Import	deepboost.c	/^static PyObject *__Pyx_Import(PyObject *name, PyObject *from_list, int level) {$/;"	f	file:
+__Pyx_Import	deepboost.cpp	/^static PyObject *__Pyx_Import(PyObject *name, PyObject *from_list, int level) {$/;"	f	file:
+__Pyx_ImportModule	boost.cpp	/^static PyObject *__Pyx_ImportModule(const char *name) {$/;"	f	file:
+__Pyx_ImportModule	deepboost.c	/^static PyObject *__Pyx_ImportModule(const char *name) {$/;"	f	file:
+__Pyx_ImportModule	deepboost.cpp	/^static PyObject *__Pyx_ImportModule(const char *name) {$/;"	f	file:
+__Pyx_ImportType	boost.cpp	/^static PyTypeObject *__Pyx_ImportType(const char *module_name, const char *class_name,$/;"	f	file:
+__Pyx_ImportType	deepboost.c	/^static PyTypeObject *__Pyx_ImportType(const char *module_name, const char *class_name,$/;"	f	file:
+__Pyx_ImportType	deepboost.cpp	/^static PyTypeObject *__Pyx_ImportType(const char *module_name, const char *class_name,$/;"	f	file:
+__Pyx_InitCachedBuiltins	boost.c	/^static int __Pyx_InitCachedBuiltins(void) {$/;"	f	file:
+__Pyx_InitCachedBuiltins	boost.cpp	/^static int __Pyx_InitCachedBuiltins(void) {$/;"	f	file:
+__Pyx_InitCachedBuiltins	deepboost.c	/^static int __Pyx_InitCachedBuiltins(void) {$/;"	f	file:
+__Pyx_InitCachedBuiltins	deepboost.cpp	/^static int __Pyx_InitCachedBuiltins(void) {$/;"	f	file:
+__Pyx_InitCachedConstants	boost.c	/^static int __Pyx_InitCachedConstants(void) {$/;"	f	file:
+__Pyx_InitCachedConstants	boost.cpp	/^static int __Pyx_InitCachedConstants(void) {$/;"	f	file:
+__Pyx_InitCachedConstants	deepboost.c	/^static int __Pyx_InitCachedConstants(void) {$/;"	f	file:
+__Pyx_InitCachedConstants	deepboost.cpp	/^static int __Pyx_InitCachedConstants(void) {$/;"	f	file:
+__Pyx_InitGlobals	boost.c	/^static int __Pyx_InitGlobals(void) {$/;"	f	file:
+__Pyx_InitGlobals	boost.cpp	/^static int __Pyx_InitGlobals(void) {$/;"	f	file:
+__Pyx_InitGlobals	deepboost.c	/^static int __Pyx_InitGlobals(void) {$/;"	f	file:
+__Pyx_InitGlobals	deepboost.cpp	/^static int __Pyx_InitGlobals(void) {$/;"	f	file:
+__Pyx_InitStrings	boost.c	/^static int __Pyx_InitStrings(__Pyx_StringTabEntry *t) {$/;"	f	file:
+__Pyx_InitStrings	boost.cpp	/^static int __Pyx_InitStrings(__Pyx_StringTabEntry *t) {$/;"	f	file:
+__Pyx_InitStrings	deepboost.c	/^static int __Pyx_InitStrings(__Pyx_StringTabEntry *t) {$/;"	f	file:
+__Pyx_InitStrings	deepboost.cpp	/^static int __Pyx_InitStrings(__Pyx_StringTabEntry *t) {$/;"	f	file:
+__Pyx_IsLittleEndian	boost.cpp	/^static CYTHON_INLINE int __Pyx_IsLittleEndian(void) {$/;"	f	file:
+__Pyx_IsLittleEndian	deepboost.c	/^static CYTHON_INLINE int __Pyx_IsLittleEndian(void) {$/;"	f	file:
+__Pyx_IsLittleEndian	deepboost.cpp	/^static CYTHON_INLINE int __Pyx_IsLittleEndian(void) {$/;"	f	file:
+__Pyx_LocalBuf_ND	boost.cpp	/^} __Pyx_LocalBuf_ND;$/;"	t	typeref:struct:__anon16	file:
+__Pyx_LocalBuf_ND	deepboost.c	/^} __Pyx_LocalBuf_ND;$/;"	t	typeref:struct:__anon44	file:
+__Pyx_LocalBuf_ND	deepboost.cpp	/^} __Pyx_LocalBuf_ND;$/;"	t	typeref:struct:__anon72	file:
+__Pyx_MODULE_NAME	boost.c	/^#define __Pyx_MODULE_NAME /;"	d	file:
+__Pyx_MODULE_NAME	boost.cpp	/^#define __Pyx_MODULE_NAME /;"	d	file:
+__Pyx_MODULE_NAME	deepboost.c	/^#define __Pyx_MODULE_NAME /;"	d	file:
+__Pyx_MODULE_NAME	deepboost.cpp	/^#define __Pyx_MODULE_NAME /;"	d	file:
+__Pyx_NewRef	boost.c	/^#define __Pyx_NewRef(/;"	d	file:
+__Pyx_NewRef	boost.cpp	/^#define __Pyx_NewRef(/;"	d	file:
+__Pyx_NewRef	deepboost.c	/^#define __Pyx_NewRef(/;"	d	file:
+__Pyx_NewRef	deepboost.cpp	/^#define __Pyx_NewRef(/;"	d	file:
+__Pyx_Owned_Py_None	boost.c	/^#define __Pyx_Owned_Py_None(/;"	d	file:
+__Pyx_Owned_Py_None	boost.cpp	/^#define __Pyx_Owned_Py_None(/;"	d	file:
+__Pyx_Owned_Py_None	deepboost.c	/^#define __Pyx_Owned_Py_None(/;"	d	file:
+__Pyx_Owned_Py_None	deepboost.cpp	/^#define __Pyx_Owned_Py_None(/;"	d	file:
+__Pyx_ParseOptionalKeywords	boost.cpp	/^static int __Pyx_ParseOptionalKeywords($/;"	f	file:
+__Pyx_ParseOptionalKeywords	deepboost.c	/^static int __Pyx_ParseOptionalKeywords($/;"	f	file:
+__Pyx_ParseOptionalKeywords	deepboost.cpp	/^static int __Pyx_ParseOptionalKeywords($/;"	f	file:
+__Pyx_Print	deepboost.cpp	/^static int __Pyx_Print(PyObject* f, PyObject *arg_tuple, int newline) {$/;"	f	file:
+__Pyx_Print	deepboost.cpp	/^static int __Pyx_Print(PyObject* stream, PyObject *arg_tuple, int newline) {$/;"	f	file:
+__Pyx_PrintOne	deepboost.cpp	/^static int __Pyx_PrintOne(PyObject* f, PyObject *o) {$/;"	f	file:
+__Pyx_PrintOne	deepboost.cpp	/^static int __Pyx_PrintOne(PyObject* stream, PyObject *o) {$/;"	f	file:
+__Pyx_PyAsyncMethodsStruct	boost.c	/^#define __Pyx_PyAsyncMethodsStruct /;"	d	file:
+__Pyx_PyAsyncMethodsStruct	boost.c	/^} __Pyx_PyAsyncMethodsStruct;$/;"	t	typeref:struct:__anon1	file:
+__Pyx_PyAsyncMethodsStruct	boost.cpp	/^#define __Pyx_PyAsyncMethodsStruct /;"	d	file:
+__Pyx_PyAsyncMethodsStruct	boost.cpp	/^} __Pyx_PyAsyncMethodsStruct;$/;"	t	typeref:struct:__anon5	file:
+__Pyx_PyAsyncMethodsStruct	deepboost.c	/^#define __Pyx_PyAsyncMethodsStruct /;"	d	file:
+__Pyx_PyAsyncMethodsStruct	deepboost.c	/^} __Pyx_PyAsyncMethodsStruct;$/;"	t	typeref:struct:__anon33	file:
+__Pyx_PyAsyncMethodsStruct	deepboost.cpp	/^#define __Pyx_PyAsyncMethodsStruct /;"	d	file:
+__Pyx_PyAsyncMethodsStruct	deepboost.cpp	/^} __Pyx_PyAsyncMethodsStruct;$/;"	t	typeref:struct:__anon61	file:
+__Pyx_PyBaseString_Check	boost.c	/^  #define __Pyx_PyBaseString_Check(/;"	d	file:
+__Pyx_PyBaseString_Check	boost.cpp	/^  #define __Pyx_PyBaseString_Check(/;"	d	file:
+__Pyx_PyBaseString_Check	deepboost.c	/^  #define __Pyx_PyBaseString_Check(/;"	d	file:
+__Pyx_PyBaseString_Check	deepboost.cpp	/^  #define __Pyx_PyBaseString_Check(/;"	d	file:
+__Pyx_PyBaseString_CheckExact	boost.c	/^  #define __Pyx_PyBaseString_CheckExact(/;"	d	file:
+__Pyx_PyBaseString_CheckExact	boost.cpp	/^  #define __Pyx_PyBaseString_CheckExact(/;"	d	file:
+__Pyx_PyBaseString_CheckExact	deepboost.c	/^  #define __Pyx_PyBaseString_CheckExact(/;"	d	file:
+__Pyx_PyBaseString_CheckExact	deepboost.cpp	/^  #define __Pyx_PyBaseString_CheckExact(/;"	d	file:
+__Pyx_PyBool_FromLong	boost.c	/^#define __Pyx_PyBool_FromLong(/;"	d	file:
+__Pyx_PyBool_FromLong	boost.cpp	/^#define __Pyx_PyBool_FromLong(/;"	d	file:
+__Pyx_PyBool_FromLong	deepboost.c	/^#define __Pyx_PyBool_FromLong(/;"	d	file:
+__Pyx_PyBool_FromLong	deepboost.cpp	/^#define __Pyx_PyBool_FromLong(/;"	d	file:
+__Pyx_PyByteArray_FromCString	boost.c	/^#define __Pyx_PyByteArray_FromCString(/;"	d	file:
+__Pyx_PyByteArray_FromCString	boost.cpp	/^#define __Pyx_PyByteArray_FromCString(/;"	d	file:
+__Pyx_PyByteArray_FromCString	deepboost.c	/^#define __Pyx_PyByteArray_FromCString(/;"	d	file:
+__Pyx_PyByteArray_FromCString	deepboost.cpp	/^#define __Pyx_PyByteArray_FromCString(/;"	d	file:
+__Pyx_PyByteArray_FromString	boost.c	/^#define __Pyx_PyByteArray_FromString(/;"	d	file:
+__Pyx_PyByteArray_FromString	boost.cpp	/^#define __Pyx_PyByteArray_FromString(/;"	d	file:
+__Pyx_PyByteArray_FromString	deepboost.c	/^#define __Pyx_PyByteArray_FromString(/;"	d	file:
+__Pyx_PyByteArray_FromString	deepboost.cpp	/^#define __Pyx_PyByteArray_FromString(/;"	d	file:
+__Pyx_PyByteArray_FromStringAndSize	boost.c	/^#define __Pyx_PyByteArray_FromStringAndSize(/;"	d	file:
+__Pyx_PyByteArray_FromStringAndSize	boost.cpp	/^#define __Pyx_PyByteArray_FromStringAndSize(/;"	d	file:
+__Pyx_PyByteArray_FromStringAndSize	deepboost.c	/^#define __Pyx_PyByteArray_FromStringAndSize(/;"	d	file:
+__Pyx_PyByteArray_FromStringAndSize	deepboost.cpp	/^#define __Pyx_PyByteArray_FromStringAndSize(/;"	d	file:
+__Pyx_PyBytes_FromCString	boost.c	/^#define __Pyx_PyBytes_FromCString(/;"	d	file:
+__Pyx_PyBytes_FromCString	boost.cpp	/^#define __Pyx_PyBytes_FromCString(/;"	d	file:
+__Pyx_PyBytes_FromCString	deepboost.c	/^#define __Pyx_PyBytes_FromCString(/;"	d	file:
+__Pyx_PyBytes_FromCString	deepboost.cpp	/^#define __Pyx_PyBytes_FromCString(/;"	d	file:
+__Pyx_PyBytes_FromString	boost.c	/^#define __Pyx_PyBytes_FromString /;"	d	file:
+__Pyx_PyBytes_FromString	boost.cpp	/^#define __Pyx_PyBytes_FromString /;"	d	file:
+__Pyx_PyBytes_FromString	deepboost.c	/^#define __Pyx_PyBytes_FromString /;"	d	file:
+__Pyx_PyBytes_FromString	deepboost.cpp	/^#define __Pyx_PyBytes_FromString /;"	d	file:
+__Pyx_PyBytes_FromStringAndSize	boost.c	/^#define __Pyx_PyBytes_FromStringAndSize /;"	d	file:
+__Pyx_PyBytes_FromStringAndSize	boost.cpp	/^#define __Pyx_PyBytes_FromStringAndSize /;"	d	file:
+__Pyx_PyBytes_FromStringAndSize	deepboost.c	/^#define __Pyx_PyBytes_FromStringAndSize /;"	d	file:
+__Pyx_PyBytes_FromStringAndSize	deepboost.cpp	/^#define __Pyx_PyBytes_FromStringAndSize /;"	d	file:
+__Pyx_PyCode_New	boost.c	/^  #define __Pyx_PyCode_New(/;"	d	file:
+__Pyx_PyCode_New	boost.cpp	/^  #define __Pyx_PyCode_New(/;"	d	file:
+__Pyx_PyCode_New	deepboost.c	/^  #define __Pyx_PyCode_New(/;"	d	file:
+__Pyx_PyCode_New	deepboost.cpp	/^  #define __Pyx_PyCode_New(/;"	d	file:
+__Pyx_PyDict_GetItem	boost.cpp	/^    #define __Pyx_PyDict_GetItem(/;"	d	file:
+__Pyx_PyDict_GetItem	boost.cpp	/^static PyObject *__Pyx_PyDict_GetItem(PyObject *d, PyObject* key) {$/;"	f	file:
+__Pyx_PyDict_GetItem	deepboost.c	/^    #define __Pyx_PyDict_GetItem(/;"	d	file:
+__Pyx_PyDict_GetItem	deepboost.c	/^static PyObject *__Pyx_PyDict_GetItem(PyObject *d, PyObject* key) {$/;"	f	file:
+__Pyx_PyDict_GetItem	deepboost.cpp	/^    #define __Pyx_PyDict_GetItem(/;"	d	file:
+__Pyx_PyDict_GetItem	deepboost.cpp	/^static PyObject *__Pyx_PyDict_GetItem(PyObject *d, PyObject* key) {$/;"	f	file:
+__Pyx_PyIdentifier_FromString	boost.cpp	/^  #define __Pyx_PyIdentifier_FromString(/;"	d	file:
+__Pyx_PyIdentifier_FromString	deepboost.c	/^  #define __Pyx_PyIdentifier_FromString(/;"	d	file:
+__Pyx_PyIdentifier_FromString	deepboost.cpp	/^  #define __Pyx_PyIdentifier_FromString(/;"	d	file:
+__Pyx_PyIndex_AsSsize_t	boost.c	/^static CYTHON_INLINE Py_ssize_t __Pyx_PyIndex_AsSsize_t(PyObject* b) {$/;"	f	file:
+__Pyx_PyIndex_AsSsize_t	boost.cpp	/^static CYTHON_INLINE Py_ssize_t __Pyx_PyIndex_AsSsize_t(PyObject* b) {$/;"	f	file:
+__Pyx_PyIndex_AsSsize_t	deepboost.c	/^static CYTHON_INLINE Py_ssize_t __Pyx_PyIndex_AsSsize_t(PyObject* b) {$/;"	f	file:
+__Pyx_PyIndex_AsSsize_t	deepboost.cpp	/^static CYTHON_INLINE Py_ssize_t __Pyx_PyIndex_AsSsize_t(PyObject* b) {$/;"	f	file:
+__Pyx_PyInt_AsHash_t	boost.c	/^  #define __Pyx_PyInt_AsHash_t /;"	d	file:
+__Pyx_PyInt_AsHash_t	boost.cpp	/^  #define __Pyx_PyInt_AsHash_t /;"	d	file:
+__Pyx_PyInt_AsHash_t	deepboost.c	/^  #define __Pyx_PyInt_AsHash_t /;"	d	file:
+__Pyx_PyInt_AsHash_t	deepboost.cpp	/^  #define __Pyx_PyInt_AsHash_t /;"	d	file:
+__Pyx_PyInt_As_int	boost.c	/^static CYTHON_INLINE int __Pyx_PyInt_As_int(PyObject *x) {$/;"	f	file:
+__Pyx_PyInt_As_int	boost.cpp	/^static CYTHON_INLINE int __Pyx_PyInt_As_int(PyObject *x) {$/;"	f	file:
+__Pyx_PyInt_As_int	deepboost.c	/^static CYTHON_INLINE int __Pyx_PyInt_As_int(PyObject *x) {$/;"	f	file:
+__Pyx_PyInt_As_int	deepboost.cpp	/^static CYTHON_INLINE int __Pyx_PyInt_As_int(PyObject *x) {$/;"	f	file:
+__Pyx_PyInt_As_long	boost.c	/^static CYTHON_INLINE long __Pyx_PyInt_As_long(PyObject *x) {$/;"	f	file:
+__Pyx_PyInt_As_long	boost.cpp	/^static CYTHON_INLINE long __Pyx_PyInt_As_long(PyObject *x) {$/;"	f	file:
+__Pyx_PyInt_As_long	deepboost.c	/^static CYTHON_INLINE long __Pyx_PyInt_As_long(PyObject *x) {$/;"	f	file:
+__Pyx_PyInt_As_long	deepboost.cpp	/^static CYTHON_INLINE long __Pyx_PyInt_As_long(PyObject *x) {$/;"	f	file:
+__Pyx_PyInt_FromHash_t	boost.c	/^  #define __Pyx_PyInt_FromHash_t /;"	d	file:
+__Pyx_PyInt_FromHash_t	boost.cpp	/^  #define __Pyx_PyInt_FromHash_t /;"	d	file:
+__Pyx_PyInt_FromHash_t	deepboost.c	/^  #define __Pyx_PyInt_FromHash_t /;"	d	file:
+__Pyx_PyInt_FromHash_t	deepboost.cpp	/^  #define __Pyx_PyInt_FromHash_t /;"	d	file:
+__Pyx_PyInt_FromSize_t	boost.c	/^static CYTHON_INLINE PyObject * __Pyx_PyInt_FromSize_t(size_t ival) {$/;"	f	file:
+__Pyx_PyInt_FromSize_t	boost.cpp	/^static CYTHON_INLINE PyObject * __Pyx_PyInt_FromSize_t(size_t ival) {$/;"	f	file:
+__Pyx_PyInt_FromSize_t	deepboost.c	/^static CYTHON_INLINE PyObject * __Pyx_PyInt_FromSize_t(size_t ival) {$/;"	f	file:
+__Pyx_PyInt_FromSize_t	deepboost.cpp	/^static CYTHON_INLINE PyObject * __Pyx_PyInt_FromSize_t(size_t ival) {$/;"	f	file:
+__Pyx_PyInt_From_enum__NPY_TYPES	boost.cpp	/^static CYTHON_INLINE PyObject* __Pyx_PyInt_From_enum__NPY_TYPES(enum NPY_TYPES value) {$/;"	f	file:
+__Pyx_PyInt_From_enum__NPY_TYPES	deepboost.c	/^static CYTHON_INLINE PyObject* __Pyx_PyInt_From_enum__NPY_TYPES(enum NPY_TYPES value) {$/;"	f	file:
+__Pyx_PyInt_From_enum__NPY_TYPES	deepboost.cpp	/^static CYTHON_INLINE PyObject* __Pyx_PyInt_From_enum__NPY_TYPES(enum NPY_TYPES value) {$/;"	f	file:
+__Pyx_PyInt_From_int	boost.cpp	/^    static CYTHON_INLINE PyObject* __Pyx_PyInt_From_int(int value) {$/;"	f	file:
+__Pyx_PyInt_From_int	deepboost.c	/^    static CYTHON_INLINE PyObject* __Pyx_PyInt_From_int(int value) {$/;"	f	file:
+__Pyx_PyInt_From_int	deepboost.cpp	/^        static CYTHON_INLINE PyObject* __Pyx_PyInt_From_int(int value) {$/;"	f	file:
+__Pyx_PyInt_From_long	boost.c	/^static CYTHON_INLINE PyObject* __Pyx_PyInt_From_long(long value) {$/;"	f	file:
+__Pyx_PyInt_From_long	boost.cpp	/^static CYTHON_INLINE PyObject* __Pyx_PyInt_From_long(long value) {$/;"	f	file:
+__Pyx_PyInt_From_long	deepboost.c	/^static CYTHON_INLINE PyObject* __Pyx_PyInt_From_long(long value) {$/;"	f	file:
+__Pyx_PyInt_From_long	deepboost.cpp	/^static CYTHON_INLINE PyObject* __Pyx_PyInt_From_long(long value) {$/;"	f	file:
+__Pyx_PyMethod_New	boost.c	/^  #define __Pyx_PyMethod_New(/;"	d	file:
+__Pyx_PyMethod_New	boost.cpp	/^  #define __Pyx_PyMethod_New(/;"	d	file:
+__Pyx_PyMethod_New	deepboost.c	/^  #define __Pyx_PyMethod_New(/;"	d	file:
+__Pyx_PyMethod_New	deepboost.cpp	/^  #define __Pyx_PyMethod_New(/;"	d	file:
+__Pyx_PyNumber_Divide	boost.c	/^  #define __Pyx_PyNumber_Divide(/;"	d	file:
+__Pyx_PyNumber_Divide	boost.cpp	/^  #define __Pyx_PyNumber_Divide(/;"	d	file:
+__Pyx_PyNumber_Divide	deepboost.c	/^  #define __Pyx_PyNumber_Divide(/;"	d	file:
+__Pyx_PyNumber_Divide	deepboost.cpp	/^  #define __Pyx_PyNumber_Divide(/;"	d	file:
+__Pyx_PyNumber_InPlaceDivide	boost.c	/^  #define __Pyx_PyNumber_InPlaceDivide(/;"	d	file:
+__Pyx_PyNumber_InPlaceDivide	boost.cpp	/^  #define __Pyx_PyNumber_InPlaceDivide(/;"	d	file:
+__Pyx_PyNumber_InPlaceDivide	deepboost.c	/^  #define __Pyx_PyNumber_InPlaceDivide(/;"	d	file:
+__Pyx_PyNumber_InPlaceDivide	deepboost.cpp	/^  #define __Pyx_PyNumber_InPlaceDivide(/;"	d	file:
+__Pyx_PyNumber_Int	boost.c	/^static CYTHON_INLINE PyObject* __Pyx_PyNumber_Int(PyObject* x) {$/;"	f	file:
+__Pyx_PyNumber_Int	boost.cpp	/^static CYTHON_INLINE PyObject* __Pyx_PyNumber_Int(PyObject* x) {$/;"	f	file:
+__Pyx_PyNumber_Int	deepboost.c	/^static CYTHON_INLINE PyObject* __Pyx_PyNumber_Int(PyObject* x) {$/;"	f	file:
+__Pyx_PyNumber_Int	deepboost.cpp	/^static CYTHON_INLINE PyObject* __Pyx_PyNumber_Int(PyObject* x) {$/;"	f	file:
+__Pyx_PyObject_AsSString	boost.c	/^#define __Pyx_PyObject_AsSString(/;"	d	file:
+__Pyx_PyObject_AsSString	boost.cpp	/^#define __Pyx_PyObject_AsSString(/;"	d	file:
+__Pyx_PyObject_AsSString	deepboost.c	/^#define __Pyx_PyObject_AsSString(/;"	d	file:
+__Pyx_PyObject_AsSString	deepboost.cpp	/^#define __Pyx_PyObject_AsSString(/;"	d	file:
+__Pyx_PyObject_AsString	boost.c	/^static CYTHON_INLINE char* __Pyx_PyObject_AsString(PyObject* o) {$/;"	f	file:
+__Pyx_PyObject_AsString	boost.cpp	/^static CYTHON_INLINE char* __Pyx_PyObject_AsString(PyObject* o) {$/;"	f	file:
+__Pyx_PyObject_AsString	deepboost.c	/^static CYTHON_INLINE char* __Pyx_PyObject_AsString(PyObject* o) {$/;"	f	file:
+__Pyx_PyObject_AsString	deepboost.cpp	/^static CYTHON_INLINE char* __Pyx_PyObject_AsString(PyObject* o) {$/;"	f	file:
+__Pyx_PyObject_AsStringAndSize	boost.c	/^static CYTHON_INLINE char* __Pyx_PyObject_AsStringAndSize(PyObject* o, Py_ssize_t *length) {$/;"	f	file:
+__Pyx_PyObject_AsStringAndSize	boost.cpp	/^static CYTHON_INLINE char* __Pyx_PyObject_AsStringAndSize(PyObject* o, Py_ssize_t *length) {$/;"	f	file:
+__Pyx_PyObject_AsStringAndSize	deepboost.c	/^static CYTHON_INLINE char* __Pyx_PyObject_AsStringAndSize(PyObject* o, Py_ssize_t *length) {$/;"	f	file:
+__Pyx_PyObject_AsStringAndSize	deepboost.cpp	/^static CYTHON_INLINE char* __Pyx_PyObject_AsStringAndSize(PyObject* o, Py_ssize_t *length) {$/;"	f	file:
+__Pyx_PyObject_AsUString	boost.c	/^#define __Pyx_PyObject_AsUString(/;"	d	file:
+__Pyx_PyObject_AsUString	boost.cpp	/^#define __Pyx_PyObject_AsUString(/;"	d	file:
+__Pyx_PyObject_AsUString	deepboost.c	/^#define __Pyx_PyObject_AsUString(/;"	d	file:
+__Pyx_PyObject_AsUString	deepboost.cpp	/^#define __Pyx_PyObject_AsUString(/;"	d	file:
+__Pyx_PyObject_Call	boost.cpp	/^#define __Pyx_PyObject_Call(/;"	d	file:
+__Pyx_PyObject_Call	boost.cpp	/^static CYTHON_INLINE PyObject* __Pyx_PyObject_Call(PyObject *func, PyObject *arg, PyObject *kw) {$/;"	f	file:
+__Pyx_PyObject_Call	deepboost.c	/^#define __Pyx_PyObject_Call(/;"	d	file:
+__Pyx_PyObject_Call	deepboost.c	/^static CYTHON_INLINE PyObject* __Pyx_PyObject_Call(PyObject *func, PyObject *arg, PyObject *kw) {$/;"	f	file:
+__Pyx_PyObject_Call	deepboost.cpp	/^#define __Pyx_PyObject_Call(/;"	d	file:
+__Pyx_PyObject_Call	deepboost.cpp	/^static CYTHON_INLINE PyObject* __Pyx_PyObject_Call(PyObject *func, PyObject *arg, PyObject *kw) {$/;"	f	file:
+__Pyx_PyObject_FromCString	boost.c	/^#define __Pyx_PyObject_FromCString(/;"	d	file:
+__Pyx_PyObject_FromCString	boost.cpp	/^#define __Pyx_PyObject_FromCString(/;"	d	file:
+__Pyx_PyObject_FromCString	deepboost.c	/^#define __Pyx_PyObject_FromCString(/;"	d	file:
+__Pyx_PyObject_FromCString	deepboost.cpp	/^#define __Pyx_PyObject_FromCString(/;"	d	file:
+__Pyx_PyObject_FromString	boost.c	/^#define __Pyx_PyObject_FromString /;"	d	file:
+__Pyx_PyObject_FromString	boost.cpp	/^#define __Pyx_PyObject_FromString /;"	d	file:
+__Pyx_PyObject_FromString	deepboost.c	/^#define __Pyx_PyObject_FromString /;"	d	file:
+__Pyx_PyObject_FromString	deepboost.cpp	/^#define __Pyx_PyObject_FromString /;"	d	file:
+__Pyx_PyObject_FromStringAndSize	boost.c	/^#define __Pyx_PyObject_FromStringAndSize /;"	d	file:
+__Pyx_PyObject_FromStringAndSize	boost.cpp	/^#define __Pyx_PyObject_FromStringAndSize /;"	d	file:
+__Pyx_PyObject_FromStringAndSize	deepboost.c	/^#define __Pyx_PyObject_FromStringAndSize /;"	d	file:
+__Pyx_PyObject_FromStringAndSize	deepboost.cpp	/^#define __Pyx_PyObject_FromStringAndSize /;"	d	file:
+__Pyx_PyObject_GetAttrStr	boost.cpp	/^#define __Pyx_PyObject_GetAttrStr(/;"	d	file:
+__Pyx_PyObject_GetAttrStr	boost.cpp	/^static CYTHON_INLINE PyObject* __Pyx_PyObject_GetAttrStr(PyObject* obj, PyObject* attr_name) {$/;"	f	file:
+__Pyx_PyObject_GetAttrStr	deepboost.c	/^#define __Pyx_PyObject_GetAttrStr(/;"	d	file:
+__Pyx_PyObject_GetAttrStr	deepboost.c	/^static CYTHON_INLINE PyObject* __Pyx_PyObject_GetAttrStr(PyObject* obj, PyObject* attr_name) {$/;"	f	file:
+__Pyx_PyObject_GetAttrStr	deepboost.cpp	/^#define __Pyx_PyObject_GetAttrStr(/;"	d	file:
+__Pyx_PyObject_GetAttrStr	deepboost.cpp	/^static CYTHON_INLINE PyObject* __Pyx_PyObject_GetAttrStr(PyObject* obj, PyObject* attr_name) {$/;"	f	file:
+__Pyx_PyObject_IsTrue	boost.c	/^static CYTHON_INLINE int __Pyx_PyObject_IsTrue(PyObject* x) {$/;"	f	file:
+__Pyx_PyObject_IsTrue	boost.cpp	/^static CYTHON_INLINE int __Pyx_PyObject_IsTrue(PyObject* x) {$/;"	f	file:
+__Pyx_PyObject_IsTrue	deepboost.c	/^static CYTHON_INLINE int __Pyx_PyObject_IsTrue(PyObject* x) {$/;"	f	file:
+__Pyx_PyObject_IsTrue	deepboost.cpp	/^static CYTHON_INLINE int __Pyx_PyObject_IsTrue(PyObject* x) {$/;"	f	file:
+__Pyx_PyStr_FromCString	boost.c	/^#define __Pyx_PyStr_FromCString(/;"	d	file:
+__Pyx_PyStr_FromCString	boost.cpp	/^#define __Pyx_PyStr_FromCString(/;"	d	file:
+__Pyx_PyStr_FromCString	deepboost.c	/^#define __Pyx_PyStr_FromCString(/;"	d	file:
+__Pyx_PyStr_FromCString	deepboost.cpp	/^#define __Pyx_PyStr_FromCString(/;"	d	file:
+__Pyx_PyStr_FromString	boost.c	/^    #define __Pyx_PyStr_FromString /;"	d	file:
+__Pyx_PyStr_FromString	boost.cpp	/^    #define __Pyx_PyStr_FromString /;"	d	file:
+__Pyx_PyStr_FromString	deepboost.c	/^    #define __Pyx_PyStr_FromString /;"	d	file:
+__Pyx_PyStr_FromString	deepboost.cpp	/^    #define __Pyx_PyStr_FromString /;"	d	file:
+__Pyx_PyStr_FromStringAndSize	boost.c	/^    #define __Pyx_PyStr_FromStringAndSize /;"	d	file:
+__Pyx_PyStr_FromStringAndSize	boost.cpp	/^    #define __Pyx_PyStr_FromStringAndSize /;"	d	file:
+__Pyx_PyStr_FromStringAndSize	deepboost.c	/^    #define __Pyx_PyStr_FromStringAndSize /;"	d	file:
+__Pyx_PyStr_FromStringAndSize	deepboost.cpp	/^    #define __Pyx_PyStr_FromStringAndSize /;"	d	file:
+__Pyx_PyString_Format	boost.c	/^  #define __Pyx_PyString_Format(/;"	d	file:
+__Pyx_PyString_Format	boost.cpp	/^  #define __Pyx_PyString_Format(/;"	d	file:
+__Pyx_PyString_Format	deepboost.c	/^  #define __Pyx_PyString_Format(/;"	d	file:
+__Pyx_PyString_Format	deepboost.cpp	/^  #define __Pyx_PyString_Format(/;"	d	file:
+__Pyx_PyString_FormatSafe	boost.c	/^#define __Pyx_PyString_FormatSafe(/;"	d	file:
+__Pyx_PyString_FormatSafe	boost.cpp	/^#define __Pyx_PyString_FormatSafe(/;"	d	file:
+__Pyx_PyString_FormatSafe	deepboost.c	/^#define __Pyx_PyString_FormatSafe(/;"	d	file:
+__Pyx_PyString_FormatSafe	deepboost.cpp	/^#define __Pyx_PyString_FormatSafe(/;"	d	file:
+__Pyx_PyType_AsAsync	boost.c	/^#define __Pyx_PyType_AsAsync(/;"	d	file:
+__Pyx_PyType_AsAsync	boost.cpp	/^#define __Pyx_PyType_AsAsync(/;"	d	file:
+__Pyx_PyType_AsAsync	deepboost.c	/^#define __Pyx_PyType_AsAsync(/;"	d	file:
+__Pyx_PyType_AsAsync	deepboost.cpp	/^#define __Pyx_PyType_AsAsync(/;"	d	file:
+__Pyx_PyUnicode_AsUnicode	boost.c	/^#define __Pyx_PyUnicode_AsUnicode /;"	d	file:
+__Pyx_PyUnicode_AsUnicode	boost.cpp	/^#define __Pyx_PyUnicode_AsUnicode /;"	d	file:
+__Pyx_PyUnicode_AsUnicode	deepboost.c	/^#define __Pyx_PyUnicode_AsUnicode /;"	d	file:
+__Pyx_PyUnicode_AsUnicode	deepboost.cpp	/^#define __Pyx_PyUnicode_AsUnicode /;"	d	file:
+__Pyx_PyUnicode_Concat	boost.c	/^  #define __Pyx_PyUnicode_Concat(/;"	d	file:
+__Pyx_PyUnicode_Concat	boost.cpp	/^  #define __Pyx_PyUnicode_Concat(/;"	d	file:
+__Pyx_PyUnicode_Concat	deepboost.c	/^  #define __Pyx_PyUnicode_Concat(/;"	d	file:
+__Pyx_PyUnicode_Concat	deepboost.cpp	/^  #define __Pyx_PyUnicode_Concat(/;"	d	file:
+__Pyx_PyUnicode_ConcatSafe	boost.c	/^  #define __Pyx_PyUnicode_ConcatSafe(/;"	d	file:
+__Pyx_PyUnicode_ConcatSafe	boost.cpp	/^  #define __Pyx_PyUnicode_ConcatSafe(/;"	d	file:
+__Pyx_PyUnicode_ConcatSafe	deepboost.c	/^  #define __Pyx_PyUnicode_ConcatSafe(/;"	d	file:
+__Pyx_PyUnicode_ConcatSafe	deepboost.cpp	/^  #define __Pyx_PyUnicode_ConcatSafe(/;"	d	file:
+__Pyx_PyUnicode_DATA	boost.c	/^  #define __Pyx_PyUnicode_DATA(/;"	d	file:
+__Pyx_PyUnicode_DATA	boost.cpp	/^  #define __Pyx_PyUnicode_DATA(/;"	d	file:
+__Pyx_PyUnicode_DATA	deepboost.c	/^  #define __Pyx_PyUnicode_DATA(/;"	d	file:
+__Pyx_PyUnicode_DATA	deepboost.cpp	/^  #define __Pyx_PyUnicode_DATA(/;"	d	file:
+__Pyx_PyUnicode_FormatSafe	boost.c	/^#define __Pyx_PyUnicode_FormatSafe(/;"	d	file:
+__Pyx_PyUnicode_FormatSafe	boost.cpp	/^#define __Pyx_PyUnicode_FormatSafe(/;"	d	file:
+__Pyx_PyUnicode_FormatSafe	deepboost.c	/^#define __Pyx_PyUnicode_FormatSafe(/;"	d	file:
+__Pyx_PyUnicode_FormatSafe	deepboost.cpp	/^#define __Pyx_PyUnicode_FormatSafe(/;"	d	file:
+__Pyx_PyUnicode_FromCString	boost.c	/^#define __Pyx_PyUnicode_FromCString(/;"	d	file:
+__Pyx_PyUnicode_FromCString	boost.cpp	/^#define __Pyx_PyUnicode_FromCString(/;"	d	file:
+__Pyx_PyUnicode_FromCString	deepboost.c	/^#define __Pyx_PyUnicode_FromCString(/;"	d	file:
+__Pyx_PyUnicode_FromCString	deepboost.cpp	/^#define __Pyx_PyUnicode_FromCString(/;"	d	file:
+__Pyx_PyUnicode_FromString	boost.c	/^static CYTHON_INLINE PyObject* __Pyx_PyUnicode_FromString(const char* c_str) {$/;"	f	file:
+__Pyx_PyUnicode_FromString	boost.cpp	/^static CYTHON_INLINE PyObject* __Pyx_PyUnicode_FromString(const char* c_str) {$/;"	f	file:
+__Pyx_PyUnicode_FromString	deepboost.c	/^static CYTHON_INLINE PyObject* __Pyx_PyUnicode_FromString(const char* c_str) {$/;"	f	file:
+__Pyx_PyUnicode_FromString	deepboost.cpp	/^static CYTHON_INLINE PyObject* __Pyx_PyUnicode_FromString(const char* c_str) {$/;"	f	file:
+__Pyx_PyUnicode_FromStringAndSize	boost.c	/^#define __Pyx_PyUnicode_FromStringAndSize(/;"	d	file:
+__Pyx_PyUnicode_FromStringAndSize	boost.cpp	/^#define __Pyx_PyUnicode_FromStringAndSize(/;"	d	file:
+__Pyx_PyUnicode_FromStringAndSize	deepboost.c	/^#define __Pyx_PyUnicode_FromStringAndSize(/;"	d	file:
+__Pyx_PyUnicode_FromStringAndSize	deepboost.cpp	/^#define __Pyx_PyUnicode_FromStringAndSize(/;"	d	file:
+__Pyx_PyUnicode_FromUnicode	boost.c	/^#define __Pyx_PyUnicode_FromUnicode(/;"	d	file:
+__Pyx_PyUnicode_FromUnicode	boost.cpp	/^#define __Pyx_PyUnicode_FromUnicode(/;"	d	file:
+__Pyx_PyUnicode_FromUnicode	deepboost.c	/^#define __Pyx_PyUnicode_FromUnicode(/;"	d	file:
+__Pyx_PyUnicode_FromUnicode	deepboost.cpp	/^#define __Pyx_PyUnicode_FromUnicode(/;"	d	file:
+__Pyx_PyUnicode_FromUnicodeAndLength	boost.c	/^#define __Pyx_PyUnicode_FromUnicodeAndLength /;"	d	file:
+__Pyx_PyUnicode_FromUnicodeAndLength	boost.cpp	/^#define __Pyx_PyUnicode_FromUnicodeAndLength /;"	d	file:
+__Pyx_PyUnicode_FromUnicodeAndLength	deepboost.c	/^#define __Pyx_PyUnicode_FromUnicodeAndLength /;"	d	file:
+__Pyx_PyUnicode_FromUnicodeAndLength	deepboost.cpp	/^#define __Pyx_PyUnicode_FromUnicodeAndLength /;"	d	file:
+__Pyx_PyUnicode_GET_LENGTH	boost.c	/^  #define __Pyx_PyUnicode_GET_LENGTH(/;"	d	file:
+__Pyx_PyUnicode_GET_LENGTH	boost.cpp	/^  #define __Pyx_PyUnicode_GET_LENGTH(/;"	d	file:
+__Pyx_PyUnicode_GET_LENGTH	deepboost.c	/^  #define __Pyx_PyUnicode_GET_LENGTH(/;"	d	file:
+__Pyx_PyUnicode_GET_LENGTH	deepboost.cpp	/^  #define __Pyx_PyUnicode_GET_LENGTH(/;"	d	file:
+__Pyx_PyUnicode_KIND	boost.c	/^  #define __Pyx_PyUnicode_KIND(/;"	d	file:
+__Pyx_PyUnicode_KIND	boost.cpp	/^  #define __Pyx_PyUnicode_KIND(/;"	d	file:
+__Pyx_PyUnicode_KIND	deepboost.c	/^  #define __Pyx_PyUnicode_KIND(/;"	d	file:
+__Pyx_PyUnicode_KIND	deepboost.cpp	/^  #define __Pyx_PyUnicode_KIND(/;"	d	file:
+__Pyx_PyUnicode_READ	boost.c	/^  #define __Pyx_PyUnicode_READ(/;"	d	file:
+__Pyx_PyUnicode_READ	boost.cpp	/^  #define __Pyx_PyUnicode_READ(/;"	d	file:
+__Pyx_PyUnicode_READ	deepboost.c	/^  #define __Pyx_PyUnicode_READ(/;"	d	file:
+__Pyx_PyUnicode_READ	deepboost.cpp	/^  #define __Pyx_PyUnicode_READ(/;"	d	file:
+__Pyx_PyUnicode_READY	boost.c	/^  #define __Pyx_PyUnicode_READY(/;"	d	file:
+__Pyx_PyUnicode_READY	boost.cpp	/^  #define __Pyx_PyUnicode_READY(/;"	d	file:
+__Pyx_PyUnicode_READY	deepboost.c	/^  #define __Pyx_PyUnicode_READY(/;"	d	file:
+__Pyx_PyUnicode_READY	deepboost.cpp	/^  #define __Pyx_PyUnicode_READY(/;"	d	file:
+__Pyx_PyUnicode_READ_CHAR	boost.c	/^  #define __Pyx_PyUnicode_READ_CHAR(/;"	d	file:
+__Pyx_PyUnicode_READ_CHAR	boost.cpp	/^  #define __Pyx_PyUnicode_READ_CHAR(/;"	d	file:
+__Pyx_PyUnicode_READ_CHAR	deepboost.c	/^  #define __Pyx_PyUnicode_READ_CHAR(/;"	d	file:
+__Pyx_PyUnicode_READ_CHAR	deepboost.cpp	/^  #define __Pyx_PyUnicode_READ_CHAR(/;"	d	file:
+__Pyx_Py_UNICODE_strlen	boost.c	/^#define __Pyx_Py_UNICODE_strlen /;"	d	file:
+__Pyx_Py_UNICODE_strlen	boost.c	/^static CYTHON_INLINE size_t __Pyx_Py_UNICODE_strlen(const Py_UNICODE *u)$/;"	f	file:
+__Pyx_Py_UNICODE_strlen	boost.cpp	/^#define __Pyx_Py_UNICODE_strlen /;"	d	file:
+__Pyx_Py_UNICODE_strlen	boost.cpp	/^static CYTHON_INLINE size_t __Pyx_Py_UNICODE_strlen(const Py_UNICODE *u)$/;"	f	file:
+__Pyx_Py_UNICODE_strlen	deepboost.c	/^#define __Pyx_Py_UNICODE_strlen /;"	d	file:
+__Pyx_Py_UNICODE_strlen	deepboost.c	/^static CYTHON_INLINE size_t __Pyx_Py_UNICODE_strlen(const Py_UNICODE *u)$/;"	f	file:
+__Pyx_Py_UNICODE_strlen	deepboost.cpp	/^#define __Pyx_Py_UNICODE_strlen /;"	d	file:
+__Pyx_Py_UNICODE_strlen	deepboost.cpp	/^static CYTHON_INLINE size_t __Pyx_Py_UNICODE_strlen(const Py_UNICODE *u)$/;"	f	file:
+__Pyx_Raise	boost.cpp	/^static void __Pyx_Raise(PyObject *type, PyObject *value, PyObject *tb, PyObject *cause) {$/;"	f	file:
+__Pyx_Raise	boost.cpp	/^static void __Pyx_Raise(PyObject *type, PyObject *value, PyObject *tb,$/;"	f	file:
+__Pyx_Raise	deepboost.c	/^static void __Pyx_Raise(PyObject *type, PyObject *value, PyObject *tb, PyObject *cause) {$/;"	f	file:
+__Pyx_Raise	deepboost.c	/^static void __Pyx_Raise(PyObject *type, PyObject *value, PyObject *tb,$/;"	f	file:
+__Pyx_Raise	deepboost.cpp	/^static void __Pyx_Raise(PyObject *type, PyObject *value, PyObject *tb, PyObject *cause) {$/;"	f	file:
+__Pyx_Raise	deepboost.cpp	/^static void __Pyx_Raise(PyObject *type, PyObject *value, PyObject *tb,$/;"	f	file:
+__Pyx_RaiseArgtupleInvalid	boost.cpp	/^static void __Pyx_RaiseArgtupleInvalid($/;"	f	file:
+__Pyx_RaiseArgtupleInvalid	deepboost.c	/^static void __Pyx_RaiseArgtupleInvalid($/;"	f	file:
+__Pyx_RaiseArgtupleInvalid	deepboost.cpp	/^static void __Pyx_RaiseArgtupleInvalid($/;"	f	file:
+__Pyx_RaiseArgumentTypeInvalid	boost.cpp	/^static void __Pyx_RaiseArgumentTypeInvalid(const char* name, PyObject *obj, PyTypeObject *type) {$/;"	f	file:
+__Pyx_RaiseArgumentTypeInvalid	deepboost.c	/^static void __Pyx_RaiseArgumentTypeInvalid(const char* name, PyObject *obj, PyTypeObject *type) {$/;"	f	file:
+__Pyx_RaiseArgumentTypeInvalid	deepboost.cpp	/^static void __Pyx_RaiseArgumentTypeInvalid(const char* name, PyObject *obj, PyTypeObject *type) {$/;"	f	file:
+__Pyx_RaiseBufferIndexError	boost.cpp	/^static void __Pyx_RaiseBufferIndexError(int axis) {$/;"	f	file:
+__Pyx_RaiseBufferIndexError	deepboost.c	/^static void __Pyx_RaiseBufferIndexError(int axis) {$/;"	f	file:
+__Pyx_RaiseBufferIndexError	deepboost.cpp	/^static void __Pyx_RaiseBufferIndexError(int axis) {$/;"	f	file:
+__Pyx_RaiseDoubleKeywordsError	boost.cpp	/^static void __Pyx_RaiseDoubleKeywordsError($/;"	f	file:
+__Pyx_RaiseDoubleKeywordsError	deepboost.c	/^static void __Pyx_RaiseDoubleKeywordsError($/;"	f	file:
+__Pyx_RaiseDoubleKeywordsError	deepboost.cpp	/^static void __Pyx_RaiseDoubleKeywordsError($/;"	f	file:
+__Pyx_RaiseNeedMoreValuesError	boost.cpp	/^static CYTHON_INLINE void __Pyx_RaiseNeedMoreValuesError(Py_ssize_t index) {$/;"	f	file:
+__Pyx_RaiseNeedMoreValuesError	deepboost.c	/^static CYTHON_INLINE void __Pyx_RaiseNeedMoreValuesError(Py_ssize_t index) {$/;"	f	file:
+__Pyx_RaiseNeedMoreValuesError	deepboost.cpp	/^static CYTHON_INLINE void __Pyx_RaiseNeedMoreValuesError(Py_ssize_t index) {$/;"	f	file:
+__Pyx_RaiseNoneNotIterableError	boost.cpp	/^static CYTHON_INLINE void __Pyx_RaiseNoneNotIterableError(void) {$/;"	f	file:
+__Pyx_RaiseNoneNotIterableError	deepboost.c	/^static CYTHON_INLINE void __Pyx_RaiseNoneNotIterableError(void) {$/;"	f	file:
+__Pyx_RaiseNoneNotIterableError	deepboost.cpp	/^static CYTHON_INLINE void __Pyx_RaiseNoneNotIterableError(void) {$/;"	f	file:
+__Pyx_RaiseTooManyValuesError	boost.cpp	/^static CYTHON_INLINE void __Pyx_RaiseTooManyValuesError(Py_ssize_t expected) {$/;"	f	file:
+__Pyx_RaiseTooManyValuesError	deepboost.c	/^static CYTHON_INLINE void __Pyx_RaiseTooManyValuesError(Py_ssize_t expected) {$/;"	f	file:
+__Pyx_RaiseTooManyValuesError	deepboost.cpp	/^static CYTHON_INLINE void __Pyx_RaiseTooManyValuesError(Py_ssize_t expected) {$/;"	f	file:
+__Pyx_RefNanny	boost.c	/^  static __Pyx_RefNannyAPIStruct *__Pyx_RefNanny = NULL;$/;"	v	file:
+__Pyx_RefNanny	boost.cpp	/^  static __Pyx_RefNannyAPIStruct *__Pyx_RefNanny = NULL;$/;"	v	file:
+__Pyx_RefNanny	deepboost.c	/^  static __Pyx_RefNannyAPIStruct *__Pyx_RefNanny = NULL;$/;"	v	file:
+__Pyx_RefNanny	deepboost.cpp	/^  static __Pyx_RefNannyAPIStruct *__Pyx_RefNanny = NULL;$/;"	v	file:
+__Pyx_RefNannyAPIStruct	boost.c	/^  } __Pyx_RefNannyAPIStruct;$/;"	t	typeref:struct:__anon3	file:
+__Pyx_RefNannyAPIStruct	boost.cpp	/^  } __Pyx_RefNannyAPIStruct;$/;"	t	typeref:struct:__anon12	file:
+__Pyx_RefNannyAPIStruct	deepboost.c	/^  } __Pyx_RefNannyAPIStruct;$/;"	t	typeref:struct:__anon40	file:
+__Pyx_RefNannyAPIStruct	deepboost.cpp	/^  } __Pyx_RefNannyAPIStruct;$/;"	t	typeref:struct:__anon68	file:
+__Pyx_RefNannyDeclarations	boost.c	/^  #define __Pyx_RefNannyDeclarations /;"	d	file:
+__Pyx_RefNannyDeclarations	boost.c	/^  #define __Pyx_RefNannyDeclarations$/;"	d	file:
+__Pyx_RefNannyDeclarations	boost.cpp	/^  #define __Pyx_RefNannyDeclarations /;"	d	file:
+__Pyx_RefNannyDeclarations	boost.cpp	/^  #define __Pyx_RefNannyDeclarations$/;"	d	file:
+__Pyx_RefNannyDeclarations	deepboost.c	/^  #define __Pyx_RefNannyDeclarations /;"	d	file:
+__Pyx_RefNannyDeclarations	deepboost.c	/^  #define __Pyx_RefNannyDeclarations$/;"	d	file:
+__Pyx_RefNannyDeclarations	deepboost.cpp	/^  #define __Pyx_RefNannyDeclarations /;"	d	file:
+__Pyx_RefNannyDeclarations	deepboost.cpp	/^  #define __Pyx_RefNannyDeclarations$/;"	d	file:
+__Pyx_RefNannyFinishContext	boost.c	/^  #define __Pyx_RefNannyFinishContext(/;"	d	file:
+__Pyx_RefNannyFinishContext	boost.cpp	/^  #define __Pyx_RefNannyFinishContext(/;"	d	file:
+__Pyx_RefNannyFinishContext	deepboost.c	/^  #define __Pyx_RefNannyFinishContext(/;"	d	file:
+__Pyx_RefNannyFinishContext	deepboost.cpp	/^  #define __Pyx_RefNannyFinishContext(/;"	d	file:
+__Pyx_RefNannyImportAPI	boost.c	/^static __Pyx_RefNannyAPIStruct *__Pyx_RefNannyImportAPI(const char *modname) {$/;"	f	file:
+__Pyx_RefNannyImportAPI	boost.cpp	/^static __Pyx_RefNannyAPIStruct *__Pyx_RefNannyImportAPI(const char *modname) {$/;"	f	file:
+__Pyx_RefNannyImportAPI	deepboost.c	/^static __Pyx_RefNannyAPIStruct *__Pyx_RefNannyImportAPI(const char *modname) {$/;"	f	file:
+__Pyx_RefNannyImportAPI	deepboost.cpp	/^static __Pyx_RefNannyAPIStruct *__Pyx_RefNannyImportAPI(const char *modname) {$/;"	f	file:
+__Pyx_RefNannySetupContext	boost.c	/^  #define __Pyx_RefNannySetupContext(/;"	d	file:
+__Pyx_RefNannySetupContext	boost.cpp	/^  #define __Pyx_RefNannySetupContext(/;"	d	file:
+__Pyx_RefNannySetupContext	deepboost.c	/^  #define __Pyx_RefNannySetupContext(/;"	d	file:
+__Pyx_RefNannySetupContext	deepboost.cpp	/^  #define __Pyx_RefNannySetupContext(/;"	d	file:
+__Pyx_ReleaseBuffer	boost.cpp	/^    #define __Pyx_ReleaseBuffer /;"	d	file:
+__Pyx_ReleaseBuffer	boost.cpp	/^static void __Pyx_ReleaseBuffer(Py_buffer *view) {$/;"	f	file:
+__Pyx_ReleaseBuffer	deepboost.c	/^    #define __Pyx_ReleaseBuffer /;"	d	file:
+__Pyx_ReleaseBuffer	deepboost.c	/^static void __Pyx_ReleaseBuffer(Py_buffer *view) {$/;"	f	file:
+__Pyx_ReleaseBuffer	deepboost.cpp	/^    #define __Pyx_ReleaseBuffer /;"	d	file:
+__Pyx_ReleaseBuffer	deepboost.cpp	/^static void __Pyx_ReleaseBuffer(Py_buffer *view) {$/;"	f	file:
+__Pyx_SET_CIMAG	boost.cpp	/^    #define __Pyx_SET_CIMAG(/;"	d	file:
+__Pyx_SET_CIMAG	deepboost.c	/^    #define __Pyx_SET_CIMAG(/;"	d	file:
+__Pyx_SET_CIMAG	deepboost.cpp	/^    #define __Pyx_SET_CIMAG(/;"	d	file:
+__Pyx_SET_CREAL	boost.cpp	/^    #define __Pyx_SET_CREAL(/;"	d	file:
+__Pyx_SET_CREAL	deepboost.c	/^    #define __Pyx_SET_CREAL(/;"	d	file:
+__Pyx_SET_CREAL	deepboost.cpp	/^    #define __Pyx_SET_CREAL(/;"	d	file:
+__Pyx_SafeReleaseBuffer	boost.cpp	/^static CYTHON_INLINE void __Pyx_SafeReleaseBuffer(Py_buffer* info) {$/;"	f	file:
+__Pyx_SafeReleaseBuffer	deepboost.c	/^static CYTHON_INLINE void __Pyx_SafeReleaseBuffer(Py_buffer* info) {$/;"	f	file:
+__Pyx_SafeReleaseBuffer	deepboost.cpp	/^static CYTHON_INLINE void __Pyx_SafeReleaseBuffer(Py_buffer* info) {$/;"	f	file:
+__Pyx_SetItemInt	deepboost.cpp	/^#define __Pyx_SetItemInt(/;"	d	file:
+__Pyx_SetItemInt_Fast	deepboost.cpp	/^static CYTHON_INLINE int __Pyx_SetItemInt_Fast(PyObject *o, Py_ssize_t i, PyObject *v, int is_list,$/;"	f	file:
+__Pyx_SetItemInt_Generic	deepboost.cpp	/^static CYTHON_INLINE int __Pyx_SetItemInt_Generic(PyObject *o, PyObject *j, PyObject *v) {$/;"	f	file:
+__Pyx_StringTabEntry	boost.c	/^                const char is_unicode; const char is_str; const char intern; } __Pyx_StringTabEntry;$/;"	t	typeref:struct:__anon2	file:
+__Pyx_StringTabEntry	boost.cpp	/^                const char is_unicode; const char is_str; const char intern; } __Pyx_StringTabEntry;$/;"	t	typeref:struct:__anon6	file:
+__Pyx_StringTabEntry	deepboost.c	/^                const char is_unicode; const char is_str; const char intern; } __Pyx_StringTabEntry;$/;"	t	typeref:struct:__anon34	file:
+__Pyx_StringTabEntry	deepboost.cpp	/^                const char is_unicode; const char is_str; const char intern; } __Pyx_StringTabEntry;$/;"	t	typeref:struct:__anon62	file:
+__Pyx_StructField	boost.cpp	/^} __Pyx_StructField;$/;"	t	typeref:struct:__Pyx_StructField_	file:
+__Pyx_StructField	deepboost.c	/^} __Pyx_StructField;$/;"	t	typeref:struct:__Pyx_StructField_	file:
+__Pyx_StructField	deepboost.cpp	/^} __Pyx_StructField;$/;"	t	typeref:struct:__Pyx_StructField_	file:
+__Pyx_StructField_	boost.cpp	/^typedef struct __Pyx_StructField_ {$/;"	s	file:
+__Pyx_StructField_	deepboost.c	/^typedef struct __Pyx_StructField_ {$/;"	s	file:
+__Pyx_StructField_	deepboost.cpp	/^typedef struct __Pyx_StructField_ {$/;"	s	file:
+__Pyx_TypeCheck	boost.c	/^#define __Pyx_TypeCheck(/;"	d	file:
+__Pyx_TypeCheck	boost.cpp	/^#define __Pyx_TypeCheck(/;"	d	file:
+__Pyx_TypeCheck	deepboost.c	/^#define __Pyx_TypeCheck(/;"	d	file:
+__Pyx_TypeCheck	deepboost.cpp	/^#define __Pyx_TypeCheck(/;"	d	file:
+__Pyx_TypeInfo	boost.cpp	/^} __Pyx_TypeInfo;$/;"	t	typeref:struct:__anon7	file:
+__Pyx_TypeInfo	deepboost.c	/^} __Pyx_TypeInfo;$/;"	t	typeref:struct:__anon35	file:
+__Pyx_TypeInfo	deepboost.cpp	/^} __Pyx_TypeInfo;$/;"	t	typeref:struct:__anon63	file:
+__Pyx_TypeInfo_nn___pyx_t_5numpy_float64_t	boost.cpp	/^static __Pyx_TypeInfo __Pyx_TypeInfo_nn___pyx_t_5numpy_float64_t = { "float64_t", NULL, sizeof(__pyx_t_5numpy_float64_t), { 0 }, 0, 'R', 0, 0 };$/;"	v	file:
+__Pyx_TypeInfo_nn___pyx_t_5numpy_float64_t	deepboost.c	/^static __Pyx_TypeInfo __Pyx_TypeInfo_nn___pyx_t_5numpy_float64_t = { "float64_t", NULL, sizeof(__pyx_t_5numpy_float64_t), { 0 }, 0, 'R', 0, 0 };$/;"	v	file:
+__Pyx_TypeInfo_nn___pyx_t_5numpy_float64_t	deepboost.cpp	/^static __Pyx_TypeInfo __Pyx_TypeInfo_nn___pyx_t_5numpy_float64_t = { "float64_t", NULL, sizeof(__pyx_t_5numpy_float64_t), { 0 }, 0, 'R', 0, 0 };$/;"	v	file:
+__Pyx_TypeInfo_nn___pyx_t_5numpy_int32_t	deepboost.cpp	/^static __Pyx_TypeInfo __Pyx_TypeInfo_nn___pyx_t_5numpy_int32_t = { "int32_t", NULL, sizeof(__pyx_t_5numpy_int32_t), { 0 }, 0, IS_UNSIGNED(__pyx_t_5numpy_int32_t) ? 'U' : 'I', IS_UNSIGNED(__pyx_t_5numpy_int32_t), 0 };$/;"	v	file:
+__Pyx_TypeInfo_object	boost.cpp	/^static __Pyx_TypeInfo __Pyx_TypeInfo_object = { "int object", NULL, sizeof(PyObject *), { 0 }, 0, 'O', 0, 0 };$/;"	v	file:
+__Pyx_TypeInfo_object	deepboost.c	/^static __Pyx_TypeInfo __Pyx_TypeInfo_object = { "int object", NULL, sizeof(PyObject *), { 0 }, 0, 'O', 0, 0 };$/;"	v	file:
+__Pyx_TypeTest	boost.cpp	/^static CYTHON_INLINE int __Pyx_TypeTest(PyObject *obj, PyTypeObject *type) {$/;"	f	file:
+__Pyx_TypeTest	deepboost.c	/^static CYTHON_INLINE int __Pyx_TypeTest(PyObject *obj, PyTypeObject *type) {$/;"	f	file:
+__Pyx_TypeTest	deepboost.cpp	/^static CYTHON_INLINE int __Pyx_TypeTest(PyObject *obj, PyTypeObject *type) {$/;"	f	file:
+__Pyx_XCLEAR	boost.c	/^#define __Pyx_XCLEAR(/;"	d	file:
+__Pyx_XCLEAR	boost.cpp	/^#define __Pyx_XCLEAR(/;"	d	file:
+__Pyx_XCLEAR	deepboost.c	/^#define __Pyx_XCLEAR(/;"	d	file:
+__Pyx_XCLEAR	deepboost.cpp	/^#define __Pyx_XCLEAR(/;"	d	file:
+__Pyx_XDECREF	boost.c	/^  #define __Pyx_XDECREF(/;"	d	file:
+__Pyx_XDECREF	boost.cpp	/^  #define __Pyx_XDECREF(/;"	d	file:
+__Pyx_XDECREF	deepboost.c	/^  #define __Pyx_XDECREF(/;"	d	file:
+__Pyx_XDECREF	deepboost.cpp	/^  #define __Pyx_XDECREF(/;"	d	file:
+__Pyx_XDECREF_SET	boost.c	/^#define __Pyx_XDECREF_SET(/;"	d	file:
+__Pyx_XDECREF_SET	boost.cpp	/^#define __Pyx_XDECREF_SET(/;"	d	file:
+__Pyx_XDECREF_SET	deepboost.c	/^#define __Pyx_XDECREF_SET(/;"	d	file:
+__Pyx_XDECREF_SET	deepboost.cpp	/^#define __Pyx_XDECREF_SET(/;"	d	file:
+__Pyx_XGIVEREF	boost.c	/^  #define __Pyx_XGIVEREF(/;"	d	file:
+__Pyx_XGIVEREF	boost.cpp	/^  #define __Pyx_XGIVEREF(/;"	d	file:
+__Pyx_XGIVEREF	deepboost.c	/^  #define __Pyx_XGIVEREF(/;"	d	file:
+__Pyx_XGIVEREF	deepboost.cpp	/^  #define __Pyx_XGIVEREF(/;"	d	file:
+__Pyx_XGOTREF	boost.c	/^  #define __Pyx_XGOTREF(/;"	d	file:
+__Pyx_XGOTREF	boost.cpp	/^  #define __Pyx_XGOTREF(/;"	d	file:
+__Pyx_XGOTREF	deepboost.c	/^  #define __Pyx_XGOTREF(/;"	d	file:
+__Pyx_XGOTREF	deepboost.cpp	/^  #define __Pyx_XGOTREF(/;"	d	file:
+__Pyx_XINCREF	boost.c	/^  #define __Pyx_XINCREF(/;"	d	file:
+__Pyx_XINCREF	boost.cpp	/^  #define __Pyx_XINCREF(/;"	d	file:
+__Pyx_XINCREF	deepboost.c	/^  #define __Pyx_XINCREF(/;"	d	file:
+__Pyx_XINCREF	deepboost.cpp	/^  #define __Pyx_XINCREF(/;"	d	file:
+__Pyx_ZeroBuffer	boost.cpp	/^static CYTHON_INLINE void __Pyx_ZeroBuffer(Py_buffer* buf) {$/;"	f	file:
+__Pyx_ZeroBuffer	deepboost.c	/^static CYTHON_INLINE void __Pyx_ZeroBuffer(Py_buffer* buf) {$/;"	f	file:
+__Pyx_ZeroBuffer	deepboost.cpp	/^static CYTHON_INLINE void __Pyx_ZeroBuffer(Py_buffer* buf) {$/;"	f	file:
+__Pyx_c_abs	boost.cpp	/^        #define __Pyx_c_abs(/;"	d	file:
+__Pyx_c_abs	boost.cpp	/^        static CYTHON_INLINE double __Pyx_c_abs(__pyx_t_double_complex z) {$/;"	f	file:
+__Pyx_c_abs	deepboost.c	/^        #define __Pyx_c_abs(/;"	d	file:
+__Pyx_c_abs	deepboost.c	/^        static CYTHON_INLINE double __Pyx_c_abs(__pyx_t_double_complex z) {$/;"	f	file:
+__Pyx_c_abs	deepboost.cpp	/^        #define __Pyx_c_abs(/;"	d	file:
+__Pyx_c_abs	deepboost.cpp	/^        static CYTHON_INLINE double __Pyx_c_abs(__pyx_t_double_complex z) {$/;"	f	file:
+__Pyx_c_absf	boost.cpp	/^        #define __Pyx_c_absf(/;"	d	file:
+__Pyx_c_absf	boost.cpp	/^        static CYTHON_INLINE float __Pyx_c_absf(__pyx_t_float_complex z) {$/;"	f	file:
+__Pyx_c_absf	deepboost.c	/^        #define __Pyx_c_absf(/;"	d	file:
+__Pyx_c_absf	deepboost.c	/^        static CYTHON_INLINE float __Pyx_c_absf(__pyx_t_float_complex z) {$/;"	f	file:
+__Pyx_c_absf	deepboost.cpp	/^        #define __Pyx_c_absf(/;"	d	file:
+__Pyx_c_absf	deepboost.cpp	/^        static CYTHON_INLINE float __Pyx_c_absf(__pyx_t_float_complex z) {$/;"	f	file:
+__Pyx_c_conj	boost.cpp	/^    #define __Pyx_c_conj(/;"	d	file:
+__Pyx_c_conj	boost.cpp	/^    static CYTHON_INLINE __pyx_t_double_complex __Pyx_c_conj(__pyx_t_double_complex a) {$/;"	f	file:
+__Pyx_c_conj	deepboost.c	/^    #define __Pyx_c_conj(/;"	d	file:
+__Pyx_c_conj	deepboost.c	/^    static CYTHON_INLINE __pyx_t_double_complex __Pyx_c_conj(__pyx_t_double_complex a) {$/;"	f	file:
+__Pyx_c_conj	deepboost.cpp	/^    #define __Pyx_c_conj(/;"	d	file:
+__Pyx_c_conj	deepboost.cpp	/^    static CYTHON_INLINE __pyx_t_double_complex __Pyx_c_conj(__pyx_t_double_complex a) {$/;"	f	file:
+__Pyx_c_conjf	boost.cpp	/^    #define __Pyx_c_conjf(/;"	d	file:
+__Pyx_c_conjf	boost.cpp	/^    static CYTHON_INLINE __pyx_t_float_complex __Pyx_c_conjf(__pyx_t_float_complex a) {$/;"	f	file:
+__Pyx_c_conjf	deepboost.c	/^    #define __Pyx_c_conjf(/;"	d	file:
+__Pyx_c_conjf	deepboost.c	/^    static CYTHON_INLINE __pyx_t_float_complex __Pyx_c_conjf(__pyx_t_float_complex a) {$/;"	f	file:
+__Pyx_c_conjf	deepboost.cpp	/^    #define __Pyx_c_conjf(/;"	d	file:
+__Pyx_c_conjf	deepboost.cpp	/^    static CYTHON_INLINE __pyx_t_float_complex __Pyx_c_conjf(__pyx_t_float_complex a) {$/;"	f	file:
+__Pyx_c_diff	boost.cpp	/^    #define __Pyx_c_diff(/;"	d	file:
+__Pyx_c_diff	boost.cpp	/^    static CYTHON_INLINE __pyx_t_double_complex __Pyx_c_diff(__pyx_t_double_complex a, __pyx_t_double_complex b) {$/;"	f	file:
+__Pyx_c_diff	deepboost.c	/^    #define __Pyx_c_diff(/;"	d	file:
+__Pyx_c_diff	deepboost.c	/^    static CYTHON_INLINE __pyx_t_double_complex __Pyx_c_diff(__pyx_t_double_complex a, __pyx_t_double_complex b) {$/;"	f	file:
+__Pyx_c_diff	deepboost.cpp	/^    #define __Pyx_c_diff(/;"	d	file:
+__Pyx_c_diff	deepboost.cpp	/^    static CYTHON_INLINE __pyx_t_double_complex __Pyx_c_diff(__pyx_t_double_complex a, __pyx_t_double_complex b) {$/;"	f	file:
+__Pyx_c_difff	boost.cpp	/^    #define __Pyx_c_difff(/;"	d	file:
+__Pyx_c_difff	boost.cpp	/^    static CYTHON_INLINE __pyx_t_float_complex __Pyx_c_difff(__pyx_t_float_complex a, __pyx_t_float_complex b) {$/;"	f	file:
+__Pyx_c_difff	deepboost.c	/^    #define __Pyx_c_difff(/;"	d	file:
+__Pyx_c_difff	deepboost.c	/^    static CYTHON_INLINE __pyx_t_float_complex __Pyx_c_difff(__pyx_t_float_complex a, __pyx_t_float_complex b) {$/;"	f	file:
+__Pyx_c_difff	deepboost.cpp	/^    #define __Pyx_c_difff(/;"	d	file:
+__Pyx_c_difff	deepboost.cpp	/^    static CYTHON_INLINE __pyx_t_float_complex __Pyx_c_difff(__pyx_t_float_complex a, __pyx_t_float_complex b) {$/;"	f	file:
+__Pyx_c_eq	boost.cpp	/^    #define __Pyx_c_eq(/;"	d	file:
+__Pyx_c_eq	boost.cpp	/^    static CYTHON_INLINE int __Pyx_c_eq(__pyx_t_double_complex a, __pyx_t_double_complex b) {$/;"	f	file:
+__Pyx_c_eq	deepboost.c	/^    #define __Pyx_c_eq(/;"	d	file:
+__Pyx_c_eq	deepboost.c	/^    static CYTHON_INLINE int __Pyx_c_eq(__pyx_t_double_complex a, __pyx_t_double_complex b) {$/;"	f	file:
+__Pyx_c_eq	deepboost.cpp	/^    #define __Pyx_c_eq(/;"	d	file:
+__Pyx_c_eq	deepboost.cpp	/^    static CYTHON_INLINE int __Pyx_c_eq(__pyx_t_double_complex a, __pyx_t_double_complex b) {$/;"	f	file:
+__Pyx_c_eqf	boost.cpp	/^    #define __Pyx_c_eqf(/;"	d	file:
+__Pyx_c_eqf	boost.cpp	/^    static CYTHON_INLINE int __Pyx_c_eqf(__pyx_t_float_complex a, __pyx_t_float_complex b) {$/;"	f	file:
+__Pyx_c_eqf	deepboost.c	/^    #define __Pyx_c_eqf(/;"	d	file:
+__Pyx_c_eqf	deepboost.c	/^    static CYTHON_INLINE int __Pyx_c_eqf(__pyx_t_float_complex a, __pyx_t_float_complex b) {$/;"	f	file:
+__Pyx_c_eqf	deepboost.cpp	/^    #define __Pyx_c_eqf(/;"	d	file:
+__Pyx_c_eqf	deepboost.cpp	/^    static CYTHON_INLINE int __Pyx_c_eqf(__pyx_t_float_complex a, __pyx_t_float_complex b) {$/;"	f	file:
+__Pyx_c_is_zero	boost.cpp	/^    #define __Pyx_c_is_zero(/;"	d	file:
+__Pyx_c_is_zero	boost.cpp	/^    static CYTHON_INLINE int __Pyx_c_is_zero(__pyx_t_double_complex a) {$/;"	f	file:
+__Pyx_c_is_zero	deepboost.c	/^    #define __Pyx_c_is_zero(/;"	d	file:
+__Pyx_c_is_zero	deepboost.c	/^    static CYTHON_INLINE int __Pyx_c_is_zero(__pyx_t_double_complex a) {$/;"	f	file:
+__Pyx_c_is_zero	deepboost.cpp	/^    #define __Pyx_c_is_zero(/;"	d	file:
+__Pyx_c_is_zero	deepboost.cpp	/^    static CYTHON_INLINE int __Pyx_c_is_zero(__pyx_t_double_complex a) {$/;"	f	file:
+__Pyx_c_is_zerof	boost.cpp	/^    #define __Pyx_c_is_zerof(/;"	d	file:
+__Pyx_c_is_zerof	boost.cpp	/^    static CYTHON_INLINE int __Pyx_c_is_zerof(__pyx_t_float_complex a) {$/;"	f	file:
+__Pyx_c_is_zerof	deepboost.c	/^    #define __Pyx_c_is_zerof(/;"	d	file:
+__Pyx_c_is_zerof	deepboost.c	/^    static CYTHON_INLINE int __Pyx_c_is_zerof(__pyx_t_float_complex a) {$/;"	f	file:
+__Pyx_c_is_zerof	deepboost.cpp	/^    #define __Pyx_c_is_zerof(/;"	d	file:
+__Pyx_c_is_zerof	deepboost.cpp	/^    static CYTHON_INLINE int __Pyx_c_is_zerof(__pyx_t_float_complex a) {$/;"	f	file:
+__Pyx_c_neg	boost.cpp	/^    #define __Pyx_c_neg(/;"	d	file:
+__Pyx_c_neg	boost.cpp	/^    static CYTHON_INLINE __pyx_t_double_complex __Pyx_c_neg(__pyx_t_double_complex a) {$/;"	f	file:
+__Pyx_c_neg	deepboost.c	/^    #define __Pyx_c_neg(/;"	d	file:
+__Pyx_c_neg	deepboost.c	/^    static CYTHON_INLINE __pyx_t_double_complex __Pyx_c_neg(__pyx_t_double_complex a) {$/;"	f	file:
+__Pyx_c_neg	deepboost.cpp	/^    #define __Pyx_c_neg(/;"	d	file:
+__Pyx_c_neg	deepboost.cpp	/^    static CYTHON_INLINE __pyx_t_double_complex __Pyx_c_neg(__pyx_t_double_complex a) {$/;"	f	file:
+__Pyx_c_negf	boost.cpp	/^    #define __Pyx_c_negf(/;"	d	file:
+__Pyx_c_negf	boost.cpp	/^    static CYTHON_INLINE __pyx_t_float_complex __Pyx_c_negf(__pyx_t_float_complex a) {$/;"	f	file:
+__Pyx_c_negf	deepboost.c	/^    #define __Pyx_c_negf(/;"	d	file:
+__Pyx_c_negf	deepboost.c	/^    static CYTHON_INLINE __pyx_t_float_complex __Pyx_c_negf(__pyx_t_float_complex a) {$/;"	f	file:
+__Pyx_c_negf	deepboost.cpp	/^    #define __Pyx_c_negf(/;"	d	file:
+__Pyx_c_negf	deepboost.cpp	/^    static CYTHON_INLINE __pyx_t_float_complex __Pyx_c_negf(__pyx_t_float_complex a) {$/;"	f	file:
+__Pyx_c_pow	boost.cpp	/^        #define __Pyx_c_pow(/;"	d	file:
+__Pyx_c_pow	boost.cpp	/^        static CYTHON_INLINE __pyx_t_double_complex __Pyx_c_pow(__pyx_t_double_complex a, __pyx_t_double_complex b) {$/;"	f	file:
+__Pyx_c_pow	deepboost.c	/^        #define __Pyx_c_pow(/;"	d	file:
+__Pyx_c_pow	deepboost.c	/^        static CYTHON_INLINE __pyx_t_double_complex __Pyx_c_pow(__pyx_t_double_complex a, __pyx_t_double_complex b) {$/;"	f	file:
+__Pyx_c_pow	deepboost.cpp	/^        #define __Pyx_c_pow(/;"	d	file:
+__Pyx_c_pow	deepboost.cpp	/^        static CYTHON_INLINE __pyx_t_double_complex __Pyx_c_pow(__pyx_t_double_complex a, __pyx_t_double_complex b) {$/;"	f	file:
+__Pyx_c_powf	boost.cpp	/^        #define __Pyx_c_powf(/;"	d	file:
+__Pyx_c_powf	boost.cpp	/^        static CYTHON_INLINE __pyx_t_float_complex __Pyx_c_powf(__pyx_t_float_complex a, __pyx_t_float_complex b) {$/;"	f	file:
+__Pyx_c_powf	deepboost.c	/^        #define __Pyx_c_powf(/;"	d	file:
+__Pyx_c_powf	deepboost.c	/^        static CYTHON_INLINE __pyx_t_float_complex __Pyx_c_powf(__pyx_t_float_complex a, __pyx_t_float_complex b) {$/;"	f	file:
+__Pyx_c_powf	deepboost.cpp	/^        #define __Pyx_c_powf(/;"	d	file:
+__Pyx_c_powf	deepboost.cpp	/^        static CYTHON_INLINE __pyx_t_float_complex __Pyx_c_powf(__pyx_t_float_complex a, __pyx_t_float_complex b) {$/;"	f	file:
+__Pyx_c_prod	boost.cpp	/^    #define __Pyx_c_prod(/;"	d	file:
+__Pyx_c_prod	boost.cpp	/^    static CYTHON_INLINE __pyx_t_double_complex __Pyx_c_prod(__pyx_t_double_complex a, __pyx_t_double_complex b) {$/;"	f	file:
+__Pyx_c_prod	deepboost.c	/^    #define __Pyx_c_prod(/;"	d	file:
+__Pyx_c_prod	deepboost.c	/^    static CYTHON_INLINE __pyx_t_double_complex __Pyx_c_prod(__pyx_t_double_complex a, __pyx_t_double_complex b) {$/;"	f	file:
+__Pyx_c_prod	deepboost.cpp	/^    #define __Pyx_c_prod(/;"	d	file:
+__Pyx_c_prod	deepboost.cpp	/^    static CYTHON_INLINE __pyx_t_double_complex __Pyx_c_prod(__pyx_t_double_complex a, __pyx_t_double_complex b) {$/;"	f	file:
+__Pyx_c_prodf	boost.cpp	/^    #define __Pyx_c_prodf(/;"	d	file:
+__Pyx_c_prodf	boost.cpp	/^    static CYTHON_INLINE __pyx_t_float_complex __Pyx_c_prodf(__pyx_t_float_complex a, __pyx_t_float_complex b) {$/;"	f	file:
+__Pyx_c_prodf	deepboost.c	/^    #define __Pyx_c_prodf(/;"	d	file:
+__Pyx_c_prodf	deepboost.c	/^    static CYTHON_INLINE __pyx_t_float_complex __Pyx_c_prodf(__pyx_t_float_complex a, __pyx_t_float_complex b) {$/;"	f	file:
+__Pyx_c_prodf	deepboost.cpp	/^    #define __Pyx_c_prodf(/;"	d	file:
+__Pyx_c_prodf	deepboost.cpp	/^    static CYTHON_INLINE __pyx_t_float_complex __Pyx_c_prodf(__pyx_t_float_complex a, __pyx_t_float_complex b) {$/;"	f	file:
+__Pyx_c_quot	boost.cpp	/^    #define __Pyx_c_quot(/;"	d	file:
+__Pyx_c_quot	boost.cpp	/^    static CYTHON_INLINE __pyx_t_double_complex __Pyx_c_quot(__pyx_t_double_complex a, __pyx_t_double_complex b) {$/;"	f	file:
+__Pyx_c_quot	deepboost.c	/^    #define __Pyx_c_quot(/;"	d	file:
+__Pyx_c_quot	deepboost.c	/^    static CYTHON_INLINE __pyx_t_double_complex __Pyx_c_quot(__pyx_t_double_complex a, __pyx_t_double_complex b) {$/;"	f	file:
+__Pyx_c_quot	deepboost.cpp	/^    #define __Pyx_c_quot(/;"	d	file:
+__Pyx_c_quot	deepboost.cpp	/^    static CYTHON_INLINE __pyx_t_double_complex __Pyx_c_quot(__pyx_t_double_complex a, __pyx_t_double_complex b) {$/;"	f	file:
+__Pyx_c_quotf	boost.cpp	/^    #define __Pyx_c_quotf(/;"	d	file:
+__Pyx_c_quotf	boost.cpp	/^    static CYTHON_INLINE __pyx_t_float_complex __Pyx_c_quotf(__pyx_t_float_complex a, __pyx_t_float_complex b) {$/;"	f	file:
+__Pyx_c_quotf	deepboost.c	/^    #define __Pyx_c_quotf(/;"	d	file:
+__Pyx_c_quotf	deepboost.c	/^    static CYTHON_INLINE __pyx_t_float_complex __Pyx_c_quotf(__pyx_t_float_complex a, __pyx_t_float_complex b) {$/;"	f	file:
+__Pyx_c_quotf	deepboost.cpp	/^    #define __Pyx_c_quotf(/;"	d	file:
+__Pyx_c_quotf	deepboost.cpp	/^    static CYTHON_INLINE __pyx_t_float_complex __Pyx_c_quotf(__pyx_t_float_complex a, __pyx_t_float_complex b) {$/;"	f	file:
+__Pyx_c_sum	boost.cpp	/^    #define __Pyx_c_sum(/;"	d	file:
+__Pyx_c_sum	boost.cpp	/^    static CYTHON_INLINE __pyx_t_double_complex __Pyx_c_sum(__pyx_t_double_complex a, __pyx_t_double_complex b) {$/;"	f	file:
+__Pyx_c_sum	deepboost.c	/^    #define __Pyx_c_sum(/;"	d	file:
+__Pyx_c_sum	deepboost.c	/^    static CYTHON_INLINE __pyx_t_double_complex __Pyx_c_sum(__pyx_t_double_complex a, __pyx_t_double_complex b) {$/;"	f	file:
+__Pyx_c_sum	deepboost.cpp	/^    #define __Pyx_c_sum(/;"	d	file:
+__Pyx_c_sum	deepboost.cpp	/^    static CYTHON_INLINE __pyx_t_double_complex __Pyx_c_sum(__pyx_t_double_complex a, __pyx_t_double_complex b) {$/;"	f	file:
+__Pyx_c_sumf	boost.cpp	/^    #define __Pyx_c_sumf(/;"	d	file:
+__Pyx_c_sumf	boost.cpp	/^    static CYTHON_INLINE __pyx_t_float_complex __Pyx_c_sumf(__pyx_t_float_complex a, __pyx_t_float_complex b) {$/;"	f	file:
+__Pyx_c_sumf	deepboost.c	/^    #define __Pyx_c_sumf(/;"	d	file:
+__Pyx_c_sumf	deepboost.c	/^    static CYTHON_INLINE __pyx_t_float_complex __Pyx_c_sumf(__pyx_t_float_complex a, __pyx_t_float_complex b) {$/;"	f	file:
+__Pyx_c_sumf	deepboost.cpp	/^    #define __Pyx_c_sumf(/;"	d	file:
+__Pyx_c_sumf	deepboost.cpp	/^    static CYTHON_INLINE __pyx_t_float_complex __Pyx_c_sumf(__pyx_t_float_complex a, __pyx_t_float_complex b) {$/;"	f	file:
+__Pyx_call_destructor	boost.cpp	/^void __Pyx_call_destructor(T& x) {$/;"	f
+__Pyx_call_destructor	deepboost.cpp	/^void __Pyx_call_destructor(T& x) {$/;"	f
+__Pyx_check_binary_version	boost.c	/^static int __Pyx_check_binary_version(void) {$/;"	f	file:
+__Pyx_check_binary_version	boost.cpp	/^static int __Pyx_check_binary_version(void) {$/;"	f	file:
+__Pyx_check_binary_version	deepboost.c	/^static int __Pyx_check_binary_version(void) {$/;"	f	file:
+__Pyx_check_binary_version	deepboost.cpp	/^static int __Pyx_check_binary_version(void) {$/;"	f	file:
+__Pyx_fits_Py_ssize_t	boost.c	/^#define __Pyx_fits_Py_ssize_t(/;"	d	file:
+__Pyx_fits_Py_ssize_t	boost.cpp	/^#define __Pyx_fits_Py_ssize_t(/;"	d	file:
+__Pyx_fits_Py_ssize_t	deepboost.c	/^#define __Pyx_fits_Py_ssize_t(/;"	d	file:
+__Pyx_fits_Py_ssize_t	deepboost.cpp	/^#define __Pyx_fits_Py_ssize_t(/;"	d	file:
+__Pyx_init_sys_getdefaultencoding_params	boost.c	/^static int __Pyx_init_sys_getdefaultencoding_params(void) {$/;"	f	file:
+__Pyx_init_sys_getdefaultencoding_params	boost.cpp	/^static int __Pyx_init_sys_getdefaultencoding_params(void) {$/;"	f	file:
+__Pyx_init_sys_getdefaultencoding_params	deepboost.c	/^static int __Pyx_init_sys_getdefaultencoding_params(void) {$/;"	f	file:
+__Pyx_init_sys_getdefaultencoding_params	deepboost.cpp	/^static int __Pyx_init_sys_getdefaultencoding_params(void) {$/;"	f	file:
+__Pyx_long_cast	boost.c	/^#define __Pyx_long_cast(/;"	d	file:
+__Pyx_long_cast	boost.cpp	/^#define __Pyx_long_cast(/;"	d	file:
+__Pyx_long_cast	deepboost.c	/^#define __Pyx_long_cast(/;"	d	file:
+__Pyx_long_cast	deepboost.cpp	/^#define __Pyx_long_cast(/;"	d	file:
+__Pyx_minusones	boost.cpp	/^static Py_ssize_t __Pyx_minusones[] = {-1, -1, -1, -1, -1, -1, -1, -1};$/;"	v	file:
+__Pyx_minusones	deepboost.c	/^static Py_ssize_t __Pyx_minusones[] = {-1, -1, -1, -1, -1, -1, -1, -1};$/;"	v	file:
+__Pyx_minusones	deepboost.cpp	/^static Py_ssize_t __Pyx_minusones[] = {-1, -1, -1, -1, -1, -1, -1, -1};$/;"	v	file:
+__Pyx_pad_double	boost.cpp	/^typedef struct { double x; char c; } __Pyx_pad_double;$/;"	t	typeref:struct:__anon29	file:
+__Pyx_pad_double	deepboost.c	/^typedef struct { double x; char c; } __Pyx_pad_double;$/;"	t	typeref:struct:__anon57	file:
+__Pyx_pad_double	deepboost.cpp	/^typedef struct { double x; char c; } __Pyx_pad_double;$/;"	t	typeref:struct:__anon85	file:
+__Pyx_pad_float	boost.cpp	/^typedef struct { float x; char c; } __Pyx_pad_float;$/;"	t	typeref:struct:__anon28	file:
+__Pyx_pad_float	deepboost.c	/^typedef struct { float x; char c; } __Pyx_pad_float;$/;"	t	typeref:struct:__anon56	file:
+__Pyx_pad_float	deepboost.cpp	/^typedef struct { float x; char c; } __Pyx_pad_float;$/;"	t	typeref:struct:__anon84	file:
+__Pyx_pad_int	boost.cpp	/^typedef struct { int x; char c; } __Pyx_pad_int;$/;"	t	typeref:struct:__anon26	file:
+__Pyx_pad_int	deepboost.c	/^typedef struct { int x; char c; } __Pyx_pad_int;$/;"	t	typeref:struct:__anon54	file:
+__Pyx_pad_int	deepboost.cpp	/^typedef struct { int x; char c; } __Pyx_pad_int;$/;"	t	typeref:struct:__anon82	file:
+__Pyx_pad_long	boost.cpp	/^typedef struct { long x; char c; } __Pyx_pad_long;$/;"	t	typeref:struct:__anon27	file:
+__Pyx_pad_long	deepboost.c	/^typedef struct { long x; char c; } __Pyx_pad_long;$/;"	t	typeref:struct:__anon55	file:
+__Pyx_pad_long	deepboost.cpp	/^typedef struct { long x; char c; } __Pyx_pad_long;$/;"	t	typeref:struct:__anon83	file:
+__Pyx_pad_longdouble	boost.cpp	/^typedef struct { long double x; char c; } __Pyx_pad_longdouble;$/;"	t	typeref:struct:__anon30	file:
+__Pyx_pad_longdouble	deepboost.c	/^typedef struct { long double x; char c; } __Pyx_pad_longdouble;$/;"	t	typeref:struct:__anon58	file:
+__Pyx_pad_longdouble	deepboost.cpp	/^typedef struct { long double x; char c; } __Pyx_pad_longdouble;$/;"	t	typeref:struct:__anon86	file:
+__Pyx_pad_longlong	boost.cpp	/^typedef struct { PY_LONG_LONG x; char c; } __Pyx_pad_longlong;$/;"	t	typeref:struct:__anon32	file:
+__Pyx_pad_longlong	deepboost.c	/^typedef struct { PY_LONG_LONG x; char c; } __Pyx_pad_longlong;$/;"	t	typeref:struct:__anon60	file:
+__Pyx_pad_longlong	deepboost.cpp	/^typedef struct { PY_LONG_LONG x; char c; } __Pyx_pad_longlong;$/;"	t	typeref:struct:__anon88	file:
+__Pyx_pad_short	boost.cpp	/^typedef struct { short x; char c; } __Pyx_pad_short;$/;"	t	typeref:struct:__anon25	file:
+__Pyx_pad_short	deepboost.c	/^typedef struct { short x; char c; } __Pyx_pad_short;$/;"	t	typeref:struct:__anon53	file:
+__Pyx_pad_short	deepboost.cpp	/^typedef struct { short x; char c; } __Pyx_pad_short;$/;"	t	typeref:struct:__anon81	file:
+__Pyx_pad_void_p	boost.cpp	/^typedef struct { void *x; char c; } __Pyx_pad_void_p;$/;"	t	typeref:struct:__anon31	file:
+__Pyx_pad_void_p	deepboost.c	/^typedef struct { void *x; char c; } __Pyx_pad_void_p;$/;"	t	typeref:struct:__anon59	file:
+__Pyx_pad_void_p	deepboost.cpp	/^typedef struct { void *x; char c; } __Pyx_pad_void_p;$/;"	t	typeref:struct:__anon87	file:
+__Pyx_sst_abs	boost.c	/^    #define __Pyx_sst_abs(/;"	d	file:
+__Pyx_sst_abs	boost.cpp	/^    #define __Pyx_sst_abs(/;"	d	file:
+__Pyx_sst_abs	deepboost.c	/^    #define __Pyx_sst_abs(/;"	d	file:
+__Pyx_sst_abs	deepboost.cpp	/^    #define __Pyx_sst_abs(/;"	d	file:
+__Pyx_st_double	boost.cpp	/^typedef struct { char c; double x; } __Pyx_st_double;$/;"	t	typeref:struct:__anon21	file:
+__Pyx_st_double	deepboost.c	/^typedef struct { char c; double x; } __Pyx_st_double;$/;"	t	typeref:struct:__anon49	file:
+__Pyx_st_double	deepboost.cpp	/^typedef struct { char c; double x; } __Pyx_st_double;$/;"	t	typeref:struct:__anon77	file:
+__Pyx_st_float	boost.cpp	/^typedef struct { char c; float x; } __Pyx_st_float;$/;"	t	typeref:struct:__anon20	file:
+__Pyx_st_float	deepboost.c	/^typedef struct { char c; float x; } __Pyx_st_float;$/;"	t	typeref:struct:__anon48	file:
+__Pyx_st_float	deepboost.cpp	/^typedef struct { char c; float x; } __Pyx_st_float;$/;"	t	typeref:struct:__anon76	file:
+__Pyx_st_int	boost.cpp	/^typedef struct { char c; int x; } __Pyx_st_int;$/;"	t	typeref:struct:__anon18	file:
+__Pyx_st_int	deepboost.c	/^typedef struct { char c; int x; } __Pyx_st_int;$/;"	t	typeref:struct:__anon46	file:
+__Pyx_st_int	deepboost.cpp	/^typedef struct { char c; int x; } __Pyx_st_int;$/;"	t	typeref:struct:__anon74	file:
+__Pyx_st_long	boost.cpp	/^typedef struct { char c; long x; } __Pyx_st_long;$/;"	t	typeref:struct:__anon19	file:
+__Pyx_st_long	deepboost.c	/^typedef struct { char c; long x; } __Pyx_st_long;$/;"	t	typeref:struct:__anon47	file:
+__Pyx_st_long	deepboost.cpp	/^typedef struct { char c; long x; } __Pyx_st_long;$/;"	t	typeref:struct:__anon75	file:
+__Pyx_st_longdouble	boost.cpp	/^typedef struct { char c; long double x; } __Pyx_st_longdouble;$/;"	t	typeref:struct:__anon22	file:
+__Pyx_st_longdouble	deepboost.c	/^typedef struct { char c; long double x; } __Pyx_st_longdouble;$/;"	t	typeref:struct:__anon50	file:
+__Pyx_st_longdouble	deepboost.cpp	/^typedef struct { char c; long double x; } __Pyx_st_longdouble;$/;"	t	typeref:struct:__anon78	file:
+__Pyx_st_longlong	boost.cpp	/^typedef struct { char c; PY_LONG_LONG x; } __Pyx_st_longlong;$/;"	t	typeref:struct:__anon24	file:
+__Pyx_st_longlong	deepboost.c	/^typedef struct { char c; PY_LONG_LONG x; } __Pyx_st_longlong;$/;"	t	typeref:struct:__anon52	file:
+__Pyx_st_longlong	deepboost.cpp	/^typedef struct { char c; PY_LONG_LONG x; } __Pyx_st_longlong;$/;"	t	typeref:struct:__anon80	file:
+__Pyx_st_short	boost.cpp	/^typedef struct { char c; short x; } __Pyx_st_short;$/;"	t	typeref:struct:__anon17	file:
+__Pyx_st_short	deepboost.c	/^typedef struct { char c; short x; } __Pyx_st_short;$/;"	t	typeref:struct:__anon45	file:
+__Pyx_st_short	deepboost.cpp	/^typedef struct { char c; short x; } __Pyx_st_short;$/;"	t	typeref:struct:__anon73	file:
+__Pyx_st_void_p	boost.cpp	/^typedef struct { char c; void *x; } __Pyx_st_void_p;$/;"	t	typeref:struct:__anon23	file:
+__Pyx_st_void_p	deepboost.c	/^typedef struct { char c; void *x; } __Pyx_st_void_p;$/;"	t	typeref:struct:__anon51	file:
+__Pyx_st_void_p	deepboost.cpp	/^typedef struct { char c; void *x; } __Pyx_st_void_p;$/;"	t	typeref:struct:__anon79	file:
+__Pyx_sys_getdefaultencoding_not_ascii	boost.c	/^static int __Pyx_sys_getdefaultencoding_not_ascii;$/;"	v	file:
+__Pyx_sys_getdefaultencoding_not_ascii	boost.cpp	/^static int __Pyx_sys_getdefaultencoding_not_ascii;$/;"	v	file:
+__Pyx_sys_getdefaultencoding_not_ascii	deepboost.c	/^static int __Pyx_sys_getdefaultencoding_not_ascii;$/;"	v	file:
+__Pyx_sys_getdefaultencoding_not_ascii	deepboost.cpp	/^static int __Pyx_sys_getdefaultencoding_not_ascii;$/;"	v	file:
+__Pyx_uchar_cast	boost.c	/^#define __Pyx_uchar_cast(/;"	d	file:
+__Pyx_uchar_cast	boost.cpp	/^#define __Pyx_uchar_cast(/;"	d	file:
+__Pyx_uchar_cast	deepboost.c	/^#define __Pyx_uchar_cast(/;"	d	file:
+__Pyx_uchar_cast	deepboost.cpp	/^#define __Pyx_uchar_cast(/;"	d	file:
+__Pyx_void_to_None	boost.c	/^#define __Pyx_void_to_None(/;"	d	file:
+__Pyx_void_to_None	boost.cpp	/^#define __Pyx_void_to_None(/;"	d	file:
+__Pyx_void_to_None	deepboost.c	/^#define __Pyx_void_to_None(/;"	d	file:
+__Pyx_void_to_None	deepboost.cpp	/^#define __Pyx_void_to_None(/;"	d	file:
+__Pyx_zeros	boost.cpp	/^static Py_ssize_t __Pyx_zeros[] = {0, 0, 0, 0, 0, 0, 0, 0};$/;"	v	file:
+__Pyx_zeros	deepboost.c	/^static Py_ssize_t __Pyx_zeros[] = {0, 0, 0, 0, 0, 0, 0, 0};$/;"	v	file:
+__Pyx_zeros	deepboost.cpp	/^static Py_ssize_t __Pyx_zeros[] = {0, 0, 0, 0, 0, 0, 0, 0};$/;"	v	file:
+__cdecl	boost.c	/^    #define __cdecl$/;"	d	file:
+__cdecl	boost.cpp	/^    #define __cdecl$/;"	d	file:
+__cdecl	deepboost.c	/^    #define __cdecl$/;"	d	file:
+__cdecl	deepboost.cpp	/^    #define __cdecl$/;"	d	file:
+__cinit__	deepboost.pyx	/^    def __cinit__(self):$/;"	m	class:PyModel	file:
+__fastcall	boost.c	/^    #define __fastcall$/;"	d	file:
+__fastcall	boost.cpp	/^    #define __fastcall$/;"	d	file:
+__fastcall	deepboost.c	/^    #define __fastcall$/;"	d	file:
+__fastcall	deepboost.cpp	/^    #define __fastcall$/;"	d	file:
+__pyx_PyFloat_AsDouble	boost.c	/^#define __pyx_PyFloat_AsDouble(/;"	d	file:
+__pyx_PyFloat_AsDouble	boost.cpp	/^#define __pyx_PyFloat_AsDouble(/;"	d	file:
+__pyx_PyFloat_AsDouble	deepboost.c	/^#define __pyx_PyFloat_AsDouble(/;"	d	file:
+__pyx_PyFloat_AsDouble	deepboost.cpp	/^#define __pyx_PyFloat_AsDouble(/;"	d	file:
+__pyx_PyFloat_AsFloat	boost.c	/^#define __pyx_PyFloat_AsFloat(/;"	d	file:
+__pyx_PyFloat_AsFloat	boost.cpp	/^#define __pyx_PyFloat_AsFloat(/;"	d	file:
+__pyx_PyFloat_AsFloat	deepboost.c	/^#define __pyx_PyFloat_AsFloat(/;"	d	file:
+__pyx_PyFloat_AsFloat	deepboost.cpp	/^#define __pyx_PyFloat_AsFloat(/;"	d	file:
+__pyx_b	boost.c	/^static PyObject *__pyx_b;$/;"	v	file:
+__pyx_b	boost.cpp	/^static PyObject *__pyx_b;$/;"	v	file:
+__pyx_b	deepboost.c	/^static PyObject *__pyx_b;$/;"	v	file:
+__pyx_b	deepboost.cpp	/^static PyObject *__pyx_b;$/;"	v	file:
+__pyx_bisect_code_objects	boost.c	/^static int __pyx_bisect_code_objects(__Pyx_CodeObjectCacheEntry* entries, int count, int code_line) {$/;"	f	file:
+__pyx_bisect_code_objects	boost.cpp	/^static int __pyx_bisect_code_objects(__Pyx_CodeObjectCacheEntry* entries, int count, int code_line) {$/;"	f	file:
+__pyx_bisect_code_objects	deepboost.c	/^static int __pyx_bisect_code_objects(__Pyx_CodeObjectCacheEntry* entries, int count, int code_line) {$/;"	f	file:
+__pyx_bisect_code_objects	deepboost.cpp	/^static int __pyx_bisect_code_objects(__Pyx_CodeObjectCacheEntry* entries, int count, int code_line) {$/;"	f	file:
+__pyx_buffmt_parse_array	boost.cpp	/^__pyx_buffmt_parse_array(__Pyx_BufFmt_Context* ctx, const char** tsp)$/;"	f	file:
+__pyx_buffmt_parse_array	deepboost.c	/^__pyx_buffmt_parse_array(__Pyx_BufFmt_Context* ctx, const char** tsp)$/;"	f	file:
+__pyx_buffmt_parse_array	deepboost.cpp	/^__pyx_buffmt_parse_array(__Pyx_BufFmt_Context* ctx, const char** tsp)$/;"	f	file:
+__pyx_builtin_RuntimeError	boost.cpp	/^static PyObject *__pyx_builtin_RuntimeError;$/;"	v	file:
+__pyx_builtin_RuntimeError	deepboost.c	/^static PyObject *__pyx_builtin_RuntimeError;$/;"	v	file:
+__pyx_builtin_RuntimeError	deepboost.cpp	/^static PyObject *__pyx_builtin_RuntimeError;$/;"	v	file:
+__pyx_builtin_ValueError	boost.cpp	/^static PyObject *__pyx_builtin_ValueError;$/;"	v	file:
+__pyx_builtin_ValueError	deepboost.c	/^static PyObject *__pyx_builtin_ValueError;$/;"	v	file:
+__pyx_builtin_ValueError	deepboost.cpp	/^static PyObject *__pyx_builtin_ValueError;$/;"	v	file:
+__pyx_builtin_range	boost.cpp	/^static PyObject *__pyx_builtin_range;$/;"	v	file:
+__pyx_builtin_range	deepboost.c	/^static PyObject *__pyx_builtin_range;$/;"	v	file:
+__pyx_builtin_range	deepboost.cpp	/^static PyObject *__pyx_builtin_range;$/;"	v	file:
+__pyx_cfilenm	boost.c	/^static const char * __pyx_cfilenm= __FILE__;$/;"	v	file:
+__pyx_cfilenm	boost.cpp	/^static const char * __pyx_cfilenm= __FILE__;$/;"	v	file:
+__pyx_cfilenm	deepboost.c	/^static const char * __pyx_cfilenm= __FILE__;$/;"	v	file:
+__pyx_cfilenm	deepboost.cpp	/^static const char * __pyx_cfilenm= __FILE__;$/;"	v	file:
+__pyx_clineno	boost.c	/^static int __pyx_clineno = 0;$/;"	v	file:
+__pyx_clineno	boost.cpp	/^static int __pyx_clineno = 0;$/;"	v	file:
+__pyx_clineno	deepboost.c	/^static int __pyx_clineno = 0;$/;"	v	file:
+__pyx_clineno	deepboost.cpp	/^static int __pyx_clineno = 0;$/;"	v	file:
+__pyx_code_cache	boost.c	/^static struct __Pyx_CodeObjectCache __pyx_code_cache = {0,0,NULL};$/;"	v	typeref:struct:__Pyx_CodeObjectCache	file:
+__pyx_code_cache	boost.cpp	/^static struct __Pyx_CodeObjectCache __pyx_code_cache = {0,0,NULL};$/;"	v	typeref:struct:__Pyx_CodeObjectCache	file:
+__pyx_code_cache	deepboost.c	/^static struct __Pyx_CodeObjectCache __pyx_code_cache = {0,0,NULL};$/;"	v	typeref:struct:__Pyx_CodeObjectCache	file:
+__pyx_code_cache	deepboost.cpp	/^static struct __Pyx_CodeObjectCache __pyx_code_cache = {0,0,NULL};$/;"	v	typeref:struct:__Pyx_CodeObjectCache	file:
+__pyx_codeobj__8	boost.cpp	/^static PyObject *__pyx_codeobj__8;$/;"	v	file:
+__pyx_codeobj__8	deepboost.c	/^static PyObject *__pyx_codeobj__8;$/;"	v	file:
+__pyx_d	boost.c	/^static PyObject *__pyx_d;$/;"	v	file:
+__pyx_d	boost.cpp	/^static PyObject *__pyx_d;$/;"	v	file:
+__pyx_d	deepboost.c	/^static PyObject *__pyx_d;$/;"	v	file:
+__pyx_d	deepboost.cpp	/^static PyObject *__pyx_d;$/;"	v	file:
+__pyx_empty_bytes	boost.c	/^static PyObject *__pyx_empty_bytes;$/;"	v	file:
+__pyx_empty_bytes	boost.cpp	/^static PyObject *__pyx_empty_bytes;$/;"	v	file:
+__pyx_empty_bytes	deepboost.c	/^static PyObject *__pyx_empty_bytes;$/;"	v	file:
+__pyx_empty_bytes	deepboost.cpp	/^static PyObject *__pyx_empty_bytes;$/;"	v	file:
+__pyx_empty_tuple	boost.c	/^static PyObject *__pyx_empty_tuple;$/;"	v	file:
+__pyx_empty_tuple	boost.cpp	/^static PyObject *__pyx_empty_tuple;$/;"	v	file:
+__pyx_empty_tuple	deepboost.c	/^static PyObject *__pyx_empty_tuple;$/;"	v	file:
+__pyx_empty_tuple	deepboost.cpp	/^static PyObject *__pyx_empty_tuple;$/;"	v	file:
+__pyx_f	boost.c	/^static const char *__pyx_f[] = {$/;"	v	file:
+__pyx_f	boost.cpp	/^static const char *__pyx_f[] = {$/;"	v	file:
+__pyx_f	deepboost.c	/^static const char *__pyx_f[] = {$/;"	v	file:
+__pyx_f	deepboost.cpp	/^static const char *__pyx_f[] = {$/;"	v	file:
+__pyx_f_5numpy_PyArray_MultiIterNew1	boost.cpp	/^static CYTHON_INLINE PyObject *__pyx_f_5numpy_PyArray_MultiIterNew1(PyObject *__pyx_v_a) {$/;"	f	file:
+__pyx_f_5numpy_PyArray_MultiIterNew1	deepboost.c	/^static CYTHON_INLINE PyObject *__pyx_f_5numpy_PyArray_MultiIterNew1(PyObject *__pyx_v_a) {$/;"	f	file:
+__pyx_f_5numpy_PyArray_MultiIterNew1	deepboost.cpp	/^static CYTHON_INLINE PyObject *__pyx_f_5numpy_PyArray_MultiIterNew1(PyObject *__pyx_v_a) {$/;"	f	file:
+__pyx_f_5numpy_PyArray_MultiIterNew2	boost.cpp	/^static CYTHON_INLINE PyObject *__pyx_f_5numpy_PyArray_MultiIterNew2(PyObject *__pyx_v_a, PyObject *__pyx_v_b) {$/;"	f	file:
+__pyx_f_5numpy_PyArray_MultiIterNew2	deepboost.c	/^static CYTHON_INLINE PyObject *__pyx_f_5numpy_PyArray_MultiIterNew2(PyObject *__pyx_v_a, PyObject *__pyx_v_b) {$/;"	f	file:
+__pyx_f_5numpy_PyArray_MultiIterNew2	deepboost.cpp	/^static CYTHON_INLINE PyObject *__pyx_f_5numpy_PyArray_MultiIterNew2(PyObject *__pyx_v_a, PyObject *__pyx_v_b) {$/;"	f	file:
+__pyx_f_5numpy_PyArray_MultiIterNew3	boost.cpp	/^static CYTHON_INLINE PyObject *__pyx_f_5numpy_PyArray_MultiIterNew3(PyObject *__pyx_v_a, PyObject *__pyx_v_b, PyObject *__pyx_v_c) {$/;"	f	file:
+__pyx_f_5numpy_PyArray_MultiIterNew3	deepboost.c	/^static CYTHON_INLINE PyObject *__pyx_f_5numpy_PyArray_MultiIterNew3(PyObject *__pyx_v_a, PyObject *__pyx_v_b, PyObject *__pyx_v_c) {$/;"	f	file:
+__pyx_f_5numpy_PyArray_MultiIterNew3	deepboost.cpp	/^static CYTHON_INLINE PyObject *__pyx_f_5numpy_PyArray_MultiIterNew3(PyObject *__pyx_v_a, PyObject *__pyx_v_b, PyObject *__pyx_v_c) {$/;"	f	file:
+__pyx_f_5numpy_PyArray_MultiIterNew4	boost.cpp	/^static CYTHON_INLINE PyObject *__pyx_f_5numpy_PyArray_MultiIterNew4(PyObject *__pyx_v_a, PyObject *__pyx_v_b, PyObject *__pyx_v_c, PyObject *__pyx_v_d) {$/;"	f	file:
+__pyx_f_5numpy_PyArray_MultiIterNew4	deepboost.c	/^static CYTHON_INLINE PyObject *__pyx_f_5numpy_PyArray_MultiIterNew4(PyObject *__pyx_v_a, PyObject *__pyx_v_b, PyObject *__pyx_v_c, PyObject *__pyx_v_d) {$/;"	f	file:
+__pyx_f_5numpy_PyArray_MultiIterNew4	deepboost.cpp	/^static CYTHON_INLINE PyObject *__pyx_f_5numpy_PyArray_MultiIterNew4(PyObject *__pyx_v_a, PyObject *__pyx_v_b, PyObject *__pyx_v_c, PyObject *__pyx_v_d) {$/;"	f	file:
+__pyx_f_5numpy_PyArray_MultiIterNew5	boost.cpp	/^static CYTHON_INLINE PyObject *__pyx_f_5numpy_PyArray_MultiIterNew5(PyObject *__pyx_v_a, PyObject *__pyx_v_b, PyObject *__pyx_v_c, PyObject *__pyx_v_d, PyObject *__pyx_v_e) {$/;"	f	file:
+__pyx_f_5numpy_PyArray_MultiIterNew5	deepboost.c	/^static CYTHON_INLINE PyObject *__pyx_f_5numpy_PyArray_MultiIterNew5(PyObject *__pyx_v_a, PyObject *__pyx_v_b, PyObject *__pyx_v_c, PyObject *__pyx_v_d, PyObject *__pyx_v_e) {$/;"	f	file:
+__pyx_f_5numpy_PyArray_MultiIterNew5	deepboost.cpp	/^static CYTHON_INLINE PyObject *__pyx_f_5numpy_PyArray_MultiIterNew5(PyObject *__pyx_v_a, PyObject *__pyx_v_b, PyObject *__pyx_v_c, PyObject *__pyx_v_d, PyObject *__pyx_v_e) {$/;"	f	file:
+__pyx_f_5numpy__util_dtypestring	boost.cpp	/^static CYTHON_INLINE char *__pyx_f_5numpy__util_dtypestring(PyArray_Descr *__pyx_v_descr, char *__pyx_v_f, char *__pyx_v_end, int *__pyx_v_offset) {$/;"	f	file:
+__pyx_f_5numpy__util_dtypestring	deepboost.c	/^static CYTHON_INLINE char *__pyx_f_5numpy__util_dtypestring(PyArray_Descr *__pyx_v_descr, char *__pyx_v_f, char *__pyx_v_end, int *__pyx_v_offset) {$/;"	f	file:
+__pyx_f_5numpy__util_dtypestring	deepboost.cpp	/^static CYTHON_INLINE char *__pyx_f_5numpy__util_dtypestring(PyArray_Descr *__pyx_v_descr, char *__pyx_v_f, char *__pyx_v_end, int *__pyx_v_offset) {$/;"	f	file:
+__pyx_f_5numpy_get_array_base	boost.cpp	/^static CYTHON_INLINE PyObject *__pyx_f_5numpy_get_array_base(PyArrayObject *__pyx_v_arr) {$/;"	f	file:
+__pyx_f_5numpy_get_array_base	deepboost.c	/^static CYTHON_INLINE PyObject *__pyx_f_5numpy_get_array_base(PyArrayObject *__pyx_v_arr) {$/;"	f	file:
+__pyx_f_5numpy_get_array_base	deepboost.cpp	/^static CYTHON_INLINE PyObject *__pyx_f_5numpy_get_array_base(PyArrayObject *__pyx_v_arr) {$/;"	f	file:
+__pyx_f_5numpy_set_array_base	boost.cpp	/^static CYTHON_INLINE void __pyx_f_5numpy_set_array_base(PyArrayObject *__pyx_v_arr, PyObject *__pyx_v_base) {$/;"	f	file:
+__pyx_f_5numpy_set_array_base	deepboost.c	/^static CYTHON_INLINE void __pyx_f_5numpy_set_array_base(PyArrayObject *__pyx_v_arr, PyObject *__pyx_v_base) {$/;"	f	file:
+__pyx_f_5numpy_set_array_base	deepboost.cpp	/^static CYTHON_INLINE void __pyx_f_5numpy_set_array_base(PyArrayObject *__pyx_v_arr, PyObject *__pyx_v_base) {$/;"	f	file:
+__pyx_filename	boost.c	/^static const char *__pyx_filename;$/;"	v	file:
+__pyx_filename	boost.cpp	/^static const char *__pyx_filename;$/;"	v	file:
+__pyx_filename	deepboost.c	/^static const char *__pyx_filename;$/;"	v	file:
+__pyx_filename	deepboost.cpp	/^static const char *__pyx_filename;$/;"	v	file:
+__pyx_find_code_object	boost.c	/^static PyCodeObject *__pyx_find_code_object(int code_line) {$/;"	f	file:
+__pyx_find_code_object	boost.cpp	/^static PyCodeObject *__pyx_find_code_object(int code_line) {$/;"	f	file:
+__pyx_find_code_object	deepboost.c	/^static PyCodeObject *__pyx_find_code_object(int code_line) {$/;"	f	file:
+__pyx_find_code_object	deepboost.cpp	/^static PyCodeObject *__pyx_find_code_object(int code_line) {$/;"	f	file:
+__pyx_insert_code_object	boost.c	/^static void __pyx_insert_code_object(int code_line, PyCodeObject* code_object) {$/;"	f	file:
+__pyx_insert_code_object	boost.cpp	/^static void __pyx_insert_code_object(int code_line, PyCodeObject* code_object) {$/;"	f	file:
+__pyx_insert_code_object	deepboost.c	/^static void __pyx_insert_code_object(int code_line, PyCodeObject* code_object) {$/;"	f	file:
+__pyx_insert_code_object	deepboost.cpp	/^static void __pyx_insert_code_object(int code_line, PyCodeObject* code_object) {$/;"	f	file:
+__pyx_k_B	boost.cpp	/^static char __pyx_k_B[] = "B";$/;"	v	file:
+__pyx_k_B	deepboost.c	/^static char __pyx_k_B[] = "B";$/;"	v	file:
+__pyx_k_B	deepboost.cpp	/^static char __pyx_k_B[] = "B";$/;"	v	file:
+__pyx_k_Format_string_allocated_too_shor	boost.cpp	/^static char __pyx_k_Format_string_allocated_too_shor[] = "Format string allocated too short, see comment in numpy.pxd";$/;"	v	file:
+__pyx_k_Format_string_allocated_too_shor	deepboost.c	/^static char __pyx_k_Format_string_allocated_too_shor[] = "Format string allocated too short, see comment in numpy.pxd";$/;"	v	file:
+__pyx_k_Format_string_allocated_too_shor	deepboost.cpp	/^static char __pyx_k_Format_string_allocated_too_shor[] = "Format string allocated too short, see comment in numpy.pxd";$/;"	v	file:
+__pyx_k_Format_string_allocated_too_shor_2	boost.cpp	/^static char __pyx_k_Format_string_allocated_too_shor_2[] = "Format string allocated too short.";$/;"	v	file:
+__pyx_k_Format_string_allocated_too_shor_2	deepboost.c	/^static char __pyx_k_Format_string_allocated_too_shor_2[] = "Format string allocated too short.";$/;"	v	file:
+__pyx_k_Format_string_allocated_too_shor_2	deepboost.cpp	/^static char __pyx_k_Format_string_allocated_too_shor_2[] = "Format string allocated too short.";$/;"	v	file:
+__pyx_k_H	boost.cpp	/^static char __pyx_k_H[] = "H";$/;"	v	file:
+__pyx_k_H	deepboost.c	/^static char __pyx_k_H[] = "H";$/;"	v	file:
+__pyx_k_H	deepboost.cpp	/^static char __pyx_k_H[] = "H";$/;"	v	file:
+__pyx_k_I	boost.cpp	/^static char __pyx_k_I[] = "I";$/;"	v	file:
+__pyx_k_I	deepboost.c	/^static char __pyx_k_I[] = "I";$/;"	v	file:
+__pyx_k_I	deepboost.cpp	/^static char __pyx_k_I[] = "I";$/;"	v	file:
+__pyx_k_L	boost.cpp	/^static char __pyx_k_L[] = "L";$/;"	v	file:
+__pyx_k_L	deepboost.c	/^static char __pyx_k_L[] = "L";$/;"	v	file:
+__pyx_k_L	deepboost.cpp	/^static char __pyx_k_L[] = "L";$/;"	v	file:
+__pyx_k_Non_native_byte_order_not_suppor	boost.cpp	/^static char __pyx_k_Non_native_byte_order_not_suppor[] = "Non-native byte order not supported";$/;"	v	file:
+__pyx_k_Non_native_byte_order_not_suppor	deepboost.c	/^static char __pyx_k_Non_native_byte_order_not_suppor[] = "Non-native byte order not supported";$/;"	v	file:
+__pyx_k_Non_native_byte_order_not_suppor	deepboost.cpp	/^static char __pyx_k_Non_native_byte_order_not_suppor[] = "Non-native byte order not supported";$/;"	v	file:
+__pyx_k_O	boost.cpp	/^static char __pyx_k_O[] = "O";$/;"	v	file:
+__pyx_k_O	deepboost.c	/^static char __pyx_k_O[] = "O";$/;"	v	file:
+__pyx_k_O	deepboost.cpp	/^static char __pyx_k_O[] = "O";$/;"	v	file:
+__pyx_k_Q	boost.cpp	/^static char __pyx_k_Q[] = "Q";$/;"	v	file:
+__pyx_k_Q	deepboost.c	/^static char __pyx_k_Q[] = "Q";$/;"	v	file:
+__pyx_k_Q	deepboost.cpp	/^static char __pyx_k_Q[] = "Q";$/;"	v	file:
+__pyx_k_RuntimeError	boost.cpp	/^static char __pyx_k_RuntimeError[] = "RuntimeError";$/;"	v	file:
+__pyx_k_RuntimeError	deepboost.c	/^static char __pyx_k_RuntimeError[] = "RuntimeError";$/;"	v	file:
+__pyx_k_RuntimeError	deepboost.cpp	/^static char __pyx_k_RuntimeError[] = "RuntimeError";$/;"	v	file:
+__pyx_k_Users_travisbrady_hub_deepboost	boost.cpp	/^static char __pyx_k_Users_travisbrady_hub_deepboost[] = "\/Users\/travisbrady\/hub\/deepboost\/boost.pyx";$/;"	v	file:
+__pyx_k_Users_travisbrady_hub_deepboost	deepboost.c	/^static char __pyx_k_Users_travisbrady_hub_deepboost[] = "\/Users\/travisbrady\/hub\/deepboost\/deepboost.pyx";$/;"	v	file:
+__pyx_k_ValueError	boost.cpp	/^static char __pyx_k_ValueError[] = "ValueError";$/;"	v	file:
+__pyx_k_ValueError	deepboost.c	/^static char __pyx_k_ValueError[] = "ValueError";$/;"	v	file:
+__pyx_k_ValueError	deepboost.cpp	/^static char __pyx_k_ValueError[] = "ValueError";$/;"	v	file:
+__pyx_k_X	boost.cpp	/^static char __pyx_k_X[] = "X";$/;"	v	file:
+__pyx_k_X	deepboost.c	/^static char __pyx_k_X[] = "X";$/;"	v	file:
+__pyx_k_X	deepboost.cpp	/^static char __pyx_k_X[] = "X";$/;"	v	file:
+__pyx_k_Y	boost.cpp	/^static char __pyx_k_Y[] = "Y";$/;"	v	file:
+__pyx_k_Y	deepboost.c	/^static char __pyx_k_Y[] = "Y";$/;"	v	file:
+__pyx_k_Y	deepboost.cpp	/^static char __pyx_k_Y[] = "Y";$/;"	v	file:
+__pyx_k_Zd	boost.cpp	/^static char __pyx_k_Zd[] = "Zd";$/;"	v	file:
+__pyx_k_Zd	deepboost.c	/^static char __pyx_k_Zd[] = "Zd";$/;"	v	file:
+__pyx_k_Zd	deepboost.cpp	/^static char __pyx_k_Zd[] = "Zd";$/;"	v	file:
+__pyx_k_Zf	boost.cpp	/^static char __pyx_k_Zf[] = "Zf";$/;"	v	file:
+__pyx_k_Zf	deepboost.c	/^static char __pyx_k_Zf[] = "Zf";$/;"	v	file:
+__pyx_k_Zf	deepboost.cpp	/^static char __pyx_k_Zf[] = "Zf";$/;"	v	file:
+__pyx_k_Zg	boost.cpp	/^static char __pyx_k_Zg[] = "Zg";$/;"	v	file:
+__pyx_k_Zg	deepboost.c	/^static char __pyx_k_Zg[] = "Zg";$/;"	v	file:
+__pyx_k_Zg	deepboost.cpp	/^static char __pyx_k_Zg[] = "Zg";$/;"	v	file:
+__pyx_k_avg_tree_size	boost.cpp	/^static char __pyx_k_avg_tree_size[] = "avg_tree_size";$/;"	v	file:
+__pyx_k_avg_tree_size	deepboost.c	/^static char __pyx_k_avg_tree_size[] = "avg_tree_size";$/;"	v	file:
+__pyx_k_b	boost.cpp	/^static char __pyx_k_b[] = "b";$/;"	v	file:
+__pyx_k_b	deepboost.c	/^static char __pyx_k_b[] = "b";$/;"	v	file:
+__pyx_k_b	deepboost.cpp	/^static char __pyx_k_b[] = "b";$/;"	v	file:
+__pyx_k_boost	boost.cpp	/^static char __pyx_k_boost[] = "boost";$/;"	v	file:
+__pyx_k_d	boost.cpp	/^static char __pyx_k_d[] = "d";$/;"	v	file:
+__pyx_k_d	deepboost.c	/^static char __pyx_k_d[] = "d";$/;"	v	file:
+__pyx_k_d	deepboost.cpp	/^static char __pyx_k_d[] = "d";$/;"	v	file:
+__pyx_k_deepboost	deepboost.c	/^static char __pyx_k_deepboost[] = "deepboost";$/;"	v	file:
+__pyx_k_dtype	deepboost.cpp	/^static char __pyx_k_dtype[] = "dtype";$/;"	v	file:
+__pyx_k_end	deepboost.cpp	/^static char __pyx_k_end[] = "end";$/;"	v	file:
+__pyx_k_error	boost.cpp	/^static char __pyx_k_error[] = "error";$/;"	v	file:
+__pyx_k_error	deepboost.c	/^static char __pyx_k_error[] = "error";$/;"	v	file:
+__pyx_k_ex	boost.cpp	/^static char __pyx_k_ex[] = "ex";$/;"	v	file:
+__pyx_k_ex	deepboost.c	/^static char __pyx_k_ex[] = "ex";$/;"	v	file:
+__pyx_k_examples	boost.cpp	/^static char __pyx_k_examples[] = "examples";$/;"	v	file:
+__pyx_k_examples	deepboost.c	/^static char __pyx_k_examples[] = "examples";$/;"	v	file:
+__pyx_k_f	boost.cpp	/^static char __pyx_k_f[] = "f";$/;"	v	file:
+__pyx_k_f	deepboost.c	/^static char __pyx_k_f[] = "f";$/;"	v	file:
+__pyx_k_f	deepboost.cpp	/^static char __pyx_k_f[] = "f";$/;"	v	file:
+__pyx_k_file	deepboost.cpp	/^static char __pyx_k_file[] = "file";$/;"	v	file:
+__pyx_k_fit	boost.cpp	/^static char __pyx_k_fit[] = "fit";$/;"	v	file:
+__pyx_k_fit	deepboost.c	/^static char __pyx_k_fit[] = "fit";$/;"	v	file:
+__pyx_k_g	boost.cpp	/^static char __pyx_k_g[] = "g";$/;"	v	file:
+__pyx_k_g	deepboost.c	/^static char __pyx_k_g[] = "g";$/;"	v	file:
+__pyx_k_g	deepboost.cpp	/^static char __pyx_k_g[] = "g";$/;"	v	file:
+__pyx_k_h	boost.cpp	/^static char __pyx_k_h[] = "h";$/;"	v	file:
+__pyx_k_h	deepboost.c	/^static char __pyx_k_h[] = "h";$/;"	v	file:
+__pyx_k_h	deepboost.cpp	/^static char __pyx_k_h[] = "h";$/;"	v	file:
+__pyx_k_i	boost.cpp	/^static char __pyx_k_i[] = "i";$/;"	v	file:
+__pyx_k_i	deepboost.c	/^static char __pyx_k_i[] = "i";$/;"	v	file:
+__pyx_k_i	deepboost.cpp	/^static char __pyx_k_i[] = "i";$/;"	v	file:
+__pyx_k_import	boost.cpp	/^static char __pyx_k_import[] = "__import__";$/;"	v	file:
+__pyx_k_import	deepboost.c	/^static char __pyx_k_import[] = "__import__";$/;"	v	file:
+__pyx_k_import	deepboost.cpp	/^static char __pyx_k_import[] = "__import__";$/;"	v	file:
+__pyx_k_int	deepboost.cpp	/^static char __pyx_k_int[] = "int";$/;"	v	file:
+__pyx_k_j	boost.cpp	/^static char __pyx_k_j[] = "j";$/;"	v	file:
+__pyx_k_j	deepboost.c	/^static char __pyx_k_j[] = "j";$/;"	v	file:
+__pyx_k_l	boost.cpp	/^static char __pyx_k_l[] = "l";$/;"	v	file:
+__pyx_k_l	deepboost.c	/^static char __pyx_k_l[] = "l";$/;"	v	file:
+__pyx_k_l	deepboost.cpp	/^static char __pyx_k_l[] = "l";$/;"	v	file:
+__pyx_k_main	boost.c	/^static char __pyx_k_main[] = "__main__";$/;"	v	file:
+__pyx_k_main	boost.cpp	/^static char __pyx_k_main[] = "__main__";$/;"	v	file:
+__pyx_k_main	deepboost.c	/^static char __pyx_k_main[] = "__main__";$/;"	v	file:
+__pyx_k_main	deepboost.cpp	/^static char __pyx_k_main[] = "__main__";$/;"	v	file:
+__pyx_k_model	boost.cpp	/^static char __pyx_k_model[] = "model";$/;"	v	file:
+__pyx_k_model	deepboost.c	/^static char __pyx_k_model[] = "model";$/;"	v	file:
+__pyx_k_ndarray_is_not_C_contiguous	boost.cpp	/^static char __pyx_k_ndarray_is_not_C_contiguous[] = "ndarray is not C contiguous";$/;"	v	file:
+__pyx_k_ndarray_is_not_C_contiguous	deepboost.c	/^static char __pyx_k_ndarray_is_not_C_contiguous[] = "ndarray is not C contiguous";$/;"	v	file:
+__pyx_k_ndarray_is_not_C_contiguous	deepboost.cpp	/^static char __pyx_k_ndarray_is_not_C_contiguous[] = "ndarray is not C contiguous";$/;"	v	file:
+__pyx_k_ndarray_is_not_Fortran_contiguou	boost.cpp	/^static char __pyx_k_ndarray_is_not_Fortran_contiguou[] = "ndarray is not Fortran contiguous";$/;"	v	file:
+__pyx_k_ndarray_is_not_Fortran_contiguou	deepboost.c	/^static char __pyx_k_ndarray_is_not_Fortran_contiguou[] = "ndarray is not Fortran contiguous";$/;"	v	file:
+__pyx_k_ndarray_is_not_Fortran_contiguou	deepboost.cpp	/^static char __pyx_k_ndarray_is_not_Fortran_contiguou[] = "ndarray is not Fortran contiguous";$/;"	v	file:
+__pyx_k_nfeats	boost.cpp	/^static char __pyx_k_nfeats[] = "nfeats";$/;"	v	file:
+__pyx_k_nfeats	deepboost.c	/^static char __pyx_k_nfeats[] = "nfeats";$/;"	v	file:
+__pyx_k_np	boost.cpp	/^static char __pyx_k_np[] = "np";$/;"	v	file:
+__pyx_k_np	deepboost.c	/^static char __pyx_k_np[] = "np";$/;"	v	file:
+__pyx_k_np	deepboost.cpp	/^static char __pyx_k_np[] = "np";$/;"	v	file:
+__pyx_k_nrows	boost.cpp	/^static char __pyx_k_nrows[] = "nrows";$/;"	v	file:
+__pyx_k_nrows	deepboost.c	/^static char __pyx_k_nrows[] = "nrows";$/;"	v	file:
+__pyx_k_num_trees	boost.cpp	/^static char __pyx_k_num_trees[] = "num_trees";$/;"	v	file:
+__pyx_k_num_trees	deepboost.c	/^static char __pyx_k_num_trees[] = "num_trees";$/;"	v	file:
+__pyx_k_numpy	boost.cpp	/^static char __pyx_k_numpy[] = "numpy";$/;"	v	file:
+__pyx_k_numpy	deepboost.c	/^static char __pyx_k_numpy[] = "numpy";$/;"	v	file:
+__pyx_k_numpy	deepboost.cpp	/^static char __pyx_k_numpy[] = "numpy";$/;"	v	file:
+__pyx_k_print	deepboost.cpp	/^static char __pyx_k_print[] = "print";$/;"	v	file:
+__pyx_k_q	boost.cpp	/^static char __pyx_k_q[] = "q";$/;"	v	file:
+__pyx_k_q	deepboost.c	/^static char __pyx_k_q[] = "q";$/;"	v	file:
+__pyx_k_q	deepboost.cpp	/^static char __pyx_k_q[] = "q";$/;"	v	file:
+__pyx_k_range	boost.cpp	/^static char __pyx_k_range[] = "range";$/;"	v	file:
+__pyx_k_range	deepboost.c	/^static char __pyx_k_range[] = "range";$/;"	v	file:
+__pyx_k_range	deepboost.cpp	/^static char __pyx_k_range[] = "range";$/;"	v	file:
+__pyx_k_test	boost.c	/^static char __pyx_k_test[] = "__test__";$/;"	v	file:
+__pyx_k_test	boost.cpp	/^static char __pyx_k_test[] = "__test__";$/;"	v	file:
+__pyx_k_test	deepboost.c	/^static char __pyx_k_test[] = "__test__";$/;"	v	file:
+__pyx_k_test	deepboost.cpp	/^static char __pyx_k_test[] = "__test__";$/;"	v	file:
+__pyx_k_unknown_dtype_code_in_numpy_pxd	boost.cpp	/^static char __pyx_k_unknown_dtype_code_in_numpy_pxd[] = "unknown dtype code in numpy.pxd (%d)";$/;"	v	file:
+__pyx_k_unknown_dtype_code_in_numpy_pxd	deepboost.c	/^static char __pyx_k_unknown_dtype_code_in_numpy_pxd[] = "unknown dtype code in numpy.pxd (%d)";$/;"	v	file:
+__pyx_k_unknown_dtype_code_in_numpy_pxd	deepboost.cpp	/^static char __pyx_k_unknown_dtype_code_in_numpy_pxd[] = "unknown dtype code in numpy.pxd (%d)";$/;"	v	file:
+__pyx_k_values	boost.cpp	/^static char __pyx_k_values[] = "values";$/;"	v	file:
+__pyx_k_values	deepboost.c	/^static char __pyx_k_values[] = "values";$/;"	v	file:
+__pyx_k_zeros	deepboost.cpp	/^static char __pyx_k_zeros[] = "zeros";$/;"	v	file:
+__pyx_kp_s_Users_travisbrady_hub_deepboost	boost.cpp	/^static PyObject *__pyx_kp_s_Users_travisbrady_hub_deepboost;$/;"	v	file:
+__pyx_kp_s_Users_travisbrady_hub_deepboost	deepboost.c	/^static PyObject *__pyx_kp_s_Users_travisbrady_hub_deepboost;$/;"	v	file:
+__pyx_kp_u_Format_string_allocated_too_shor	boost.cpp	/^static PyObject *__pyx_kp_u_Format_string_allocated_too_shor;$/;"	v	file:
+__pyx_kp_u_Format_string_allocated_too_shor	deepboost.c	/^static PyObject *__pyx_kp_u_Format_string_allocated_too_shor;$/;"	v	file:
+__pyx_kp_u_Format_string_allocated_too_shor	deepboost.cpp	/^static PyObject *__pyx_kp_u_Format_string_allocated_too_shor;$/;"	v	file:
+__pyx_kp_u_Format_string_allocated_too_shor_2	boost.cpp	/^static PyObject *__pyx_kp_u_Format_string_allocated_too_shor_2;$/;"	v	file:
+__pyx_kp_u_Format_string_allocated_too_shor_2	deepboost.c	/^static PyObject *__pyx_kp_u_Format_string_allocated_too_shor_2;$/;"	v	file:
+__pyx_kp_u_Format_string_allocated_too_shor_2	deepboost.cpp	/^static PyObject *__pyx_kp_u_Format_string_allocated_too_shor_2;$/;"	v	file:
+__pyx_kp_u_Non_native_byte_order_not_suppor	boost.cpp	/^static PyObject *__pyx_kp_u_Non_native_byte_order_not_suppor;$/;"	v	file:
+__pyx_kp_u_Non_native_byte_order_not_suppor	deepboost.c	/^static PyObject *__pyx_kp_u_Non_native_byte_order_not_suppor;$/;"	v	file:
+__pyx_kp_u_Non_native_byte_order_not_suppor	deepboost.cpp	/^static PyObject *__pyx_kp_u_Non_native_byte_order_not_suppor;$/;"	v	file:
+__pyx_kp_u_ndarray_is_not_C_contiguous	boost.cpp	/^static PyObject *__pyx_kp_u_ndarray_is_not_C_contiguous;$/;"	v	file:
+__pyx_kp_u_ndarray_is_not_C_contiguous	deepboost.c	/^static PyObject *__pyx_kp_u_ndarray_is_not_C_contiguous;$/;"	v	file:
+__pyx_kp_u_ndarray_is_not_C_contiguous	deepboost.cpp	/^static PyObject *__pyx_kp_u_ndarray_is_not_C_contiguous;$/;"	v	file:
+__pyx_kp_u_ndarray_is_not_Fortran_contiguou	boost.cpp	/^static PyObject *__pyx_kp_u_ndarray_is_not_Fortran_contiguou;$/;"	v	file:
+__pyx_kp_u_ndarray_is_not_Fortran_contiguou	deepboost.c	/^static PyObject *__pyx_kp_u_ndarray_is_not_Fortran_contiguou;$/;"	v	file:
+__pyx_kp_u_ndarray_is_not_Fortran_contiguou	deepboost.cpp	/^static PyObject *__pyx_kp_u_ndarray_is_not_Fortran_contiguou;$/;"	v	file:
+__pyx_kp_u_unknown_dtype_code_in_numpy_pxd	boost.cpp	/^static PyObject *__pyx_kp_u_unknown_dtype_code_in_numpy_pxd;$/;"	v	file:
+__pyx_kp_u_unknown_dtype_code_in_numpy_pxd	deepboost.c	/^static PyObject *__pyx_kp_u_unknown_dtype_code_in_numpy_pxd;$/;"	v	file:
+__pyx_kp_u_unknown_dtype_code_in_numpy_pxd	deepboost.cpp	/^static PyObject *__pyx_kp_u_unknown_dtype_code_in_numpy_pxd;$/;"	v	file:
+__pyx_lineno	boost.c	/^static int __pyx_lineno;$/;"	v	file:
+__pyx_lineno	boost.cpp	/^static int __pyx_lineno;$/;"	v	file:
+__pyx_lineno	deepboost.c	/^static int __pyx_lineno;$/;"	v	file:
+__pyx_lineno	deepboost.cpp	/^static int __pyx_lineno;$/;"	v	file:
+__pyx_m	boost.c	/^static PyObject *__pyx_m;$/;"	v	file:
+__pyx_m	boost.cpp	/^static PyObject *__pyx_m;$/;"	v	file:
+__pyx_m	deepboost.c	/^static PyObject *__pyx_m;$/;"	v	file:
+__pyx_m	deepboost.cpp	/^static PyObject *__pyx_m;$/;"	v	file:
+__pyx_mdef_5boost_1fit	boost.cpp	/^static PyMethodDef __pyx_mdef_5boost_1fit = {"fit", (PyCFunction)__pyx_pw_5boost_1fit, METH_VARARGS|METH_KEYWORDS, 0};$/;"	v	file:
+__pyx_mdef_9deepboost_1fit	deepboost.c	/^static PyMethodDef __pyx_mdef_9deepboost_1fit = {"fit", (PyCFunction)__pyx_pw_9deepboost_1fit, METH_VARARGS|METH_KEYWORDS, 0};$/;"	v	file:
+__pyx_methods	boost.c	/^static PyMethodDef __pyx_methods[] = {$/;"	v	file:
+__pyx_methods	boost.cpp	/^static PyMethodDef __pyx_methods[] = {$/;"	v	file:
+__pyx_methods	deepboost.c	/^static PyMethodDef __pyx_methods[] = {$/;"	v	file:
+__pyx_methods	deepboost.cpp	/^static PyMethodDef __pyx_methods[] = {$/;"	v	file:
+__pyx_methods_9deepboost_PyModel	deepboost.cpp	/^static PyMethodDef __pyx_methods_9deepboost_PyModel[] = {$/;"	v	file:
+__pyx_module_is_main_boost	boost.c	/^int __pyx_module_is_main_boost = 0;$/;"	v
+__pyx_module_is_main_boost	boost.cpp	/^int __pyx_module_is_main_boost = 0;$/;"	v
+__pyx_module_is_main_deepboost	deepboost.c	/^int __pyx_module_is_main_deepboost = 0;$/;"	v
+__pyx_module_is_main_deepboost	deepboost.cpp	/^int __pyx_module_is_main_deepboost = 0;$/;"	v
+__pyx_moduledef	boost.c	/^static struct PyModuleDef __pyx_moduledef = {$/;"	v	typeref:struct:PyModuleDef	file:
+__pyx_moduledef	boost.cpp	/^static struct PyModuleDef __pyx_moduledef = {$/;"	v	typeref:struct:PyModuleDef	file:
+__pyx_moduledef	deepboost.c	/^static struct PyModuleDef __pyx_moduledef = {$/;"	v	typeref:struct:PyModuleDef	file:
+__pyx_moduledef	deepboost.cpp	/^static struct PyModuleDef __pyx_moduledef = {$/;"	v	typeref:struct:PyModuleDef	file:
+__pyx_n_s_RuntimeError	boost.cpp	/^static PyObject *__pyx_n_s_RuntimeError;$/;"	v	file:
+__pyx_n_s_RuntimeError	deepboost.c	/^static PyObject *__pyx_n_s_RuntimeError;$/;"	v	file:
+__pyx_n_s_RuntimeError	deepboost.cpp	/^static PyObject *__pyx_n_s_RuntimeError;$/;"	v	file:
+__pyx_n_s_ValueError	boost.cpp	/^static PyObject *__pyx_n_s_ValueError;$/;"	v	file:
+__pyx_n_s_ValueError	deepboost.c	/^static PyObject *__pyx_n_s_ValueError;$/;"	v	file:
+__pyx_n_s_ValueError	deepboost.cpp	/^static PyObject *__pyx_n_s_ValueError;$/;"	v	file:
+__pyx_n_s_X	boost.cpp	/^static PyObject *__pyx_n_s_X;$/;"	v	file:
+__pyx_n_s_X	deepboost.c	/^static PyObject *__pyx_n_s_X;$/;"	v	file:
+__pyx_n_s_X	deepboost.cpp	/^static PyObject *__pyx_n_s_X;$/;"	v	file:
+__pyx_n_s_Y	boost.cpp	/^static PyObject *__pyx_n_s_Y;$/;"	v	file:
+__pyx_n_s_Y	deepboost.c	/^static PyObject *__pyx_n_s_Y;$/;"	v	file:
+__pyx_n_s_Y	deepboost.cpp	/^static PyObject *__pyx_n_s_Y;$/;"	v	file:
+__pyx_n_s_avg_tree_size	boost.cpp	/^static PyObject *__pyx_n_s_avg_tree_size;$/;"	v	file:
+__pyx_n_s_avg_tree_size	deepboost.c	/^static PyObject *__pyx_n_s_avg_tree_size;$/;"	v	file:
+__pyx_n_s_boost	boost.cpp	/^static PyObject *__pyx_n_s_boost;$/;"	v	file:
+__pyx_n_s_deepboost	deepboost.c	/^static PyObject *__pyx_n_s_deepboost;$/;"	v	file:
+__pyx_n_s_dtype	deepboost.cpp	/^static PyObject *__pyx_n_s_dtype;$/;"	v	file:
+__pyx_n_s_end	deepboost.cpp	/^static PyObject *__pyx_n_s_end;$/;"	v	file:
+__pyx_n_s_error	boost.cpp	/^static PyObject *__pyx_n_s_error;$/;"	v	file:
+__pyx_n_s_error	deepboost.c	/^static PyObject *__pyx_n_s_error;$/;"	v	file:
+__pyx_n_s_ex	boost.cpp	/^static PyObject *__pyx_n_s_ex;$/;"	v	file:
+__pyx_n_s_ex	deepboost.c	/^static PyObject *__pyx_n_s_ex;$/;"	v	file:
+__pyx_n_s_examples	boost.cpp	/^static PyObject *__pyx_n_s_examples;$/;"	v	file:
+__pyx_n_s_examples	deepboost.c	/^static PyObject *__pyx_n_s_examples;$/;"	v	file:
+__pyx_n_s_file	deepboost.cpp	/^static PyObject *__pyx_n_s_file;$/;"	v	file:
+__pyx_n_s_fit	boost.cpp	/^static PyObject *__pyx_n_s_fit;$/;"	v	file:
+__pyx_n_s_fit	deepboost.c	/^static PyObject *__pyx_n_s_fit;$/;"	v	file:
+__pyx_n_s_i	boost.cpp	/^static PyObject *__pyx_n_s_i;$/;"	v	file:
+__pyx_n_s_i	deepboost.c	/^static PyObject *__pyx_n_s_i;$/;"	v	file:
+__pyx_n_s_import	boost.cpp	/^static PyObject *__pyx_n_s_import;$/;"	v	file:
+__pyx_n_s_import	deepboost.c	/^static PyObject *__pyx_n_s_import;$/;"	v	file:
+__pyx_n_s_import	deepboost.cpp	/^static PyObject *__pyx_n_s_import;$/;"	v	file:
+__pyx_n_s_int	deepboost.cpp	/^static PyObject *__pyx_n_s_int;$/;"	v	file:
+__pyx_n_s_j	boost.cpp	/^static PyObject *__pyx_n_s_j;$/;"	v	file:
+__pyx_n_s_j	deepboost.c	/^static PyObject *__pyx_n_s_j;$/;"	v	file:
+__pyx_n_s_main	boost.c	/^static PyObject *__pyx_n_s_main;$/;"	v	file:
+__pyx_n_s_main	boost.cpp	/^static PyObject *__pyx_n_s_main;$/;"	v	file:
+__pyx_n_s_main	deepboost.c	/^static PyObject *__pyx_n_s_main;$/;"	v	file:
+__pyx_n_s_main	deepboost.cpp	/^static PyObject *__pyx_n_s_main;$/;"	v	file:
+__pyx_n_s_model	boost.cpp	/^static PyObject *__pyx_n_s_model;$/;"	v	file:
+__pyx_n_s_model	deepboost.c	/^static PyObject *__pyx_n_s_model;$/;"	v	file:
+__pyx_n_s_nfeats	boost.cpp	/^static PyObject *__pyx_n_s_nfeats;$/;"	v	file:
+__pyx_n_s_nfeats	deepboost.c	/^static PyObject *__pyx_n_s_nfeats;$/;"	v	file:
+__pyx_n_s_np	boost.cpp	/^static PyObject *__pyx_n_s_np;$/;"	v	file:
+__pyx_n_s_np	deepboost.c	/^static PyObject *__pyx_n_s_np;$/;"	v	file:
+__pyx_n_s_np	deepboost.cpp	/^static PyObject *__pyx_n_s_np;$/;"	v	file:
+__pyx_n_s_nrows	boost.cpp	/^static PyObject *__pyx_n_s_nrows;$/;"	v	file:
+__pyx_n_s_nrows	deepboost.c	/^static PyObject *__pyx_n_s_nrows;$/;"	v	file:
+__pyx_n_s_num_trees	boost.cpp	/^static PyObject *__pyx_n_s_num_trees;$/;"	v	file:
+__pyx_n_s_num_trees	deepboost.c	/^static PyObject *__pyx_n_s_num_trees;$/;"	v	file:
+__pyx_n_s_numpy	boost.cpp	/^static PyObject *__pyx_n_s_numpy;$/;"	v	file:
+__pyx_n_s_numpy	deepboost.c	/^static PyObject *__pyx_n_s_numpy;$/;"	v	file:
+__pyx_n_s_numpy	deepboost.cpp	/^static PyObject *__pyx_n_s_numpy;$/;"	v	file:
+__pyx_n_s_print	deepboost.cpp	/^static PyObject *__pyx_n_s_print;$/;"	v	file:
+__pyx_n_s_range	boost.cpp	/^static PyObject *__pyx_n_s_range;$/;"	v	file:
+__pyx_n_s_range	deepboost.c	/^static PyObject *__pyx_n_s_range;$/;"	v	file:
+__pyx_n_s_range	deepboost.cpp	/^static PyObject *__pyx_n_s_range;$/;"	v	file:
+__pyx_n_s_test	boost.c	/^static PyObject *__pyx_n_s_test;$/;"	v	file:
+__pyx_n_s_test	boost.cpp	/^static PyObject *__pyx_n_s_test;$/;"	v	file:
+__pyx_n_s_test	deepboost.c	/^static PyObject *__pyx_n_s_test;$/;"	v	file:
+__pyx_n_s_test	deepboost.cpp	/^static PyObject *__pyx_n_s_test;$/;"	v	file:
+__pyx_n_s_values	boost.cpp	/^static PyObject *__pyx_n_s_values;$/;"	v	file:
+__pyx_n_s_values	deepboost.c	/^static PyObject *__pyx_n_s_values;$/;"	v	file:
+__pyx_n_s_zeros	deepboost.cpp	/^static PyObject *__pyx_n_s_zeros;$/;"	v	file:
+__pyx_obj_9deepboost_PyModel	deepboost.cpp	/^struct __pyx_obj_9deepboost_PyModel {$/;"	s	file:
+__pyx_pf_5boost_fit	boost.cpp	/^static PyObject *__pyx_pf_5boost_fit(CYTHON_UNUSED PyObject *__pyx_self, PyArrayObject *__pyx_v_X, PyArrayObject *__pyx_v_Y) {$/;"	f	file:
+__pyx_pf_5numpy_7ndarray_2__releasebuffer__	boost.cpp	/^static void __pyx_pf_5numpy_7ndarray_2__releasebuffer__(PyArrayObject *__pyx_v_self, Py_buffer *__pyx_v_info) {$/;"	f	file:
+__pyx_pf_5numpy_7ndarray_2__releasebuffer__	deepboost.c	/^static void __pyx_pf_5numpy_7ndarray_2__releasebuffer__(PyArrayObject *__pyx_v_self, Py_buffer *__pyx_v_info) {$/;"	f	file:
+__pyx_pf_5numpy_7ndarray_2__releasebuffer__	deepboost.cpp	/^static void __pyx_pf_5numpy_7ndarray_2__releasebuffer__(PyArrayObject *__pyx_v_self, Py_buffer *__pyx_v_info) {$/;"	f	file:
+__pyx_pf_5numpy_7ndarray___getbuffer__	boost.cpp	/^static int __pyx_pf_5numpy_7ndarray___getbuffer__(PyArrayObject *__pyx_v_self, Py_buffer *__pyx_v_info, int __pyx_v_flags) {$/;"	f	file:
+__pyx_pf_5numpy_7ndarray___getbuffer__	deepboost.c	/^static int __pyx_pf_5numpy_7ndarray___getbuffer__(PyArrayObject *__pyx_v_self, Py_buffer *__pyx_v_info, int __pyx_v_flags) {$/;"	f	file:
+__pyx_pf_5numpy_7ndarray___getbuffer__	deepboost.cpp	/^static int __pyx_pf_5numpy_7ndarray___getbuffer__(PyArrayObject *__pyx_v_self, Py_buffer *__pyx_v_info, int __pyx_v_flags) {$/;"	f	file:
+__pyx_pf_9deepboost_7PyModel_2predict	deepboost.cpp	/^static PyObject *__pyx_pf_9deepboost_7PyModel_2predict(struct __pyx_obj_9deepboost_PyModel *__pyx_v_self, PyArrayObject *__pyx_v_X) {$/;"	f	file:
+__pyx_pf_9deepboost_7PyModel_4fit	deepboost.cpp	/^static PyObject *__pyx_pf_9deepboost_7PyModel_4fit(struct __pyx_obj_9deepboost_PyModel *__pyx_v_self, PyArrayObject *__pyx_v_X, PyArrayObject *__pyx_v_Y) {$/;"	f	file:
+__pyx_pf_9deepboost_7PyModel___cinit__	deepboost.cpp	/^static int __pyx_pf_9deepboost_7PyModel___cinit__(struct __pyx_obj_9deepboost_PyModel *__pyx_v_self) {$/;"	f	file:
+__pyx_pf_9deepboost_fit	deepboost.c	/^static PyObject *__pyx_pf_9deepboost_fit(CYTHON_UNUSED PyObject *__pyx_self, PyArrayObject *__pyx_v_X, PyArrayObject *__pyx_v_Y) {$/;"	f	file:
+__pyx_print	deepboost.cpp	/^static PyObject* __pyx_print = 0;$/;"	v	file:
+__pyx_print_kwargs	deepboost.cpp	/^static PyObject* __pyx_print_kwargs = 0;$/;"	v	file:
+__pyx_ptype_5numpy_broadcast	boost.cpp	/^static PyTypeObject *__pyx_ptype_5numpy_broadcast = 0;$/;"	v	file:
+__pyx_ptype_5numpy_broadcast	deepboost.c	/^static PyTypeObject *__pyx_ptype_5numpy_broadcast = 0;$/;"	v	file:
+__pyx_ptype_5numpy_broadcast	deepboost.cpp	/^static PyTypeObject *__pyx_ptype_5numpy_broadcast = 0;$/;"	v	file:
+__pyx_ptype_5numpy_dtype	boost.cpp	/^static PyTypeObject *__pyx_ptype_5numpy_dtype = 0;$/;"	v	file:
+__pyx_ptype_5numpy_dtype	deepboost.c	/^static PyTypeObject *__pyx_ptype_5numpy_dtype = 0;$/;"	v	file:
+__pyx_ptype_5numpy_dtype	deepboost.cpp	/^static PyTypeObject *__pyx_ptype_5numpy_dtype = 0;$/;"	v	file:
+__pyx_ptype_5numpy_flatiter	boost.cpp	/^static PyTypeObject *__pyx_ptype_5numpy_flatiter = 0;$/;"	v	file:
+__pyx_ptype_5numpy_flatiter	deepboost.c	/^static PyTypeObject *__pyx_ptype_5numpy_flatiter = 0;$/;"	v	file:
+__pyx_ptype_5numpy_flatiter	deepboost.cpp	/^static PyTypeObject *__pyx_ptype_5numpy_flatiter = 0;$/;"	v	file:
+__pyx_ptype_5numpy_ndarray	boost.cpp	/^static PyTypeObject *__pyx_ptype_5numpy_ndarray = 0;$/;"	v	file:
+__pyx_ptype_5numpy_ndarray	deepboost.c	/^static PyTypeObject *__pyx_ptype_5numpy_ndarray = 0;$/;"	v	file:
+__pyx_ptype_5numpy_ndarray	deepboost.cpp	/^static PyTypeObject *__pyx_ptype_5numpy_ndarray = 0;$/;"	v	file:
+__pyx_ptype_5numpy_ufunc	boost.cpp	/^static PyTypeObject *__pyx_ptype_5numpy_ufunc = 0;$/;"	v	file:
+__pyx_ptype_5numpy_ufunc	deepboost.c	/^static PyTypeObject *__pyx_ptype_5numpy_ufunc = 0;$/;"	v	file:
+__pyx_ptype_5numpy_ufunc	deepboost.cpp	/^static PyTypeObject *__pyx_ptype_5numpy_ufunc = 0;$/;"	v	file:
+__pyx_ptype_7cpython_4type_type	boost.cpp	/^static PyTypeObject *__pyx_ptype_7cpython_4type_type = 0;$/;"	v	file:
+__pyx_ptype_7cpython_4type_type	deepboost.c	/^static PyTypeObject *__pyx_ptype_7cpython_4type_type = 0;$/;"	v	file:
+__pyx_ptype_7cpython_4type_type	deepboost.cpp	/^static PyTypeObject *__pyx_ptype_7cpython_4type_type = 0;$/;"	v	file:
+__pyx_ptype_9deepboost_PyModel	deepboost.cpp	/^static PyTypeObject *__pyx_ptype_9deepboost_PyModel = 0;$/;"	v	file:
+__pyx_pw_5boost_1fit	boost.cpp	/^static PyObject *__pyx_pw_5boost_1fit(PyObject *__pyx_self, PyObject *__pyx_args, PyObject *__pyx_kwds) {$/;"	f	file:
+__pyx_pw_5numpy_7ndarray_1__getbuffer__	boost.cpp	/^static CYTHON_UNUSED int __pyx_pw_5numpy_7ndarray_1__getbuffer__(PyObject *__pyx_v_self, Py_buffer *__pyx_v_info, int __pyx_v_flags) {$/;"	f	file:
+__pyx_pw_5numpy_7ndarray_1__getbuffer__	deepboost.c	/^static CYTHON_UNUSED int __pyx_pw_5numpy_7ndarray_1__getbuffer__(PyObject *__pyx_v_self, Py_buffer *__pyx_v_info, int __pyx_v_flags) {$/;"	f	file:
+__pyx_pw_5numpy_7ndarray_1__getbuffer__	deepboost.cpp	/^static CYTHON_UNUSED int __pyx_pw_5numpy_7ndarray_1__getbuffer__(PyObject *__pyx_v_self, Py_buffer *__pyx_v_info, int __pyx_v_flags) {$/;"	f	file:
+__pyx_pw_5numpy_7ndarray_3__releasebuffer__	boost.cpp	/^static CYTHON_UNUSED void __pyx_pw_5numpy_7ndarray_3__releasebuffer__(PyObject *__pyx_v_self, Py_buffer *__pyx_v_info) {$/;"	f	file:
+__pyx_pw_5numpy_7ndarray_3__releasebuffer__	deepboost.c	/^static CYTHON_UNUSED void __pyx_pw_5numpy_7ndarray_3__releasebuffer__(PyObject *__pyx_v_self, Py_buffer *__pyx_v_info) {$/;"	f	file:
+__pyx_pw_5numpy_7ndarray_3__releasebuffer__	deepboost.cpp	/^static CYTHON_UNUSED void __pyx_pw_5numpy_7ndarray_3__releasebuffer__(PyObject *__pyx_v_self, Py_buffer *__pyx_v_info) {$/;"	f	file:
+__pyx_pw_9deepboost_1fit	deepboost.c	/^static PyObject *__pyx_pw_9deepboost_1fit(PyObject *__pyx_self, PyObject *__pyx_args, PyObject *__pyx_kwds) {$/;"	f	file:
+__pyx_pw_9deepboost_7PyModel_1__cinit__	deepboost.cpp	/^static int __pyx_pw_9deepboost_7PyModel_1__cinit__(PyObject *__pyx_v_self, PyObject *__pyx_args, PyObject *__pyx_kwds) {$/;"	f	file:
+__pyx_pw_9deepboost_7PyModel_3predict	deepboost.cpp	/^static PyObject *__pyx_pw_9deepboost_7PyModel_3predict(PyObject *__pyx_v_self, PyObject *__pyx_v_X) {$/;"	f	file:
+__pyx_pw_9deepboost_7PyModel_5fit	deepboost.cpp	/^static PyObject *__pyx_pw_9deepboost_7PyModel_5fit(PyObject *__pyx_v_self, PyObject *__pyx_args, PyObject *__pyx_kwds) {$/;"	f	file:
+__pyx_string_tab	boost.c	/^static __Pyx_StringTabEntry __pyx_string_tab[] = {$/;"	v	file:
+__pyx_string_tab	boost.cpp	/^static __Pyx_StringTabEntry __pyx_string_tab[] = {$/;"	v	file:
+__pyx_string_tab	deepboost.c	/^static __Pyx_StringTabEntry __pyx_string_tab[] = {$/;"	v	file:
+__pyx_string_tab	deepboost.cpp	/^static __Pyx_StringTabEntry __pyx_string_tab[] = {$/;"	v	file:
+__pyx_t_5numpy_cdouble_t	boost.cpp	/^typedef npy_cdouble __pyx_t_5numpy_cdouble_t;$/;"	t	file:
+__pyx_t_5numpy_cdouble_t	deepboost.c	/^typedef npy_cdouble __pyx_t_5numpy_cdouble_t;$/;"	t	file:
+__pyx_t_5numpy_cdouble_t	deepboost.cpp	/^typedef npy_cdouble __pyx_t_5numpy_cdouble_t;$/;"	t	file:
+__pyx_t_5numpy_cfloat_t	boost.cpp	/^typedef npy_cfloat __pyx_t_5numpy_cfloat_t;$/;"	t	file:
+__pyx_t_5numpy_cfloat_t	deepboost.c	/^typedef npy_cfloat __pyx_t_5numpy_cfloat_t;$/;"	t	file:
+__pyx_t_5numpy_cfloat_t	deepboost.cpp	/^typedef npy_cfloat __pyx_t_5numpy_cfloat_t;$/;"	t	file:
+__pyx_t_5numpy_clongdouble_t	boost.cpp	/^typedef npy_clongdouble __pyx_t_5numpy_clongdouble_t;$/;"	t	file:
+__pyx_t_5numpy_clongdouble_t	deepboost.c	/^typedef npy_clongdouble __pyx_t_5numpy_clongdouble_t;$/;"	t	file:
+__pyx_t_5numpy_clongdouble_t	deepboost.cpp	/^typedef npy_clongdouble __pyx_t_5numpy_clongdouble_t;$/;"	t	file:
+__pyx_t_5numpy_complex_t	boost.cpp	/^typedef npy_cdouble __pyx_t_5numpy_complex_t;$/;"	t	file:
+__pyx_t_5numpy_complex_t	deepboost.c	/^typedef npy_cdouble __pyx_t_5numpy_complex_t;$/;"	t	file:
+__pyx_t_5numpy_complex_t	deepboost.cpp	/^typedef npy_cdouble __pyx_t_5numpy_complex_t;$/;"	t	file:
+__pyx_t_5numpy_double_t	boost.cpp	/^typedef npy_double __pyx_t_5numpy_double_t;$/;"	t	file:
+__pyx_t_5numpy_double_t	deepboost.c	/^typedef npy_double __pyx_t_5numpy_double_t;$/;"	t	file:
+__pyx_t_5numpy_double_t	deepboost.cpp	/^typedef npy_double __pyx_t_5numpy_double_t;$/;"	t	file:
+__pyx_t_5numpy_float32_t	boost.cpp	/^typedef npy_float32 __pyx_t_5numpy_float32_t;$/;"	t	file:
+__pyx_t_5numpy_float32_t	deepboost.c	/^typedef npy_float32 __pyx_t_5numpy_float32_t;$/;"	t	file:
+__pyx_t_5numpy_float32_t	deepboost.cpp	/^typedef npy_float32 __pyx_t_5numpy_float32_t;$/;"	t	file:
+__pyx_t_5numpy_float64_t	boost.cpp	/^typedef npy_float64 __pyx_t_5numpy_float64_t;$/;"	t	file:
+__pyx_t_5numpy_float64_t	deepboost.c	/^typedef npy_float64 __pyx_t_5numpy_float64_t;$/;"	t	file:
+__pyx_t_5numpy_float64_t	deepboost.cpp	/^typedef npy_float64 __pyx_t_5numpy_float64_t;$/;"	t	file:
+__pyx_t_5numpy_float_t	boost.cpp	/^typedef npy_double __pyx_t_5numpy_float_t;$/;"	t	file:
+__pyx_t_5numpy_float_t	deepboost.c	/^typedef npy_double __pyx_t_5numpy_float_t;$/;"	t	file:
+__pyx_t_5numpy_float_t	deepboost.cpp	/^typedef npy_double __pyx_t_5numpy_float_t;$/;"	t	file:
+__pyx_t_5numpy_int16_t	boost.cpp	/^typedef npy_int16 __pyx_t_5numpy_int16_t;$/;"	t	file:
+__pyx_t_5numpy_int16_t	deepboost.c	/^typedef npy_int16 __pyx_t_5numpy_int16_t;$/;"	t	file:
+__pyx_t_5numpy_int16_t	deepboost.cpp	/^typedef npy_int16 __pyx_t_5numpy_int16_t;$/;"	t	file:
+__pyx_t_5numpy_int32_t	boost.cpp	/^typedef npy_int32 __pyx_t_5numpy_int32_t;$/;"	t	file:
+__pyx_t_5numpy_int32_t	deepboost.c	/^typedef npy_int32 __pyx_t_5numpy_int32_t;$/;"	t	file:
+__pyx_t_5numpy_int32_t	deepboost.cpp	/^typedef npy_int32 __pyx_t_5numpy_int32_t;$/;"	t	file:
+__pyx_t_5numpy_int64_t	boost.cpp	/^typedef npy_int64 __pyx_t_5numpy_int64_t;$/;"	t	file:
+__pyx_t_5numpy_int64_t	deepboost.c	/^typedef npy_int64 __pyx_t_5numpy_int64_t;$/;"	t	file:
+__pyx_t_5numpy_int64_t	deepboost.cpp	/^typedef npy_int64 __pyx_t_5numpy_int64_t;$/;"	t	file:
+__pyx_t_5numpy_int8_t	boost.cpp	/^typedef npy_int8 __pyx_t_5numpy_int8_t;$/;"	t	file:
+__pyx_t_5numpy_int8_t	deepboost.c	/^typedef npy_int8 __pyx_t_5numpy_int8_t;$/;"	t	file:
+__pyx_t_5numpy_int8_t	deepboost.cpp	/^typedef npy_int8 __pyx_t_5numpy_int8_t;$/;"	t	file:
+__pyx_t_5numpy_int_t	boost.cpp	/^typedef npy_long __pyx_t_5numpy_int_t;$/;"	t	file:
+__pyx_t_5numpy_int_t	deepboost.c	/^typedef npy_long __pyx_t_5numpy_int_t;$/;"	t	file:
+__pyx_t_5numpy_int_t	deepboost.cpp	/^typedef npy_long __pyx_t_5numpy_int_t;$/;"	t	file:
+__pyx_t_5numpy_intp_t	boost.cpp	/^typedef npy_intp __pyx_t_5numpy_intp_t;$/;"	t	file:
+__pyx_t_5numpy_intp_t	deepboost.c	/^typedef npy_intp __pyx_t_5numpy_intp_t;$/;"	t	file:
+__pyx_t_5numpy_intp_t	deepboost.cpp	/^typedef npy_intp __pyx_t_5numpy_intp_t;$/;"	t	file:
+__pyx_t_5numpy_long_t	boost.cpp	/^typedef npy_longlong __pyx_t_5numpy_long_t;$/;"	t	file:
+__pyx_t_5numpy_long_t	deepboost.c	/^typedef npy_longlong __pyx_t_5numpy_long_t;$/;"	t	file:
+__pyx_t_5numpy_long_t	deepboost.cpp	/^typedef npy_longlong __pyx_t_5numpy_long_t;$/;"	t	file:
+__pyx_t_5numpy_longdouble_t	boost.cpp	/^typedef npy_longdouble __pyx_t_5numpy_longdouble_t;$/;"	t	file:
+__pyx_t_5numpy_longdouble_t	deepboost.c	/^typedef npy_longdouble __pyx_t_5numpy_longdouble_t;$/;"	t	file:
+__pyx_t_5numpy_longdouble_t	deepboost.cpp	/^typedef npy_longdouble __pyx_t_5numpy_longdouble_t;$/;"	t	file:
+__pyx_t_5numpy_longlong_t	boost.cpp	/^typedef npy_longlong __pyx_t_5numpy_longlong_t;$/;"	t	file:
+__pyx_t_5numpy_longlong_t	deepboost.c	/^typedef npy_longlong __pyx_t_5numpy_longlong_t;$/;"	t	file:
+__pyx_t_5numpy_longlong_t	deepboost.cpp	/^typedef npy_longlong __pyx_t_5numpy_longlong_t;$/;"	t	file:
+__pyx_t_5numpy_uint16_t	boost.cpp	/^typedef npy_uint16 __pyx_t_5numpy_uint16_t;$/;"	t	file:
+__pyx_t_5numpy_uint16_t	deepboost.c	/^typedef npy_uint16 __pyx_t_5numpy_uint16_t;$/;"	t	file:
+__pyx_t_5numpy_uint16_t	deepboost.cpp	/^typedef npy_uint16 __pyx_t_5numpy_uint16_t;$/;"	t	file:
+__pyx_t_5numpy_uint32_t	boost.cpp	/^typedef npy_uint32 __pyx_t_5numpy_uint32_t;$/;"	t	file:
+__pyx_t_5numpy_uint32_t	deepboost.c	/^typedef npy_uint32 __pyx_t_5numpy_uint32_t;$/;"	t	file:
+__pyx_t_5numpy_uint32_t	deepboost.cpp	/^typedef npy_uint32 __pyx_t_5numpy_uint32_t;$/;"	t	file:
+__pyx_t_5numpy_uint64_t	boost.cpp	/^typedef npy_uint64 __pyx_t_5numpy_uint64_t;$/;"	t	file:
+__pyx_t_5numpy_uint64_t	deepboost.c	/^typedef npy_uint64 __pyx_t_5numpy_uint64_t;$/;"	t	file:
+__pyx_t_5numpy_uint64_t	deepboost.cpp	/^typedef npy_uint64 __pyx_t_5numpy_uint64_t;$/;"	t	file:
+__pyx_t_5numpy_uint8_t	boost.cpp	/^typedef npy_uint8 __pyx_t_5numpy_uint8_t;$/;"	t	file:
+__pyx_t_5numpy_uint8_t	deepboost.c	/^typedef npy_uint8 __pyx_t_5numpy_uint8_t;$/;"	t	file:
+__pyx_t_5numpy_uint8_t	deepboost.cpp	/^typedef npy_uint8 __pyx_t_5numpy_uint8_t;$/;"	t	file:
+__pyx_t_5numpy_uint_t	boost.cpp	/^typedef npy_ulong __pyx_t_5numpy_uint_t;$/;"	t	file:
+__pyx_t_5numpy_uint_t	deepboost.c	/^typedef npy_ulong __pyx_t_5numpy_uint_t;$/;"	t	file:
+__pyx_t_5numpy_uint_t	deepboost.cpp	/^typedef npy_ulong __pyx_t_5numpy_uint_t;$/;"	t	file:
+__pyx_t_5numpy_uintp_t	boost.cpp	/^typedef npy_uintp __pyx_t_5numpy_uintp_t;$/;"	t	file:
+__pyx_t_5numpy_uintp_t	deepboost.c	/^typedef npy_uintp __pyx_t_5numpy_uintp_t;$/;"	t	file:
+__pyx_t_5numpy_uintp_t	deepboost.cpp	/^typedef npy_uintp __pyx_t_5numpy_uintp_t;$/;"	t	file:
+__pyx_t_5numpy_ulong_t	boost.cpp	/^typedef npy_ulonglong __pyx_t_5numpy_ulong_t;$/;"	t	file:
+__pyx_t_5numpy_ulong_t	deepboost.c	/^typedef npy_ulonglong __pyx_t_5numpy_ulong_t;$/;"	t	file:
+__pyx_t_5numpy_ulong_t	deepboost.cpp	/^typedef npy_ulonglong __pyx_t_5numpy_ulong_t;$/;"	t	file:
+__pyx_t_5numpy_ulonglong_t	boost.cpp	/^typedef npy_ulonglong __pyx_t_5numpy_ulonglong_t;$/;"	t	file:
+__pyx_t_5numpy_ulonglong_t	deepboost.c	/^typedef npy_ulonglong __pyx_t_5numpy_ulonglong_t;$/;"	t	file:
+__pyx_t_5numpy_ulonglong_t	deepboost.cpp	/^typedef npy_ulonglong __pyx_t_5numpy_ulonglong_t;$/;"	t	file:
+__pyx_t_double_complex	boost.cpp	/^    typedef ::std::complex< double > __pyx_t_double_complex;$/;"	t	file:
+__pyx_t_double_complex	boost.cpp	/^    typedef double _Complex __pyx_t_double_complex;$/;"	t	file:
+__pyx_t_double_complex	boost.cpp	/^    typedef struct { double real, imag; } __pyx_t_double_complex;$/;"	t	typeref:struct:__anon11	file:
+__pyx_t_double_complex	deepboost.c	/^    typedef ::std::complex< double > __pyx_t_double_complex;$/;"	t	class:std	file:
+__pyx_t_double_complex	deepboost.c	/^    typedef double _Complex __pyx_t_double_complex;$/;"	t	file:
+__pyx_t_double_complex	deepboost.c	/^    typedef struct { double real, imag; } __pyx_t_double_complex;$/;"	t	typeref:struct:__anon39	file:
+__pyx_t_double_complex	deepboost.cpp	/^    typedef ::std::complex< double > __pyx_t_double_complex;$/;"	t	file:
+__pyx_t_double_complex	deepboost.cpp	/^    typedef double _Complex __pyx_t_double_complex;$/;"	t	file:
+__pyx_t_double_complex	deepboost.cpp	/^    typedef struct { double real, imag; } __pyx_t_double_complex;$/;"	t	typeref:struct:__anon67	file:
+__pyx_t_double_complex_from_parts	boost.cpp	/^    static CYTHON_INLINE __pyx_t_double_complex __pyx_t_double_complex_from_parts(double x, double y) {$/;"	f	file:
+__pyx_t_double_complex_from_parts	deepboost.c	/^    static CYTHON_INLINE __pyx_t_double_complex __pyx_t_double_complex_from_parts(double x, double y) {$/;"	f	file:
+__pyx_t_double_complex_from_parts	deepboost.cpp	/^    static CYTHON_INLINE __pyx_t_double_complex __pyx_t_double_complex_from_parts(double x, double y) {$/;"	f	file:
+__pyx_t_float_complex	boost.cpp	/^    typedef ::std::complex< float > __pyx_t_float_complex;$/;"	t	file:
+__pyx_t_float_complex	boost.cpp	/^    typedef float _Complex __pyx_t_float_complex;$/;"	t	file:
+__pyx_t_float_complex	boost.cpp	/^    typedef struct { float real, imag; } __pyx_t_float_complex;$/;"	t	typeref:struct:__anon10	file:
+__pyx_t_float_complex	deepboost.c	/^    typedef ::std::complex< float > __pyx_t_float_complex;$/;"	t	class:std	file:
+__pyx_t_float_complex	deepboost.c	/^    typedef float _Complex __pyx_t_float_complex;$/;"	t	file:
+__pyx_t_float_complex	deepboost.c	/^    typedef struct { float real, imag; } __pyx_t_float_complex;$/;"	t	typeref:struct:__anon38	file:
+__pyx_t_float_complex	deepboost.cpp	/^    typedef ::std::complex< float > __pyx_t_float_complex;$/;"	t	file:
+__pyx_t_float_complex	deepboost.cpp	/^    typedef float _Complex __pyx_t_float_complex;$/;"	t	file:
+__pyx_t_float_complex	deepboost.cpp	/^    typedef struct { float real, imag; } __pyx_t_float_complex;$/;"	t	typeref:struct:__anon66	file:
+__pyx_t_float_complex_from_parts	boost.cpp	/^    static CYTHON_INLINE __pyx_t_float_complex __pyx_t_float_complex_from_parts(float x, float y) {$/;"	f	file:
+__pyx_t_float_complex_from_parts	deepboost.c	/^    static CYTHON_INLINE __pyx_t_float_complex __pyx_t_float_complex_from_parts(float x, float y) {$/;"	f	file:
+__pyx_t_float_complex_from_parts	deepboost.cpp	/^    static CYTHON_INLINE __pyx_t_float_complex __pyx_t_float_complex_from_parts(float x, float y) {$/;"	f	file:
+__pyx_tp_dealloc_9deepboost_PyModel	deepboost.cpp	/^static void __pyx_tp_dealloc_9deepboost_PyModel(PyObject *o) {$/;"	f	file:
+__pyx_tp_new_9deepboost_PyModel	deepboost.cpp	/^static PyObject *__pyx_tp_new_9deepboost_PyModel(PyTypeObject *t, CYTHON_UNUSED PyObject *a, CYTHON_UNUSED PyObject *k) {$/;"	f	file:
+__pyx_tuple_	boost.cpp	/^static PyObject *__pyx_tuple_;$/;"	v	file:
+__pyx_tuple_	deepboost.c	/^static PyObject *__pyx_tuple_;$/;"	v	file:
+__pyx_tuple_	deepboost.cpp	/^static PyObject *__pyx_tuple_;$/;"	v	file:
+__pyx_tuple__2	boost.cpp	/^static PyObject *__pyx_tuple__2;$/;"	v	file:
+__pyx_tuple__2	deepboost.c	/^static PyObject *__pyx_tuple__2;$/;"	v	file:
+__pyx_tuple__2	deepboost.cpp	/^static PyObject *__pyx_tuple__2;$/;"	v	file:
+__pyx_tuple__3	boost.cpp	/^static PyObject *__pyx_tuple__3;$/;"	v	file:
+__pyx_tuple__3	deepboost.c	/^static PyObject *__pyx_tuple__3;$/;"	v	file:
+__pyx_tuple__3	deepboost.cpp	/^static PyObject *__pyx_tuple__3;$/;"	v	file:
+__pyx_tuple__4	boost.cpp	/^static PyObject *__pyx_tuple__4;$/;"	v	file:
+__pyx_tuple__4	deepboost.c	/^static PyObject *__pyx_tuple__4;$/;"	v	file:
+__pyx_tuple__4	deepboost.cpp	/^static PyObject *__pyx_tuple__4;$/;"	v	file:
+__pyx_tuple__5	boost.cpp	/^static PyObject *__pyx_tuple__5;$/;"	v	file:
+__pyx_tuple__5	deepboost.c	/^static PyObject *__pyx_tuple__5;$/;"	v	file:
+__pyx_tuple__5	deepboost.cpp	/^static PyObject *__pyx_tuple__5;$/;"	v	file:
+__pyx_tuple__6	boost.cpp	/^static PyObject *__pyx_tuple__6;$/;"	v	file:
+__pyx_tuple__6	deepboost.c	/^static PyObject *__pyx_tuple__6;$/;"	v	file:
+__pyx_tuple__6	deepboost.cpp	/^static PyObject *__pyx_tuple__6;$/;"	v	file:
+__pyx_tuple__7	boost.cpp	/^static PyObject *__pyx_tuple__7;$/;"	v	file:
+__pyx_tuple__7	deepboost.c	/^static PyObject *__pyx_tuple__7;$/;"	v	file:
+__pyx_type_9deepboost_PyModel	deepboost.cpp	/^static PyTypeObject __pyx_type_9deepboost_PyModel = {$/;"	v	file:
+__stdcall	boost.c	/^    #define __stdcall$/;"	d	file:
+__stdcall	boost.cpp	/^    #define __stdcall$/;"	d	file:
+__stdcall	deepboost.c	/^    #define __stdcall$/;"	d	file:
+__stdcall	deepboost.cpp	/^    #define __stdcall$/;"	d	file:
+_c_model	deepboost.cpp	/^  struct Model *_c_model;$/;"	m	struct:__pyx_obj_9deepboost_PyModel	typeref:struct:__pyx_obj_9deepboost_PyModel::Model	file:
+am_aiter	boost.c	/^    unaryfunc am_aiter;$/;"	m	struct:__anon1	file:
+am_aiter	boost.cpp	/^    unaryfunc am_aiter;$/;"	m	struct:__anon5	file:
+am_aiter	deepboost.c	/^    unaryfunc am_aiter;$/;"	m	struct:__anon33	file:
+am_aiter	deepboost.cpp	/^    unaryfunc am_aiter;$/;"	m	struct:__anon61	file:
+am_anext	boost.c	/^    unaryfunc am_anext;$/;"	m	struct:__anon1	file:
+am_anext	boost.cpp	/^    unaryfunc am_anext;$/;"	m	struct:__anon5	file:
+am_anext	deepboost.c	/^    unaryfunc am_anext;$/;"	m	struct:__anon33	file:
+am_anext	deepboost.cpp	/^    unaryfunc am_anext;$/;"	m	struct:__anon61	file:
+am_await	boost.c	/^    unaryfunc am_await;$/;"	m	struct:__anon1	file:
+am_await	boost.cpp	/^    unaryfunc am_await;$/;"	m	struct:__anon5	file:
+am_await	deepboost.c	/^    unaryfunc am_await;$/;"	m	struct:__anon33	file:
+am_await	deepboost.cpp	/^    unaryfunc am_await;$/;"	m	struct:__anon61	file:
+arraysize	boost.cpp	/^  size_t arraysize[8];$/;"	m	struct:__anon7	file:
+arraysize	deepboost.c	/^  size_t arraysize[8];$/;"	m	struct:__anon35	file:
+arraysize	deepboost.cpp	/^  size_t arraysize[8];$/;"	m	struct:__anon63	file:
+beta	boost_test.cc	/^DECLARE_double(beta);$/;"	v
+beta	driver.cc	/^DECLARE_double(beta);$/;"	v
+beta	tree_test.cc	/^DECLARE_double(beta);$/;"	v
+c	boost.cpp	/^typedef struct { PY_LONG_LONG x; char c; } __Pyx_pad_longlong;$/;"	m	struct:__anon32	file:
+c	boost.cpp	/^typedef struct { char c; PY_LONG_LONG x; } __Pyx_st_longlong;$/;"	m	struct:__anon24	file:
+c	boost.cpp	/^typedef struct { char c; double x; } __Pyx_st_double;$/;"	m	struct:__anon21	file:
+c	boost.cpp	/^typedef struct { char c; float x; } __Pyx_st_float;$/;"	m	struct:__anon20	file:
+c	boost.cpp	/^typedef struct { char c; int x; } __Pyx_st_int;$/;"	m	struct:__anon18	file:
+c	boost.cpp	/^typedef struct { char c; long double x; } __Pyx_st_longdouble;$/;"	m	struct:__anon22	file:
+c	boost.cpp	/^typedef struct { char c; long x; } __Pyx_st_long;$/;"	m	struct:__anon19	file:
+c	boost.cpp	/^typedef struct { char c; short x; } __Pyx_st_short;$/;"	m	struct:__anon17	file:
+c	boost.cpp	/^typedef struct { char c; void *x; } __Pyx_st_void_p;$/;"	m	struct:__anon23	file:
+c	boost.cpp	/^typedef struct { double x; char c; } __Pyx_pad_double;$/;"	m	struct:__anon29	file:
+c	boost.cpp	/^typedef struct { float x; char c; } __Pyx_pad_float;$/;"	m	struct:__anon28	file:
+c	boost.cpp	/^typedef struct { int x; char c; } __Pyx_pad_int;$/;"	m	struct:__anon26	file:
+c	boost.cpp	/^typedef struct { long double x; char c; } __Pyx_pad_longdouble;$/;"	m	struct:__anon30	file:
+c	boost.cpp	/^typedef struct { long x; char c; } __Pyx_pad_long;$/;"	m	struct:__anon27	file:
+c	boost.cpp	/^typedef struct { short x; char c; } __Pyx_pad_short;$/;"	m	struct:__anon25	file:
+c	boost.cpp	/^typedef struct { void *x; char c; } __Pyx_pad_void_p;$/;"	m	struct:__anon31	file:
+c	deepboost.c	/^typedef struct { PY_LONG_LONG x; char c; } __Pyx_pad_longlong;$/;"	m	struct:__anon60	file:
+c	deepboost.c	/^typedef struct { char c; PY_LONG_LONG x; } __Pyx_st_longlong;$/;"	m	struct:__anon52	file:
+c	deepboost.c	/^typedef struct { char c; double x; } __Pyx_st_double;$/;"	m	struct:__anon49	file:
+c	deepboost.c	/^typedef struct { char c; float x; } __Pyx_st_float;$/;"	m	struct:__anon48	file:
+c	deepboost.c	/^typedef struct { char c; int x; } __Pyx_st_int;$/;"	m	struct:__anon46	file:
+c	deepboost.c	/^typedef struct { char c; long double x; } __Pyx_st_longdouble;$/;"	m	struct:__anon50	file:
+c	deepboost.c	/^typedef struct { char c; long x; } __Pyx_st_long;$/;"	m	struct:__anon47	file:
+c	deepboost.c	/^typedef struct { char c; short x; } __Pyx_st_short;$/;"	m	struct:__anon45	file:
+c	deepboost.c	/^typedef struct { char c; void *x; } __Pyx_st_void_p;$/;"	m	struct:__anon51	file:
+c	deepboost.c	/^typedef struct { double x; char c; } __Pyx_pad_double;$/;"	m	struct:__anon57	file:
+c	deepboost.c	/^typedef struct { float x; char c; } __Pyx_pad_float;$/;"	m	struct:__anon56	file:
+c	deepboost.c	/^typedef struct { int x; char c; } __Pyx_pad_int;$/;"	m	struct:__anon54	file:
+c	deepboost.c	/^typedef struct { long double x; char c; } __Pyx_pad_longdouble;$/;"	m	struct:__anon58	file:
+c	deepboost.c	/^typedef struct { long x; char c; } __Pyx_pad_long;$/;"	m	struct:__anon55	file:
+c	deepboost.c	/^typedef struct { short x; char c; } __Pyx_pad_short;$/;"	m	struct:__anon53	file:
+c	deepboost.c	/^typedef struct { void *x; char c; } __Pyx_pad_void_p;$/;"	m	struct:__anon59	file:
+c	deepboost.cpp	/^typedef struct { PY_LONG_LONG x; char c; } __Pyx_pad_longlong;$/;"	m	struct:__anon88	file:
+c	deepboost.cpp	/^typedef struct { char c; PY_LONG_LONG x; } __Pyx_st_longlong;$/;"	m	struct:__anon80	file:
+c	deepboost.cpp	/^typedef struct { char c; double x; } __Pyx_st_double;$/;"	m	struct:__anon77	file:
+c	deepboost.cpp	/^typedef struct { char c; float x; } __Pyx_st_float;$/;"	m	struct:__anon76	file:
+c	deepboost.cpp	/^typedef struct { char c; int x; } __Pyx_st_int;$/;"	m	struct:__anon74	file:
+c	deepboost.cpp	/^typedef struct { char c; long double x; } __Pyx_st_longdouble;$/;"	m	struct:__anon78	file:
+c	deepboost.cpp	/^typedef struct { char c; long x; } __Pyx_st_long;$/;"	m	struct:__anon75	file:
+c	deepboost.cpp	/^typedef struct { char c; short x; } __Pyx_st_short;$/;"	m	struct:__anon73	file:
+c	deepboost.cpp	/^typedef struct { char c; void *x; } __Pyx_st_void_p;$/;"	m	struct:__anon79	file:
+c	deepboost.cpp	/^typedef struct { double x; char c; } __Pyx_pad_double;$/;"	m	struct:__anon85	file:
+c	deepboost.cpp	/^typedef struct { float x; char c; } __Pyx_pad_float;$/;"	m	struct:__anon84	file:
+c	deepboost.cpp	/^typedef struct { int x; char c; } __Pyx_pad_int;$/;"	m	struct:__anon82	file:
+c	deepboost.cpp	/^typedef struct { long double x; char c; } __Pyx_pad_longdouble;$/;"	m	struct:__anon86	file:
+c	deepboost.cpp	/^typedef struct { long x; char c; } __Pyx_pad_long;$/;"	m	struct:__anon83	file:
+c	deepboost.cpp	/^typedef struct { short x; char c; } __Pyx_pad_short;$/;"	m	struct:__anon81	file:
+c	deepboost.cpp	/^typedef struct { void *x; char c; } __Pyx_pad_void_p;$/;"	m	struct:__anon87	file:
+code_line	boost.c	/^    int code_line;$/;"	m	struct:__anon4	file:
+code_line	boost.cpp	/^    int code_line;$/;"	m	struct:__anon13	file:
+code_line	deepboost.c	/^    int code_line;$/;"	m	struct:__anon41	file:
+code_line	deepboost.cpp	/^    int code_line;$/;"	m	struct:__anon69	file:
+code_object	boost.c	/^    PyCodeObject* code_object;$/;"	m	struct:__anon4	file:
+code_object	boost.cpp	/^    PyCodeObject* code_object;$/;"	m	struct:__anon13	file:
+code_object	deepboost.c	/^    PyCodeObject* code_object;$/;"	m	struct:__anon41	file:
+code_object	deepboost.cpp	/^    PyCodeObject* code_object;$/;"	m	struct:__anon69	file:
+count	boost.c	/^    int count;$/;"	m	struct:__Pyx_CodeObjectCache	file:
+count	boost.cpp	/^    int count;$/;"	m	struct:__Pyx_CodeObjectCache	file:
+count	deepboost.c	/^    int count;$/;"	m	struct:__Pyx_CodeObjectCache	file:
+count	deepboost.cpp	/^    int count;$/;"	m	struct:__Pyx_CodeObjectCache	file:
+cythonize	setup.py	/^from Cython.Build import cythonize$/;"	i
+data	boost.cpp	/^  char *data;$/;"	m	struct:__anon16	file:
+data	deepboost.c	/^  char *data;$/;"	m	struct:__anon44	file:
+data	deepboost.cpp	/^  char *data;$/;"	m	struct:__anon72	file:
+data_filename	driver.cc	/^DECLARE_string(data_filename);$/;"	v
+data_filename	io_test.cc	/^DECLARE_string(data_filename);$/;"	v
+data_set	driver.cc	/^DECLARE_string(data_set);$/;"	v
+data_set	io_test.cc	/^DECLARE_string(data_set);$/;"	v
+deepboost	testo.py	/^import deepboost$/;"	i
+depth	types.h	/^  int depth;  \/\/ Depth of the node in the tree. Root node has depth 0.$/;"	m	struct:Node
+diminfo	boost.cpp	/^  __Pyx_Buf_DimInfo diminfo[8];$/;"	m	struct:__anon16	file:
+diminfo	deepboost.c	/^  __Pyx_Buf_DimInfo diminfo[8];$/;"	m	struct:__anon44	file:
+diminfo	deepboost.cpp	/^  __Pyx_Buf_DimInfo diminfo[8];$/;"	m	struct:__anon72	file:
+enc_count	boost.cpp	/^  size_t new_count, enc_count;$/;"	m	struct:__anon9	file:
+enc_count	deepboost.c	/^  size_t new_count, enc_count;$/;"	m	struct:__anon37	file:
+enc_count	deepboost.cpp	/^  size_t new_count, enc_count;$/;"	m	struct:__anon65	file:
+enc_packmode	boost.cpp	/^  char enc_packmode;$/;"	m	struct:__anon9	file:
+enc_packmode	deepboost.c	/^  char enc_packmode;$/;"	m	struct:__anon37	file:
+enc_packmode	deepboost.cpp	/^  char enc_packmode;$/;"	m	struct:__anon65	file:
+enc_type	boost.cpp	/^  char enc_type;$/;"	m	struct:__anon9	file:
+enc_type	deepboost.c	/^  char enc_type;$/;"	m	struct:__anon37	file:
+enc_type	deepboost.cpp	/^  char enc_type;$/;"	m	struct:__anon65	file:
+encoding	boost.c	/^typedef struct {PyObject **p; char *s; const Py_ssize_t n; const char* encoding;$/;"	m	struct:__anon2	file:
+encoding	boost.cpp	/^typedef struct {PyObject **p; char *s; const Py_ssize_t n; const char* encoding;$/;"	m	struct:__anon6	file:
+encoding	deepboost.c	/^typedef struct {PyObject **p; char *s; const Py_ssize_t n; const char* encoding;$/;"	m	struct:__anon34	file:
+encoding	deepboost.cpp	/^typedef struct {PyObject **p; char *s; const Py_ssize_t n; const char* encoding;$/;"	m	struct:__anon62	file:
+entries	boost.c	/^    __Pyx_CodeObjectCacheEntry* entries;$/;"	m	struct:__Pyx_CodeObjectCache	file:
+entries	boost.cpp	/^    __Pyx_CodeObjectCacheEntry* entries;$/;"	m	struct:__Pyx_CodeObjectCache	file:
+entries	deepboost.c	/^    __Pyx_CodeObjectCacheEntry* entries;$/;"	m	struct:__Pyx_CodeObjectCache	file:
+entries	deepboost.cpp	/^    __Pyx_CodeObjectCacheEntry* entries;$/;"	m	struct:__Pyx_CodeObjectCache	file:
+examples	types.h	/^  vector<Example> examples;  \/\/ Examples at this node.$/;"	m	struct:Node
+examples_	srm_test.h	/^  vector<Example> examples_;$/;"	m	class:SrmTest
+ext_modules	setup.py	/^        ext_modules = cythonize(extensions),$/;"	v
+extensions	setup.py	/^extensions = [$/;"	v
+field	boost.cpp	/^  __Pyx_StructField* field;$/;"	m	struct:__anon8	file:
+field	deepboost.c	/^  __Pyx_StructField* field;$/;"	m	struct:__anon36	file:
+field	deepboost.cpp	/^  __Pyx_StructField* field;$/;"	m	struct:__anon64	file:
+fields	boost.cpp	/^  struct __Pyx_StructField_* fields;$/;"	m	struct:__anon7	typeref:struct:__anon7::__Pyx_StructField_	file:
+fields	deepboost.c	/^  struct __Pyx_StructField_* fields;$/;"	m	struct:__anon35	typeref:struct:__anon35::__Pyx_StructField_	file:
+fields	deepboost.cpp	/^  struct __Pyx_StructField_* fields;$/;"	m	struct:__anon63	typeref:struct:__anon63::__Pyx_StructField_	file:
+fit	deepboost.pyx	/^    def fit(self,$/;"	m	class:PyModel
+flags	boost.cpp	/^  int flags;$/;"	m	struct:__anon7	file:
+flags	deepboost.c	/^  int flags;$/;"	m	struct:__anon35	file:
+flags	deepboost.cpp	/^  int flags;$/;"	m	struct:__anon63	file:
+fmt_offset	boost.cpp	/^  size_t fmt_offset;$/;"	m	struct:__anon9	file:
+fmt_offset	deepboost.c	/^  size_t fmt_offset;$/;"	m	struct:__anon37	file:
+fmt_offset	deepboost.cpp	/^  size_t fmt_offset;$/;"	m	struct:__anon65	file:
+fold_to_cv	driver.cc	/^DECLARE_int32(fold_to_cv);$/;"	v
+fold_to_cv	io_test.cc	/^DECLARE_int32(fold_to_cv);$/;"	v
+fold_to_test	driver.cc	/^DECLARE_int32(fold_to_test);$/;"	v
+fold_to_test	io_test.cc	/^DECLARE_int32(fold_to_test);$/;"	v
+head	boost.cpp	/^  __Pyx_BufFmt_StackElem* head;$/;"	m	struct:__anon9	file:
+head	deepboost.c	/^  __Pyx_BufFmt_StackElem* head;$/;"	m	struct:__anon37	file:
+head	deepboost.cpp	/^  __Pyx_BufFmt_StackElem* head;$/;"	m	struct:__anon65	file:
+imag	boost.cpp	/^    typedef struct { double real, imag; } __pyx_t_double_complex;$/;"	m	struct:__anon11	file:
+imag	boost.cpp	/^    typedef struct { float real, imag; } __pyx_t_float_complex;$/;"	m	struct:__anon10	file:
+imag	deepboost.c	/^    typedef struct { double real, imag; } __pyx_t_double_complex;$/;"	m	struct:__anon39	file:
+imag	deepboost.c	/^    typedef struct { float real, imag; } __pyx_t_float_complex;$/;"	m	struct:__anon38	file:
+imag	deepboost.cpp	/^    typedef struct { double real, imag; } __pyx_t_double_complex;$/;"	m	struct:__anon67	file:
+imag	deepboost.cpp	/^    typedef struct { float real, imag; } __pyx_t_float_complex;$/;"	m	struct:__anon66	file:
+include_dirs	setup.py	/^            include_dirs = ['.', numpy.get_include()],$/;"	v
+initboost	boost.c	/^PyMODINIT_FUNC initboost(void)$/;"	f
+initboost	boost.cpp	/^PyMODINIT_FUNC initboost(void)$/;"	f
+initdeepboost	deepboost.c	/^PyMODINIT_FUNC initdeepboost(void)$/;"	f
+initdeepboost	deepboost.cpp	/^PyMODINIT_FUNC initdeepboost(void)$/;"	f
+intern	boost.c	/^                const char is_unicode; const char is_str; const char intern; } __Pyx_StringTabEntry;$/;"	m	struct:__anon2	file:
+intern	boost.cpp	/^                const char is_unicode; const char is_str; const char intern; } __Pyx_StringTabEntry;$/;"	m	struct:__anon6	file:
+intern	deepboost.c	/^                const char is_unicode; const char is_str; const char intern; } __Pyx_StringTabEntry;$/;"	m	struct:__anon34	file:
+intern	deepboost.cpp	/^                const char is_unicode; const char is_str; const char intern; } __Pyx_StringTabEntry;$/;"	m	struct:__anon62	file:
+is_complex	boost.cpp	/^  int is_complex;$/;"	m	struct:__anon9	file:
+is_complex	deepboost.c	/^  int is_complex;$/;"	m	struct:__anon37	file:
+is_complex	deepboost.cpp	/^  int is_complex;$/;"	m	struct:__anon65	file:
+is_initialized	tree.cc	/^static bool is_initialized = false;$/;"	v	file:
+is_str	boost.c	/^                const char is_unicode; const char is_str; const char intern; } __Pyx_StringTabEntry;$/;"	m	struct:__anon2	file:
+is_str	boost.cpp	/^                const char is_unicode; const char is_str; const char intern; } __Pyx_StringTabEntry;$/;"	m	struct:__anon6	file:
+is_str	deepboost.c	/^                const char is_unicode; const char is_str; const char intern; } __Pyx_StringTabEntry;$/;"	m	struct:__anon34	file:
+is_str	deepboost.cpp	/^                const char is_unicode; const char is_str; const char intern; } __Pyx_StringTabEntry;$/;"	m	struct:__anon62	file:
+is_unicode	boost.c	/^                const char is_unicode; const char is_str; const char intern; } __Pyx_StringTabEntry;$/;"	m	struct:__anon2	file:
+is_unicode	boost.cpp	/^                const char is_unicode; const char is_str; const char intern; } __Pyx_StringTabEntry;$/;"	m	struct:__anon6	file:
+is_unicode	deepboost.c	/^                const char is_unicode; const char is_str; const char intern; } __Pyx_StringTabEntry;$/;"	m	struct:__anon34	file:
+is_unicode	deepboost.cpp	/^                const char is_unicode; const char is_str; const char intern; } __Pyx_StringTabEntry;$/;"	m	struct:__anon62	file:
+is_unsigned	boost.cpp	/^  char is_unsigned;$/;"	m	struct:__anon7	file:
+is_unsigned	deepboost.c	/^  char is_unsigned;$/;"	m	struct:__anon35	file:
+is_unsigned	deepboost.cpp	/^  char is_unsigned;$/;"	m	struct:__anon63	file:
+is_valid_array	boost.cpp	/^  char is_valid_array;$/;"	m	struct:__anon9	file:
+is_valid_array	deepboost.c	/^  char is_valid_array;$/;"	m	struct:__anon37	file:
+is_valid_array	deepboost.cpp	/^  char is_valid_array;$/;"	m	struct:__anon65	file:
+kTolerance	types.h	/^static const float kTolerance = 1e-7;$/;"	v
+label	types.h	/^  Label label;$/;"	m	struct:Example
+lambda	boost_test.cc	/^DECLARE_double(lambda);$/;"	v
+lambda	driver.cc	/^DECLARE_double(lambda);$/;"	v
+lambda	tree_test.cc	/^DECLARE_double(lambda);$/;"	v
+language	setup.py	/^            language='c++',$/;"	v
+leaf	types.h	/^  bool leaf;  \/\/ Is this node is a leaf?$/;"	m	struct:Node
+left_child_id	types.h	/^  NodeId left_child_id;  \/\/ Pointer to left child, if any.$/;"	m	struct:Node
+library_dirs	setup.py	/^            library_dirs = ['.'],$/;"	v
+likely	boost.c	/^  #define likely(/;"	d	file:
+likely	boost.cpp	/^  #define likely(/;"	d	file:
+likely	deepboost.c	/^  #define likely(/;"	d	file:
+likely	deepboost.cpp	/^  #define likely(/;"	d	file:
+load_iris	testo.py	/^from sklearn.datasets import load_iris$/;"	i
+loss_type	boost_test.cc	/^DECLARE_string(loss_type);$/;"	v
+loss_type	driver.cc	/^DECLARE_string(loss_type);$/;"	v
+loss_type	types.h	/^    LossType loss_type;$/;"	m	struct:Model
+main	driver.cc	/^int main(int argc, char** argv) {$/;"	f
+main	testo.py	/^def main():$/;"	f
+max_count	boost.c	/^    int max_count;$/;"	m	struct:__Pyx_CodeObjectCache	file:
+max_count	boost.cpp	/^    int max_count;$/;"	m	struct:__Pyx_CodeObjectCache	file:
+max_count	deepboost.c	/^    int max_count;$/;"	m	struct:__Pyx_CodeObjectCache	file:
+max_count	deepboost.cpp	/^    int max_count;$/;"	m	struct:__Pyx_CodeObjectCache	file:
+model	types.h	/^    vector<pair<Weight, Tree> > model;$/;"	m	struct:Model
+n	boost.c	/^typedef struct {PyObject **p; char *s; const Py_ssize_t n; const char* encoding;$/;"	m	struct:__anon2	file:
+n	boost.cpp	/^typedef struct {PyObject **p; char *s; const Py_ssize_t n; const char* encoding;$/;"	m	struct:__anon6	file:
+n	deepboost.c	/^typedef struct {PyObject **p; char *s; const Py_ssize_t n; const char* encoding;$/;"	m	struct:__anon34	file:
+n	deepboost.cpp	/^typedef struct {PyObject **p; char *s; const Py_ssize_t n; const char* encoding;$/;"	m	struct:__anon62	file:
+name	boost.cpp	/^  const char* name;$/;"	m	struct:__Pyx_StructField_	file:
+name	boost.cpp	/^  const char* name;$/;"	m	struct:__anon7	file:
+name	deepboost.c	/^  const char* name;$/;"	m	struct:__Pyx_StructField_	file:
+name	deepboost.c	/^  const char* name;$/;"	m	struct:__anon35	file:
+name	deepboost.cpp	/^  const char* name;$/;"	m	struct:__Pyx_StructField_	file:
+name	deepboost.cpp	/^  const char* name;$/;"	m	struct:__anon63	file:
+name	setup.py	/^        name='deepboost',$/;"	v
+ndim	boost.cpp	/^  int ndim;$/;"	m	struct:__anon7	file:
+ndim	deepboost.c	/^  int ndim;$/;"	m	struct:__anon35	file:
+ndim	deepboost.cpp	/^  int ndim;$/;"	m	struct:__anon63	file:
+negative_weight	types.h	/^  Weight negative_weight;  \/\/ Total weight of negative examples at this node.$/;"	m	struct:Node
+new_count	boost.cpp	/^  size_t new_count, enc_count;$/;"	m	struct:__anon9	file:
+new_count	deepboost.c	/^  size_t new_count, enc_count;$/;"	m	struct:__anon37	file:
+new_count	deepboost.cpp	/^  size_t new_count, enc_count;$/;"	m	struct:__anon65	file:
+new_packmode	boost.cpp	/^  char new_packmode;$/;"	m	struct:__anon9	file:
+new_packmode	deepboost.c	/^  char new_packmode;$/;"	m	struct:__anon37	file:
+new_packmode	deepboost.cpp	/^  char new_packmode;$/;"	m	struct:__anon65	file:
+noise_prob	io_test.cc	/^DECLARE_double(noise_prob);$/;"	v
+np	deepboost.pyx	/^cimport numpy as np$/;"	i
+np	deepboost.pyx	/^import  numpy as np$/;"	i
+np	testo.py	/^import numpy as np$/;"	i
+num_examples	tree.cc	/^static int num_examples;$/;"	v	file:
+num_features	tree.cc	/^static int num_features;$/;"	v	file:
+num_folds	driver.cc	/^DECLARE_int32(num_folds);$/;"	v
+num_folds	io_test.cc	/^DECLARE_int32(num_folds);$/;"	v
+numpy	setup.py	/^import numpy$/;"	i
+offset	boost.cpp	/^  size_t offset;$/;"	m	struct:__Pyx_StructField_	file:
+offset	deepboost.c	/^  size_t offset;$/;"	m	struct:__Pyx_StructField_	file:
+offset	deepboost.cpp	/^  size_t offset;$/;"	m	struct:__Pyx_StructField_	file:
+offsetof	boost.c	/^#define offsetof(/;"	d	file:
+offsetof	boost.cpp	/^#define offsetof(/;"	d	file:
+offsetof	deepboost.c	/^#define offsetof(/;"	d	file:
+offsetof	deepboost.cpp	/^#define offsetof(/;"	d	file:
+operator ->	boost.cpp	/^    T *operator->() { return ptr; }$/;"	f	class:__Pyx_FakeReference
+operator ->	deepboost.cpp	/^    T *operator->() { return ptr; }$/;"	f	class:__Pyx_FakeReference
+operator T&	boost.cpp	/^    operator T&() { return *ptr; }$/;"	f	class:__Pyx_FakeReference
+operator T&	deepboost.cpp	/^    operator T&() { return *ptr; }$/;"	f	class:__Pyx_FakeReference
+p	boost.c	/^typedef struct {PyObject **p; char *s; const Py_ssize_t n; const char* encoding;$/;"	m	struct:__anon2	file:
+p	boost.cpp	/^typedef struct {PyObject **p; char *s; const Py_ssize_t n; const char* encoding;$/;"	m	struct:__anon6	file:
+p	deepboost.c	/^typedef struct {PyObject **p; char *s; const Py_ssize_t n; const char* encoding;$/;"	m	struct:__anon34	file:
+p	deepboost.cpp	/^typedef struct {PyObject **p; char *s; const Py_ssize_t n; const char* encoding;$/;"	m	struct:__anon62	file:
+pair	cboost.pxd	/^from libcpp.pair cimport pair$/;"	i
+pair	deepboost.pyx	/^from libcpp.pair cimport pair$/;"	i
+parent_offset	boost.cpp	/^  size_t parent_offset;$/;"	m	struct:__anon8	file:
+parent_offset	deepboost.c	/^  size_t parent_offset;$/;"	m	struct:__anon36	file:
+parent_offset	deepboost.cpp	/^  size_t parent_offset;$/;"	m	struct:__anon64	file:
+positive_weight	types.h	/^  Weight positive_weight;  \/\/ Total weight of positive examples at this node.$/;"	m	struct:Node
+predict	deepboost.pyx	/^    def predict(self,$/;"	m	class:PyModel
+ptr	boost.cpp	/^    T *ptr;$/;"	m	class:__Pyx_FakeReference	file:
+ptr	deepboost.cpp	/^    T *ptr;$/;"	m	class:__Pyx_FakeReference	file:
+pybuffer	boost.cpp	/^  Py_buffer pybuffer;$/;"	m	struct:__anon15	file:
+pybuffer	deepboost.c	/^  Py_buffer pybuffer;$/;"	m	struct:__anon43	file:
+pybuffer	deepboost.cpp	/^  Py_buffer pybuffer;$/;"	m	struct:__anon71	file:
+rcbuffer	boost.cpp	/^  __Pyx_Buffer *rcbuffer;$/;"	m	struct:__anon16	file:
+rcbuffer	deepboost.c	/^  __Pyx_Buffer *rcbuffer;$/;"	m	struct:__anon44	file:
+rcbuffer	deepboost.cpp	/^  __Pyx_Buffer *rcbuffer;$/;"	m	struct:__anon72	file:
+real	boost.cpp	/^    typedef struct { double real, imag; } __pyx_t_double_complex;$/;"	m	struct:__anon11	file:
+real	boost.cpp	/^    typedef struct { float real, imag; } __pyx_t_float_complex;$/;"	m	struct:__anon10	file:
+real	deepboost.c	/^    typedef struct { double real, imag; } __pyx_t_double_complex;$/;"	m	struct:__anon39	file:
+real	deepboost.c	/^    typedef struct { float real, imag; } __pyx_t_float_complex;$/;"	m	struct:__anon38	file:
+real	deepboost.cpp	/^    typedef struct { double real, imag; } __pyx_t_double_complex;$/;"	m	struct:__anon67	file:
+real	deepboost.cpp	/^    typedef struct { float real, imag; } __pyx_t_float_complex;$/;"	m	struct:__anon66	file:
+refcount	boost.cpp	/^  size_t refcount;$/;"	m	struct:__anon15	file:
+refcount	deepboost.c	/^  size_t refcount;$/;"	m	struct:__anon43	file:
+refcount	deepboost.cpp	/^  size_t refcount;$/;"	m	struct:__anon71	file:
+right_child_id	types.h	/^  NodeId right_child_id;  \/\/ Pointer to right child, if any.$/;"	m	struct:Node
+root	boost.cpp	/^  __Pyx_StructField root;$/;"	m	struct:__anon9	file:
+root	deepboost.c	/^  __Pyx_StructField root;$/;"	m	struct:__anon37	file:
+root	deepboost.cpp	/^  __Pyx_StructField root;$/;"	m	struct:__anon65	file:
+s	boost.c	/^typedef struct {PyObject **p; char *s; const Py_ssize_t n; const char* encoding;$/;"	m	struct:__anon2	file:
+s	boost.cpp	/^typedef struct {PyObject **p; char *s; const Py_ssize_t n; const char* encoding;$/;"	m	struct:__anon6	file:
+s	deepboost.c	/^typedef struct {PyObject **p; char *s; const Py_ssize_t n; const char* encoding;$/;"	m	struct:__anon34	file:
+s	deepboost.cpp	/^typedef struct {PyObject **p; char *s; const Py_ssize_t n; const char* encoding;$/;"	m	struct:__anon62	file:
+setup	setup.py	/^from distutils.core import setup$/;"	i
+shape	boost.cpp	/^  Py_ssize_t shape, strides, suboffsets;$/;"	m	struct:__anon14	file:
+shape	deepboost.c	/^  Py_ssize_t shape, strides, suboffsets;$/;"	m	struct:__anon42	file:
+shape	deepboost.cpp	/^  Py_ssize_t shape, strides, suboffsets;$/;"	m	struct:__anon70	file:
+size	boost.cpp	/^  size_t size;$/;"	m	struct:__anon7	file:
+size	deepboost.c	/^  size_t size;$/;"	m	struct:__anon35	file:
+size	deepboost.cpp	/^  size_t size;$/;"	m	struct:__anon63	file:
+split_feature	types.h	/^  Feature split_feature;  \/\/ Split feature.$/;"	m	struct:Node
+split_value	types.h	/^  Value split_value;  \/\/ Split value.$/;"	m	struct:Node
+strides	boost.cpp	/^  Py_ssize_t shape, strides, suboffsets;$/;"	m	struct:__anon14	file:
+strides	deepboost.c	/^  Py_ssize_t shape, strides, suboffsets;$/;"	m	struct:__anon42	file:
+strides	deepboost.cpp	/^  Py_ssize_t shape, strides, suboffsets;$/;"	m	struct:__anon70	file:
+struct_alignment	boost.cpp	/^  size_t struct_alignment;$/;"	m	struct:__anon9	file:
+struct_alignment	deepboost.c	/^  size_t struct_alignment;$/;"	m	struct:__anon37	file:
+struct_alignment	deepboost.cpp	/^  size_t struct_alignment;$/;"	m	struct:__anon65	file:
+suboffsets	boost.cpp	/^  Py_ssize_t shape, strides, suboffsets;$/;"	m	struct:__anon14	file:
+suboffsets	deepboost.c	/^  Py_ssize_t shape, strides, suboffsets;$/;"	m	struct:__anon42	file:
+suboffsets	deepboost.cpp	/^  Py_ssize_t shape, strides, suboffsets;$/;"	m	struct:__anon70	file:
+the_normalizer	tree.cc	/^static float the_normalizer;$/;"	v	file:
+tree_depth	boost_test.cc	/^DECLARE_int32(tree_depth);$/;"	v
+tree_depth	driver.cc	/^DECLARE_int32(tree_depth);$/;"	v
+tree_depth	tree_test.cc	/^DECLARE_int32(tree_depth);$/;"	v
+type	boost.cpp	/^  __Pyx_TypeInfo* type;$/;"	m	struct:__Pyx_StructField_	file:
+type	deepboost.c	/^  __Pyx_TypeInfo* type;$/;"	m	struct:__Pyx_StructField_	file:
+type	deepboost.cpp	/^  __Pyx_TypeInfo* type;$/;"	m	struct:__Pyx_StructField_	file:
+typegroup	boost.cpp	/^  char typegroup;$/;"	m	struct:__anon7	file:
+typegroup	deepboost.c	/^  char typegroup;$/;"	m	struct:__anon35	file:
+typegroup	deepboost.cpp	/^  char typegroup;$/;"	m	struct:__anon63	file:
+unlikely	boost.c	/^  #define unlikely(/;"	d	file:
+unlikely	boost.cpp	/^  #define unlikely(/;"	d	file:
+unlikely	deepboost.c	/^  #define unlikely(/;"	d	file:
+unlikely	deepboost.cpp	/^  #define unlikely(/;"	d	file:
+values	types.h	/^  vector<Value> values;$/;"	m	struct:Example
+vector	cboost.pxd	/^from libcpp.vector cimport vector$/;"	i
+vector	deepboost.pyx	/^from libcpp.vector cimport vector$/;"	i
+weight	types.h	/^  Weight weight;$/;"	m	struct:Example
+x	boost.cpp	/^typedef struct { PY_LONG_LONG x; char c; } __Pyx_pad_longlong;$/;"	m	struct:__anon32	file:
+x	boost.cpp	/^typedef struct { char c; PY_LONG_LONG x; } __Pyx_st_longlong;$/;"	m	struct:__anon24	file:
+x	boost.cpp	/^typedef struct { char c; double x; } __Pyx_st_double;$/;"	m	struct:__anon21	file:
+x	boost.cpp	/^typedef struct { char c; float x; } __Pyx_st_float;$/;"	m	struct:__anon20	file:
+x	boost.cpp	/^typedef struct { char c; int x; } __Pyx_st_int;$/;"	m	struct:__anon18	file:
+x	boost.cpp	/^typedef struct { char c; long double x; } __Pyx_st_longdouble;$/;"	m	struct:__anon22	file:
+x	boost.cpp	/^typedef struct { char c; long x; } __Pyx_st_long;$/;"	m	struct:__anon19	file:
+x	boost.cpp	/^typedef struct { char c; short x; } __Pyx_st_short;$/;"	m	struct:__anon17	file:
+x	boost.cpp	/^typedef struct { char c; void *x; } __Pyx_st_void_p;$/;"	m	struct:__anon23	file:
+x	boost.cpp	/^typedef struct { double x; char c; } __Pyx_pad_double;$/;"	m	struct:__anon29	file:
+x	boost.cpp	/^typedef struct { float x; char c; } __Pyx_pad_float;$/;"	m	struct:__anon28	file:
+x	boost.cpp	/^typedef struct { int x; char c; } __Pyx_pad_int;$/;"	m	struct:__anon26	file:
+x	boost.cpp	/^typedef struct { long double x; char c; } __Pyx_pad_longdouble;$/;"	m	struct:__anon30	file:
+x	boost.cpp	/^typedef struct { long x; char c; } __Pyx_pad_long;$/;"	m	struct:__anon27	file:
+x	boost.cpp	/^typedef struct { short x; char c; } __Pyx_pad_short;$/;"	m	struct:__anon25	file:
+x	boost.cpp	/^typedef struct { void *x; char c; } __Pyx_pad_void_p;$/;"	m	struct:__anon31	file:
+x	deepboost.c	/^typedef struct { PY_LONG_LONG x; char c; } __Pyx_pad_longlong;$/;"	m	struct:__anon60	file:
+x	deepboost.c	/^typedef struct { char c; PY_LONG_LONG x; } __Pyx_st_longlong;$/;"	m	struct:__anon52	file:
+x	deepboost.c	/^typedef struct { char c; double x; } __Pyx_st_double;$/;"	m	struct:__anon49	file:
+x	deepboost.c	/^typedef struct { char c; float x; } __Pyx_st_float;$/;"	m	struct:__anon48	file:
+x	deepboost.c	/^typedef struct { char c; int x; } __Pyx_st_int;$/;"	m	struct:__anon46	file:
+x	deepboost.c	/^typedef struct { char c; long double x; } __Pyx_st_longdouble;$/;"	m	struct:__anon50	file:
+x	deepboost.c	/^typedef struct { char c; long x; } __Pyx_st_long;$/;"	m	struct:__anon47	file:
+x	deepboost.c	/^typedef struct { char c; short x; } __Pyx_st_short;$/;"	m	struct:__anon45	file:
+x	deepboost.c	/^typedef struct { char c; void *x; } __Pyx_st_void_p;$/;"	m	struct:__anon51	file:
+x	deepboost.c	/^typedef struct { double x; char c; } __Pyx_pad_double;$/;"	m	struct:__anon57	file:
+x	deepboost.c	/^typedef struct { float x; char c; } __Pyx_pad_float;$/;"	m	struct:__anon56	file:
+x	deepboost.c	/^typedef struct { int x; char c; } __Pyx_pad_int;$/;"	m	struct:__anon54	file:
+x	deepboost.c	/^typedef struct { long double x; char c; } __Pyx_pad_longdouble;$/;"	m	struct:__anon58	file:
+x	deepboost.c	/^typedef struct { long x; char c; } __Pyx_pad_long;$/;"	m	struct:__anon55	file:
+x	deepboost.c	/^typedef struct { short x; char c; } __Pyx_pad_short;$/;"	m	struct:__anon53	file:
+x	deepboost.c	/^typedef struct { void *x; char c; } __Pyx_pad_void_p;$/;"	m	struct:__anon59	file:
+x	deepboost.cpp	/^typedef struct { PY_LONG_LONG x; char c; } __Pyx_pad_longlong;$/;"	m	struct:__anon88	file:
+x	deepboost.cpp	/^typedef struct { char c; PY_LONG_LONG x; } __Pyx_st_longlong;$/;"	m	struct:__anon80	file:
+x	deepboost.cpp	/^typedef struct { char c; double x; } __Pyx_st_double;$/;"	m	struct:__anon77	file:
+x	deepboost.cpp	/^typedef struct { char c; float x; } __Pyx_st_float;$/;"	m	struct:__anon76	file:
+x	deepboost.cpp	/^typedef struct { char c; int x; } __Pyx_st_int;$/;"	m	struct:__anon74	file:
+x	deepboost.cpp	/^typedef struct { char c; long double x; } __Pyx_st_longdouble;$/;"	m	struct:__anon78	file:
+x	deepboost.cpp	/^typedef struct { char c; long x; } __Pyx_st_long;$/;"	m	struct:__anon75	file:
+x	deepboost.cpp	/^typedef struct { char c; short x; } __Pyx_st_short;$/;"	m	struct:__anon73	file:
+x	deepboost.cpp	/^typedef struct { char c; void *x; } __Pyx_st_void_p;$/;"	m	struct:__anon79	file:
+x	deepboost.cpp	/^typedef struct { double x; char c; } __Pyx_pad_double;$/;"	m	struct:__anon85	file:
+x	deepboost.cpp	/^typedef struct { float x; char c; } __Pyx_pad_float;$/;"	m	struct:__anon84	file:
+x	deepboost.cpp	/^typedef struct { int x; char c; } __Pyx_pad_int;$/;"	m	struct:__anon82	file:
+x	deepboost.cpp	/^typedef struct { long double x; char c; } __Pyx_pad_longdouble;$/;"	m	struct:__anon86	file:
+x	deepboost.cpp	/^typedef struct { long x; char c; } __Pyx_pad_long;$/;"	m	struct:__anon83	file:
+x	deepboost.cpp	/^typedef struct { short x; char c; } __Pyx_pad_short;$/;"	m	struct:__anon81	file:
+x	deepboost.cpp	/^typedef struct { void *x; char c; } __Pyx_pad_void_p;$/;"	m	struct:__anon87	file:

@@ -19,12 +19,11 @@ limitations under the License.
 #include <float.h>
 #include <math.h>
 
-#include "gflags/gflags.h"
-#include "glog/logging.h"
+//#include "gflags/gflags.h"
+//#include "glog/logging.h"
 #include "tree.h"
 
-DEFINE_string(loss_type, "",
-              "Loss type. Required: One of exponential, logistic.");
+//DEFINE_string(loss_type, "", "Loss type. Required: One of exponential, logistic.");
 
 float ComputeEta(float wgtd_error, float tree_size, float alpha) {
   wgtd_error = fmax(wgtd_error, kTolerance);  // Helps with division by zero.
@@ -48,29 +47,40 @@ float ComputeEta(float wgtd_error, float tree_size, float alpha) {
 void AddTreeToModel(vector<Example>& examples, Model* model) {
   // Initialize normalizer
   static float normalizer;
-  if (model->empty()) {
-    if (FLAGS_loss_type == "exponential") {
+  printf("[AddTreeToModel] start\n");
+  if (model->model.empty()) {
+    if (model->loss_type == DB_LOSS_EXPONENTIAL) {
       normalizer = exp(1) * static_cast<float>(examples.size());
-    } else if (FLAGS_loss_type == "logistic") {
+    //} else if (FLAGS_loss_type == "logistic") {
+    } else {
       normalizer =
           static_cast<float>(examples.size()) / (log(2) * (1 + exp(-1)));
-    } else {
-      LOG(FATAL) << "Unexpected loss type: " << FLAGS_loss_type;
     }
+    //} else {
+    //  LOG(FATAL) << "Unexpected loss type: " << FLAGS_loss_type;
+    //}
   }
+  printf("[AddTreeToModel] now InitializeTreeData\n");
   InitializeTreeData(examples, normalizer);
   int best_old_tree_idx = -1;
   float best_wgtd_error, wgtd_error, gradient, best_gradient = 0;
 
   // Find best old tree
   bool old_tree_is_best = false;
-  for (int i = 0; i < model->size(); ++i) {
-    const float alpha = (*model)[i].first;
+  printf("[AddTreeToModel] now find best old tree\n");
+  for (int i = 0; i < model->model.size(); ++i) {
+    //const float alpha = (*model->model)[i].first;
+    printf("[AddTreeToModel] %d\n", i);
+    const float alpha = (model->model)[i].first;
     if (fabs(alpha) < kTolerance) continue;  // Skip zeroed-out weights.
-    const Tree& old_tree = (*model)[i].second;
+    //const Tree& old_tree = (*model->model)[i].second;
+    const Tree& old_tree = (model->model)[i].second;
+    printf("[AddTreeToModel] now EvaluateTreeWgtd\n");
     wgtd_error = EvaluateTreeWgtd(examples, old_tree);
     int sign_edge = (wgtd_error >= 0.5) ? 1 : -1;
+    printf("[AddTreeToModel] now Gradient\n");
     gradient = Gradient(wgtd_error, old_tree.size(), alpha, sign_edge);
+    printf("[AddTreeToModel] post Gradient %.4f\n", gradient);
     if (fabs(gradient) >= fabs(best_gradient)) {
       best_gradient = gradient;
       best_wgtd_error = wgtd_error;
@@ -83,7 +93,7 @@ void AddTreeToModel(vector<Example>& examples, Model* model) {
   Tree new_tree = TrainTree(examples);
   wgtd_error = EvaluateTreeWgtd(examples, new_tree);
   gradient = Gradient(wgtd_error, new_tree.size(), 0, -1);
-  if (model->empty() || fabs(gradient) > fabs(best_gradient)) {
+  if (model->model.empty() || fabs(gradient) > fabs(best_gradient)) {
     best_gradient = gradient;
     best_wgtd_error = wgtd_error;
     old_tree_is_best = false;
@@ -93,17 +103,20 @@ void AddTreeToModel(vector<Example>& examples, Model* model) {
   float alpha;
   const Tree* tree;
   if (old_tree_is_best) {
-    alpha = (*model)[best_old_tree_idx].first;
-    tree = &((*model)[best_old_tree_idx].second);
+    //alpha = (*model->model)[best_old_tree_idx].first;
+    alpha = (model->model)[best_old_tree_idx].first;
+    //tree = &((*model->model)[best_old_tree_idx].second);
+    tree = &((model->model)[best_old_tree_idx].second);
   } else {
     alpha = 0;
     tree = &(new_tree);
   }
   const float eta = ComputeEta(best_wgtd_error, tree->size(), alpha);
   if (old_tree_is_best) {
-    (*model)[best_old_tree_idx].first += eta;
+    //(*model->model)[best_old_tree_idx].first += eta;
+    (model->model)[best_old_tree_idx].first += eta;
   } else {
-    model->push_back(make_pair(eta, new_tree));
+    model->model.push_back(make_pair(eta, new_tree));
   }
 
   // Update examples weights and compute normalizer
@@ -111,15 +124,18 @@ void AddTreeToModel(vector<Example>& examples, Model* model) {
   normalizer = 0;
   for (Example& example : examples) {
     const float u = eta * example.label * ClassifyExample(example, *tree);
-    if (FLAGS_loss_type == "exponential") {
+    //if (FLAGS_loss_type == "exponential") {
+    if (model->loss_type == DB_LOSS_EXPONENTIAL) {
       example.weight *= exp(-u);
-    } else if (FLAGS_loss_type == "logistic") {
+    //} else if (FLAGS_loss_type == "logistic") {
+    } else {
       const float z = (1 - log(2) * example.weight * old_normalizer) /
                       (log(2) * example.weight * old_normalizer);
       example.weight = 1 / (log(2) * (1 + z * exp(u)));
-    } else {
-      LOG(FATAL) << "Unexpected loss type: " << FLAGS_loss_type;
     }
+    //} else {
+    //  LOG(FATAL) << "Unexpected loss type: " << FLAGS_loss_type;
+    //}
     normalizer += example.weight;
   }
 
@@ -132,7 +148,7 @@ void AddTreeToModel(vector<Example>& examples, Model* model) {
 
 Label ClassifyExample(const Example& example, const Model& model) {
   float score = 0;
-  for (const pair<Weight, Tree>& wgtd_tree : model) {
+  for (const pair<Weight, Tree>& wgtd_tree : model.model) {
     score += wgtd_tree.first * ClassifyExample(example, wgtd_tree.second);
   }
   if (score < 0) {
@@ -152,7 +168,8 @@ void EvaluateModel(const vector<Example>& examples, const Model& model,
   }
   *num_trees = 0;
   int sum_tree_size = 0;
-  for (const pair<Weight, Tree>& wgtd_tree : model) {
+  //for (const pair<Weight, Tree>& wgtd_tree : model->model) {
+  for (const pair<Weight, Tree>& wgtd_tree : model.model) {
     if (fabs(wgtd_tree.first) >= kTolerance) {
       ++(*num_trees);
       sum_tree_size += wgtd_tree.second.size();

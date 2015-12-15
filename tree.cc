@@ -18,14 +18,17 @@ limitations under the License.
 
 #include "tree.h"
 
-#include "gflags/gflags.h"
-#include "glog/logging.h"
+//#include "gflags/gflags.h"
+//#include "glog/logging.h"
 
-DEFINE_double(beta, -1.0, "beta parameter for gradient.");
-DEFINE_double(lambda, -1.0, "lambda parameter for gradient.");
-DEFINE_int32(tree_depth, -1,
-             "Maximum depth of each decision tree. The root node has depth 0. "
-             "Required: tree_depth >= 0.");
+//DEFINE_double(beta, -1.0, "beta parameter for gradient.");
+//DEFINE_double(lambda, -1.0, "lambda parameter for gradient.");
+//DEFINE_int32(tree_depth, -1,
+//             "Maximum depth of each decision tree. The root node has depth 0. "
+//             "Required: tree_depth >= 0.");
+#define BETA 0.0
+#define LAMBDA 0.0
+#define TREE_DEPTH 2
 
 // TODO(usyed): Global variables are bad style.
 static int num_features;
@@ -34,7 +37,7 @@ static float the_normalizer;
 static bool is_initialized = false;
 
 void InitializeTreeData(const vector<Example>& examples, float normalizer) {
-  CHECK_GE(examples.size(), 1);
+  //CHECK_GE(examples.size(), 1);
   num_examples = examples.size();
   num_features = examples[0].values.size();
   the_normalizer = normalizer;
@@ -128,7 +131,7 @@ void MakeChildNodes(Feature split_feature, Value split_value, Node* parent,
 }
 
 Tree TrainTree(const vector<Example>& examples) {
-  CHECK(is_initialized);
+  //CHECK(is_initialized);
   Tree tree;
   tree.push_back(MakeRootNode(examples));
   NodeId node_id = 0;
@@ -151,7 +154,8 @@ Tree TrainTree(const vector<Example>& examples) {
         best_split_value = split_value;
       }
     }
-    if (node.depth < FLAGS_tree_depth && best_delta_gradient > kTolerance) {
+    //if (node.depth < FLAGS_tree_depth && best_delta_gradient > kTolerance) {
+    if (node.depth < TREE_DEPTH && best_delta_gradient > kTolerance) {
       MakeChildNodes(best_split_feature, best_split_value, &node, &tree);
     }
     ++node_id;
@@ -160,9 +164,11 @@ Tree TrainTree(const vector<Example>& examples) {
 }
 
 Label ClassifyExample(const Example& example, const Tree& tree) {
-  CHECK_GE(tree.size(), 1);
+  printf("[ClassifyExample] start\n");
+  //CHECK_GE(tree.size(), 1);
   const Node* node = &tree[0];
   while (node->leaf == false) {
+    printf("[ClassifyExample] loop\n");
     if (example.values[node->split_feature] <= node->split_value) {
       node = &tree[node->left_child_id];
     } else {
@@ -191,8 +197,10 @@ float Gradient(float wgtd_error, int tree_size, float alpha, int sign_edge) {
 }
 
 float EvaluateTreeWgtd(const vector<Example>& examples, const Tree& tree) {
+    printf("[EvaluateTreeWgtd] start\n");
   float wgtd_error = 0;
   for (const Example& example : examples) {
+      printf("[EvaluateTreeWgtd] ex\n");
     if (ClassifyExample(example, tree) != example.label) {
       wgtd_error += example.weight;
     }
@@ -201,11 +209,13 @@ float EvaluateTreeWgtd(const vector<Example>& examples, const Tree& tree) {
 }
 
 float ComplexityPenalty(int tree_size) {
-  CHECK(is_initialized);
+  //CHECK(is_initialized);
   float rademacher =
       sqrt(((2 * tree_size + 1) * (log(num_features + 2) / log(2)) *
             log(num_examples)) /
            num_examples);
-  return ((FLAGS_lambda * rademacher + FLAGS_beta) * num_examples) /
+  //return ((FLAGS_lambda * rademacher + FLAGS_beta) * num_examples) /
+  //       (2 * the_normalizer);
+  return ((LAMBDA * rademacher + BETA) * num_examples) /
          (2 * the_normalizer);
 }

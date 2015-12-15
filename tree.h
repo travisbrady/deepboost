@@ -38,7 +38,7 @@ void MakeChildNodes(Feature split_feature, Value split_value, Node* parent,
 // that value for feature, and the second weight in the pair is the total weight
 // of negative examples at node that have that value for feature. This map is
 // used to determine the best split feature/value.
-map<Value, pair<Weight, Weight>> MakeValueToWeightsMap(const Node& node,
+map<Value, pair<Weight, Weight> > MakeValueToWeightsMap(const Node& node,
                                                        Feature feature);
 
 // Given a value-to-weights map for a feature (constructed by
@@ -46,7 +46,7 @@ map<Value, pair<Weight, Weight>> MakeValueToWeightsMap(const Node& node,
 // the improvement in the gradient of the objective if we split on that value.
 // Note that delta_gradient <= 0 indicates that we should not split on this
 // feature.
-void BestSplitValue(const map<Value, pair<Weight, Weight>>& value_to_weights,
+void BestSplitValue(const map<Value, pair<Weight, Weight> >& value_to_weights,
                     const Node& node, int tree_size, Value* split_value,
                     float* delta_gradient);
 

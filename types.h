@@ -61,6 +61,12 @@ typedef vector<Node> Tree;
 
 // A model is a vector of (weight, tree) pairs, i.e., a weighted combination of
 // trees.
-typedef vector<pair<Weight, Tree>> Model;
+//typedef vector<pair<Weight, Tree> > Model;
+enum LossType { DB_LOSS_EXPONENTIAL, DB_LOSS_LOGISTIC };
+
+typedef struct Model {
+    vector<pair<Weight, Tree> > model;
+    LossType loss_type;
+} Model;
 
 #endif  // TYPES_H_
